@@ -23,12 +23,15 @@ concurrency:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   poll:
     runs-on: ubuntu-latest
     timeout-minutes: 15
-
+    environment: github-pages
+    
     steps:
       - uses: actions/checkout@v4
 
@@ -67,6 +70,17 @@ jobs:
           done
           echo "::warning::could not push state after 3 attempts"
 
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload dashboard
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: docs
+
+      - name: Deploy dashboard
+        uses: actions/deploy-pages@v4
+        
       - name: Report failure to Discord
         if: failure()
         env:
