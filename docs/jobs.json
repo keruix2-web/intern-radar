@@ -1,5 +1,5 @@
 {
- "generated_at": 1791693190,
+ "generated_at": 1791693388,
  "count": 481,
  "jobs": [
   {
@@ -21,7 +21,7 @@
     "hardware engineer (+3)",
     "hardware (+2)"
    ],
-   "first_seen": 1791614515,
+   "first_seen": 1791693388,
    "uid": "841c20d43a9ad2cc"
   },
   {
@@ -42,7 +42,7 @@
    "reasons": [
     "asic (+3)"
    ],
-   "first_seen": 1791593436,
+   "first_seen": 1791693388,
    "uid": "dd9466ab86742da0"
   },
   {
@@ -64,7 +64,7 @@
    "reasons": [
     "asic (+3)"
    ],
-   "first_seen": 1791593436,
+   "first_seen": 1791693388,
    "uid": "646f00c9d7f92ea2"
   },
   {
@@ -87,7 +87,7 @@
     "mixed signal (+3)",
     "analog (+2)"
    ],
-   "first_seen": 1791593436,
+   "first_seen": 1791693388,
    "uid": "945ce6f1841feaa5"
   },
   {
@@ -109,7 +109,7 @@
     "hardware engineering (+3)",
     "hardware (+2)"
    ],
-   "first_seen": 1791563268,
+   "first_seen": 1791693388,
    "uid": "ca6a2c17aa387151"
   },
   {
@@ -131,7 +131,7 @@
     "ic design (+3)",
     "analog (+2)"
    ],
-   "first_seen": 1791512682,
+   "first_seen": 1791693388,
    "uid": "be9fc1c20000429a"
   },
   {
@@ -153,7 +153,7 @@
     "electrical (+2)",
     "pcb (+2)"
    ],
-   "first_seen": 1791563268,
+   "first_seen": 1791693388,
    "uid": "0c75f7691d8f2555"
   },
   {
@@ -174,7 +174,7 @@
    "reasons": [
     "validation (+2)"
    ],
-   "first_seen": 1791563268,
+   "first_seen": 1791693388,
    "uid": "d7765275b6b5cf85"
   },
   {
@@ -195,7 +195,7 @@
    "reasons": [
     "asic (+3)"
    ],
-   "first_seen": 1791593436,
+   "first_seen": 1791693388,
    "uid": "f327b603ffe37fa9"
   },
   {
@@ -216,7 +216,7 @@
    "reasons": [
     "electrical (+2)"
    ],
-   "first_seen": 1791593436,
+   "first_seen": 1791693388,
    "uid": "b28191660efca6c2"
   },
   {
@@ -241,7 +241,7 @@
    "reasons": [
     "physical design (+3)"
    ],
-   "first_seen": 1791593436,
+   "first_seen": 1791693388,
    "uid": "cc661b9379a03e6f"
   },
   {
@@ -263,7 +263,7 @@
     "electrical (+2)",
     "electrical engineering (+2)"
    ],
-   "first_seen": 1791512682,
+   "first_seen": 1791693388,
    "uid": "5e3229340cd67d49"
   },
   {
@@ -285,7 +285,7 @@
    "reasons": [
     "electrical (+2)"
    ],
-   "first_seen": 1791480300,
+   "first_seen": 1791693388,
    "uid": "7d0ab54735c9667b"
   },
   {
@@ -307,7 +307,7 @@
     "electrical (+2)",
     "electrical engineering (+2)"
    ],
-   "first_seen": 1788447714,
+   "first_seen": 1791693388,
    "uid": "66d17dfc7eb188bc"
   },
   {
@@ -329,7 +329,7 @@
     "electrical (+2)",
     "electrical engineering (+2)"
    ],
-   "first_seen": 1791480300,
+   "first_seen": 1791693388,
    "uid": "28281b8f784171d5"
   },
   {
@@ -351,7 +351,7 @@
     "hardware engineer (+3)",
     "hardware (+2)"
    ],
-   "first_seen": 1791480300,
+   "first_seen": 1791693388,
    "uid": "051fe6d40d04a1f8"
   },
   {
@@ -374,7 +374,7 @@
     "verification (+2)",
     "asic verification (+2)"
    ],
-   "first_seen": 1791538011,
+   "first_seen": 1791693388,
    "uid": "90ebad397c2fd877"
   },
   {
@@ -395,7 +395,7 @@
    "reasons": [
     "hardware (+2)"
    ],
-   "first_seen": 1791416435,
+   "first_seen": 1791693388,
    "uid": "1ba570cfa857a647"
   },
   {
@@ -417,7 +417,7 @@
     "analog design (+3)",
     "analog (+2)"
    ],
-   "first_seen": 1791416435,
+   "first_seen": 1791693388,
    "uid": "4a7e86be7b6a59e4"
   },
   {
@@ -438,7 +438,7 @@
    "reasons": [
     "fpga (+3)"
    ],
-   "first_seen": 1791416435,
+   "first_seen": 1791693388,
    "uid": "71324b1a0699b672"
   },
   {
@@ -459,7 +459,7 @@
    "reasons": [
     "electronics (+2)"
    ],
-   "first_seen": 1791400804,
+   "first_seen": 1791693388,
    "uid": "adbb60182942ce81"
   },
   {
@@ -486,7 +486,7 @@
     "chip (+3)",
     "hardware (+2)"
    ],
-   "first_seen": 1791378591,
+   "first_seen": 1791693388,
    "uid": "67c89d23860601d7"
   },
   {
@@ -513,7 +513,7 @@
     "physical design (+3)",
     "dft (+3)"
    ],
-   "first_seen": 1791378591,
+   "first_seen": 1791693388,
    "uid": "dd99856dea20feb0"
   },
   {
@@ -534,7 +534,7 @@
    "reasons": [
     "validation (+2)"
    ],
-   "first_seen": 1791352732,
+   "first_seen": 1791693388,
    "uid": "8c0254d589d4075c"
   },
   {
@@ -555,7 +555,7 @@
    "reasons": [
     "asic (+3)"
    ],
-   "first_seen": 1791416435,
+   "first_seen": 1791693388,
    "uid": "7f602e434c5ad1cb"
   },
   {
