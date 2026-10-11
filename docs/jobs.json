@@ -1,6 +1,6 @@
 {
- "generated_at": 1791693388,
- "count": 481,
+ "generated_at": 1791716527,
+ "count": 482,
  "jobs": [
   {
    "source": "Simplify",
@@ -9265,6 +9265,27 @@
    ],
    "first_seen": 1788460724,
    "uid": "e6f8c7b2b8668d28"
+  },
+  {
+   "source": "Simplify",
+   "company": "Varda Space",
+   "title": "Avionics Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824780003",
+   "locations": [
+    "El Segundo, CA"
+   ],
+   "posted_at": 1786140460,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "aerospace",
+   "score": 2,
+   "reasons": [
+    "avionics (+2)"
+   ],
+   "first_seen": 1791716527,
+   "uid": "7cd90dd3357655b4"
   },
   {
    "source": "Simplify",
