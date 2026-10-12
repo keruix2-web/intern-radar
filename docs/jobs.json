@@ -1,6 +1,6 @@
 {
- "generated_at": 1791783899,
- "count": 478,
+ "generated_at": 1791812078,
+ "count": 475,
  "jobs": [
   {
    "source": "Simplify",
@@ -5214,28 +5214,6 @@
   {
    "source": "Simplify",
    "company": "Google",
-   "title": "Silicon Engineering Intern - BS/MS - Multiple Teams",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/88570332985598662",
-   "locations": [
-    "Madison, WI",
-    "Sunnyvale, CA"
-   ],
-   "posted_at": 1789417431,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "silicon (+3)"
-   ],
-   "first_seen": 1789424135,
-   "uid": "7535d03a08ddda17"
-  },
-  {
-   "source": "Simplify",
-   "company": "Google",
    "title": "Hardware Engineer Intern - PhD",
    "url": "https://www.google.com/about/careers/applications/jobs/results/97352132356645574",
    "locations": [
@@ -5284,58 +5262,6 @@
    ],
    "first_seen": 1789424135,
    "uid": "46cd886019cb4f1c"
-  },
-  {
-   "source": "Simplify",
-   "company": "Google",
-   "title": "Hardware Engineer Intern",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/122803627516404422",
-   "locations": [
-    "Palo Alto, CA",
-    "Cambridge, MA",
-    "Madison, WI",
-    "Seattle, WA",
-    "Washington, DC",
-    "SF",
-    "Austin, TX",
-    "LA",
-    "San Jose, CA",
-    "Irvine, CA",
-    "South SF",
-    "Redwood City, CA",
-    "Raleigh, NC",
-    "San Bruno, CA",
-    "Redmond, WA",
-    "Durham, NC",
-    "Ann Arbor, MI",
-    "Santa Cruz, CA",
-    "Chicago, IL",
-    "Goleta, CA",
-    "Pittsburgh, PA",
-    "Kirkland, WA",
-    "Reston, VA",
-    "NYC",
-    "Bellevue, WA",
-    "Sunnyvale, CA",
-    "Mountain View, CA",
-    "Portland, OR",
-    "Boulder, CO",
-    "Atlanta, GA",
-    "San Diego, CA"
-   ],
-   "posted_at": 1789417416,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware engineer (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1789424135,
-   "uid": "32cc818e9e42f4e2"
   },
   {
    "source": "Simplify",
@@ -8978,29 +8904,6 @@
    ],
    "first_seen": 1787135234,
    "uid": "a28cb90d4c92d70a"
-  },
-  {
-   "source": "Simplify",
-   "company": "NVIDIA",
-   "title": "Hardware Physical Design / VLSI Intern",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "posted_at": 1787097600,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 8,
-   "reasons": [
-    "vlsi (+3)",
-    "physical design (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1787135234,
-   "uid": "411afaf73cdb9e99"
   },
   {
    "source": "Simplify",
