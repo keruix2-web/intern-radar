@@ -1,6 +1,6 @@
 {
- "generated_at": 1791812078,
- "count": 475,
+ "generated_at": 1791841955,
+ "count": 473,
  "jobs": [
   {
    "source": "Simplify",
@@ -155,27 +155,6 @@
    ],
    "first_seen": 1791693388,
    "uid": "0c75f7691d8f2555"
-  },
-  {
-   "source": "Simplify",
-   "company": "Motorola",
-   "title": "Design Validation Co-op",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Design-Validation-Co-op_R69631",
-   "locations": [
-    "Vancouver, BC, Canada"
-   ],
-   "posted_at": 1791504000,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "validation (+2)"
-   ],
-   "first_seen": 1791693388,
-   "uid": "d7765275b6b5cf85"
   },
   {
    "source": "Simplify",
@@ -440,27 +419,6 @@
    ],
    "first_seen": 1791693388,
    "uid": "71324b1a0699b672"
-  },
-  {
-   "source": "Simplify",
-   "company": "S&C Electric Company",
-   "title": "Electronics Engineer Intern",
-   "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107358",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "posted_at": 1791382888,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electronics (+2)"
-   ],
-   "first_seen": 1791693388,
-   "uid": "adbb60182942ce81"
   },
   {
    "source": "Simplify",
@@ -1187,27 +1145,6 @@
    ],
    "first_seen": 1791331311,
    "uid": "a7db8b86648b55e2"
-  },
-  {
-   "source": "Simplify",
-   "company": "KLA",
-   "title": "Electrical Design Engineer Intern",
-   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Electrical-Design-Engineering-Intern_2641708",
-   "locations": [
-    "Ann Arbor, MI"
-   ],
-   "posted_at": 1791244800,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1791331311,
-   "uid": "d097546d2a990be8"
   },
   {
    "source": "Simplify",
@@ -2122,6 +2059,28 @@
    ],
    "first_seen": 1790903858,
    "uid": "05a2f1caf8731ad7"
+  },
+  {
+   "source": "Simplify",
+   "company": "Space Dynamics Laboratory",
+   "title": "FPGA Electrical Engineer Intern - Civil & Commercial Space Division",
+   "url": "https://spacedynamicslaboratory.applytojob.com/apply/SznZA6uzbW/CVS-FPGA-Electrical-Engineer-Intern",
+   "locations": [
+    "North Logan, UT"
+   ],
+   "posted_at": 1790864633,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "fpga (+3)",
+    "electrical (+2)"
+   ],
+   "first_seen": 1790875351,
+   "uid": "a666b7a6a31ecb12"
   },
   {
    "source": "Simplify",
@@ -3076,6 +3035,27 @@
   },
   {
    "source": "Simplify",
+   "company": "Graphcore",
+   "title": "Hardware Platform Development Intern",
+   "url": "https://job-boards.greenhouse.io/graphcore/jobs/8841941002",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1790213882,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1790213076,
+   "uid": "b10ba8367eeeeaa6"
+  },
+  {
+   "source": "Simplify",
    "company": "Tesla",
    "title": "Solar Hardware Engineer Intern - PV Cell - Energy Engineering",
    "url": "https://www.tesla.com/careers/search/job/284489",
@@ -3467,27 +3447,6 @@
    ],
    "first_seen": 1790292486,
    "uid": "9e860a8614a0d811"
-  },
-  {
-   "source": "Greenhouse",
-   "company": "Graphcore",
-   "title": "Hardware Platform Development Intern",
-   "url": "https://job-boards.greenhouse.io/graphcore/jobs/8841941002",
-   "locations": [
-    "Austin, Texas, United States"
-   ],
-   "posted_at": 1790207185,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1790213076,
-   "uid": "b10ba8367eeeeaa6"
   },
   {
    "source": "Greenhouse",
@@ -4901,6 +4860,27 @@
    ],
    "first_seen": 1789535833,
    "uid": "946160f487b61ea9"
+  },
+  {
+   "source": "Simplify",
+   "company": "bioM\u00e9rieux",
+   "title": "Hardware Co-op",
+   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
+   "locations": [
+    "Hazelwood, MO"
+   ],
+   "posted_at": 1789510912,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
@@ -6684,27 +6664,6 @@
    ],
    "first_seen": 1791454351,
    "uid": "476efac684f17295"
-  },
-  {
-   "source": "Simplify",
-   "company": "Micron Technology",
-   "title": "DRAM Test Structure Design and Layout Engineering Intern",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Test-Structure-Design-and-Layout-Engineering_JR110341",
-   "locations": [
-    "Boise, ID"
-   ],
-   "posted_at": 1788652800,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "layout (+2)"
-   ],
-   "first_seen": 1788757362,
-   "uid": "dac2400ecc5ba3a5"
   },
   {
    "source": "Simplify",
