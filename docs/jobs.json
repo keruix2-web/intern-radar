@@ -1,7 +1,26 @@
 {
- "generated_at": 1791912983,
- "count": 485,
+ "generated_at": 1791928674,
+ "count": 481,
  "jobs": [
+  {
+   "source": "Greenhouse",
+   "company": "Muon Space",
+   "title": "Spacecraft Test Engineering Intern (Summer 2027)",
+   "url": "https://job-boards.greenhouse.io/muonspace/jobs/5256288007",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1791914077,
+   "terms": [],
+   "sponsorship": "",
+   "category": "aerospace",
+   "score": 2,
+   "reasons": [
+    "spacecraft (+2)"
+   ],
+   "first_seen": 1791928674,
+   "uid": "5d49d05c866c8bf2"
+  },
   {
    "source": "Simplify",
    "company": "Astera Labs",
@@ -2649,28 +2668,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Leidos",
-   "title": "Embedded Design Engineer Intern - Firmware",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "posted_at": 1790726400,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "embedded (+1)",
-    "firmware (+1)"
-   ],
-   "first_seen": 1790812359,
-   "uid": "ea6c23f638957448"
-  },
-  {
-   "source": "Simplify",
    "company": "Tesla",
    "title": "AI Hardware Design Verification Engineer Intern - AI Hardware - Tesla AI",
    "url": "https://www.tesla.com/careers/search/job/285088",
@@ -2848,29 +2845,6 @@
    ],
    "first_seen": 1790723236,
    "uid": "12eb237e749ff30c"
-  },
-  {
-   "source": "Simplify",
-   "company": "Leidos",
-   "title": "Electrical Hardware Design Engineer Intern",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00193413",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "posted_at": 1790640000,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 7,
-   "reasons": [
-    "hardware design (+3)",
-    "hardware (+2)",
-    "electrical (+2)"
-   ],
-   "first_seen": 1790723236,
-   "uid": "4373877c5774b93c"
   },
   {
    "source": "Simplify",
@@ -4830,27 +4804,6 @@
   },
   {
    "source": "Simplify",
-   "company": "REV Robotics",
-   "title": "Electrical Engineer Intern",
-   "url": "https://ats.rippling.com/rev-robotics/jobs/43f472ef-6db5-418f-b2b2-72f21ebd7744",
-   "locations": [
-    "Carrollton, TX"
-   ],
-   "posted_at": 1789683495,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1789689303,
-   "uid": "fb545d13a7d67ac1"
-  },
-  {
-   "source": "Simplify",
    "company": "Rivian",
    "title": "Engineering Intern/Co-op - Test and Validation - Charging Products",
    "url": "https://careers.rivian.com/jobs/33725?icims=1",
@@ -6264,28 +6217,6 @@
    ],
    "first_seen": 1791124667,
    "uid": "f2105e5502858ca1"
-  },
-  {
-   "source": "Simplify",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Electrical/Computer Engineer Intern - Intelligence Surveillance & Reconnaissance",
-   "url": "https://careers.jhuapl.edu/jobs/59764?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "posted_at": 1789003192,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 5,
-   "reasons": [
-    "computer engineer (+3)",
-    "electrical (+2)"
-   ],
-   "first_seen": 1789021328,
-   "uid": "0a8547f49b7cc246"
   },
   {
    "source": "Simplify",
@@ -9175,28 +9106,6 @@
    ],
    "first_seen": 1788532392,
    "uid": "88921a6e2b89a29c"
-  },
-  {
-   "source": "Simplify",
-   "company": "Zipline",
-   "title": "Long Range Platform Embedded Firmware Intern - Summer 2027",
-   "url": "https://www.zipline.com/open-roles?gh_jid=7891459003",
-   "locations": [
-    "South SF"
-   ],
-   "posted_at": 1787092359,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "embedded (+1)",
-    "firmware (+1)"
-   ],
-   "first_seen": 1787095247,
-   "uid": "2b52750fe7740e03"
   },
   {
    "source": "Simplify",
