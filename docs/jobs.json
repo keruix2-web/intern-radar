@@ -1,6 +1,6 @@
 {
- "generated_at": 1791886198,
- "count": 484,
+ "generated_at": 1791912983,
+ "count": 485,
  "jobs": [
   {
    "source": "Simplify",
@@ -1874,27 +1874,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Lumentum",
-   "title": "Optical Verification Engineer Co-op Intern",
-   "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_20261208",
-   "locations": [
-    "Ottawa, ON, Canada"
-   ],
-   "posted_at": 1791158400,
-   "terms": [
-    "Winter 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "verification (+2)"
-   ],
-   "first_seen": 1788861415,
-   "uid": "428bebd03ffd7111"
-  },
-  {
-   "source": "Simplify",
    "company": "Intel",
    "title": "CPU Core Physical Design Technical Graduate Intern",
    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/CPU-Core-Physical-Design-Technical-Graduate-Intern--Spring_JR0287613",
@@ -1913,6 +1892,28 @@
    ],
    "first_seen": 1791251675,
    "uid": "1eeb73b7b71e8230"
+  },
+  {
+   "source": "Simplify",
+   "company": "General Motors",
+   "title": "Summer Intern - AI & Hardware Analytics - Adpt",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756",
+   "locations": [
+    "Milford, MI",
+    "Warren, MI"
+   ],
+   "posted_at": 1791158400,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1791251675,
+   "uid": "628c372ad3a6e3a8"
   },
   {
    "source": "Simplify",
@@ -4064,28 +4065,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Saab",
-   "title": "Electrical Engineering Co-op",
-   "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Aspen-Park/Electrical-Engineering-Co-Op--Summer-2027-_R-03293-1",
-   "locations": [
-    "East Syracuse, NY"
-   ],
-   "posted_at": 1790121600,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "electrical (+2)",
-    "electrical engineering (+2)"
-   ],
-   "first_seen": 1790205059,
-   "uid": "79fdc007ad63aa77"
-  },
-  {
-   "source": "Simplify",
    "company": "Analog Devices",
    "title": "Analog Design Engineering Intern",
    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Analog-Design-Engineering-Intern_R266614",
@@ -4848,6 +4827,27 @@
    ],
    "first_seen": 1789689303,
    "uid": "b72de8e103140b1e"
+  },
+  {
+   "source": "Simplify",
+   "company": "REV Robotics",
+   "title": "Electrical Engineer Intern",
+   "url": "https://ats.rippling.com/rev-robotics/jobs/43f472ef-6db5-418f-b2b2-72f21ebd7744",
+   "locations": [
+    "Carrollton, TX"
+   ],
+   "posted_at": 1789683495,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789689303,
+   "uid": "fb545d13a7d67ac1"
   },
   {
    "source": "Simplify",
@@ -6034,6 +6034,27 @@
    ],
    "first_seen": 1789176399,
    "uid": "611e9c16b192dcff"
+  },
+  {
+   "source": "Simplify",
+   "company": "Bedrock Robotics",
+   "title": "Sensor Systems Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/bedrock-robotics/d7da851b-55c2-45d4-bf8b-aa879282f25c/application?embed=true",
+   "locations": [
+    "SF"
+   ],
+   "posted_at": 1789079631,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "sensor (+2)"
+   ],
+   "first_seen": 1791912983,
+   "uid": "1d22251b12564989"
   },
   {
    "source": "Simplify",
@@ -9090,6 +9111,29 @@
   {
    "source": "Simplify",
    "company": "NVIDIA",
+   "title": "Hardware Physical Design / VLSI Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1787097600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 8,
+   "reasons": [
+    "vlsi (+3)",
+    "physical design (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1787135234,
+   "uid": "411afaf73cdb9e99"
+  },
+  {
+   "source": "Simplify",
+   "company": "NVIDIA",
    "title": "Hardware Design for Test Intern - DFT",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1",
    "locations": [
@@ -9389,30 +9433,6 @@
    ],
    "first_seen": 1788310887,
    "uid": "183e08eb24ff1004"
-  },
-  {
-   "source": "Simplify",
-   "company": "Contoro",
-   "title": "Robotics Test & Validation Intern",
-   "url": "https://jobs.ashbyhq.com/contoro/7de98745-6a26-4a96-b82c-0cecf4900eb1/application?embed=true",
-   "locations": [
-    "Austin, TX"
-   ],
-   "posted_at": 1785882020,
-   "terms": [
-    "Spring 2026",
-    "Summer 2026",
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 3,
-   "reasons": [
-    "validation (+2)",
-    "robotics (+1)"
-   ],
-   "first_seen": 1788460724,
-   "uid": "813f291cf79a7109"
   },
   {
    "source": "Simplify",
