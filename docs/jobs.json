@@ -1,6 +1,6 @@
 {
- "generated_at": 1791958169,
- "count": 490,
+ "generated_at": 1791978784,
+ "count": 489,
  "jobs": [
   {
    "source": "Simplify",
@@ -26,6 +26,27 @@
    ],
    "first_seen": 1791958169,
    "uid": "e5a5dbe3aebc1c26"
+  },
+  {
+   "source": "Simplify",
+   "company": "Northrop Grumman",
+   "title": "Electronics Engineering Intern",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Electronics-Engineering-Intern---Annapolis-MD_R10254689-1",
+   "locations": [
+    "Annapolis, MD"
+   ],
+   "posted_at": 1791936000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electronics (+2)"
+   ],
+   "first_seen": 1791978784,
+   "uid": "523734c5d9d1442e"
   },
   {
    "source": "Simplify",
@@ -6981,28 +7002,6 @@
   {
    "source": "Simplify",
    "company": "RTX",
-   "title": "FPGA Electrical Design Engineer Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/FPGA-Electrical-Design-Engineer-Intern--Summer-2027--Onsite-_01872989",
-   "locations": [
-    "Tucson, AZ"
-   ],
-   "posted_at": 1788825600,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "fpga (+3)",
-    "electrical (+2)"
-   ],
-   "first_seen": 1788909145,
-   "uid": "63a0290dca2d2eb9"
-  },
-  {
-   "source": "Simplify",
-   "company": "RTX",
    "title": "Digital Design Electrical Engineer Intern - Summer 2027",
    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Digital-Design-Electrical-Engineer-Intern--Summer-2027--Onsite-_01872991",
    "locations": [
@@ -7957,33 +7956,6 @@
    ],
    "first_seen": 1788415817,
    "uid": "a6e9a3544a3cdcaa"
-  },
-  {
-   "source": "Simplify",
-   "company": "Intel",
-   "title": "Platform Hardware and Systems Engineering Intern",
-   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828",
-   "locations": [
-    "Austin, TX",
-    "Santa Clara, CA",
-    "Hillsboro, OR",
-    "Folsom, CA",
-    "Phoenix, AZ"
-   ],
-   "posted_at": 1788307200,
-   "terms": [
-    "Spring 2027",
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 3,
-   "reasons": [
-    "hardware (+2)",
-    "systems engineering (+1)"
-   ],
-   "first_seen": 1788415817,
-   "uid": "9d5a7fb3fc3758d0"
   },
   {
    "source": "Simplify",
