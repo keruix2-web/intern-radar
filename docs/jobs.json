@@ -1,7 +1,49 @@
 {
- "generated_at": 1792065544,
- "count": 496,
+ "generated_at": 1792083002,
+ "count": 498,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Draper",
+   "title": "Integrated Circuit Intern",
+   "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Integrated-Circuits-Intern_JR003036",
+   "locations": [
+    "Cambridge, MA"
+   ],
+   "posted_at": 1792022400,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "integrated circuit (+3)"
+   ],
+   "first_seen": 1792083002,
+   "uid": "6927c98e212f77db"
+  },
+  {
+   "source": "Simplify",
+   "company": "Motorola Solutions",
+   "title": "Electronics Design Co-op",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Electronics-Design-Co-Op_R69811",
+   "locations": [
+    "Vancouver, BC, Canada"
+   ],
+   "posted_at": 1792022400,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electronics (+2)"
+   ],
+   "first_seen": 1792083002,
+   "uid": "e4bdc9ad338e4cfe"
+  },
   {
    "source": "Simplify",
    "company": "Meta",
@@ -744,27 +786,6 @@
    ],
    "first_seen": 1791859900,
    "uid": "d47d40569dc70cec"
-  },
-  {
-   "source": "Simplify",
-   "company": "RTX",
-   "title": "Electrical Engineer Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-Intern_01874283-1",
-   "locations": [
-    "Tucson, AZ"
-   ],
-   "posted_at": 1791763200,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1790710065,
-   "uid": "2ca52d32fd83a407"
   },
   {
    "source": "Simplify",
@@ -1672,27 +1693,6 @@
    ],
    "first_seen": 1791275734,
    "uid": "b9bf4aa0127a602f"
-  },
-  {
-   "source": "Simplify",
-   "company": "Astera Labs",
-   "title": "Hardware Lab Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4729020005",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "posted_at": 1791267449,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1791275734,
-   "uid": "49b89c2803434462"
   },
   {
    "source": "Simplify",
@@ -4541,6 +4541,28 @@
   },
   {
    "source": "Simplify",
+   "company": "Saab",
+   "title": "Electrical Engineering Co-op",
+   "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Aspen-Park/Electrical-Engineering-Co-Op--Summer-2027-_R-03293-1",
+   "locations": [
+    "East Syracuse, NY"
+   ],
+   "posted_at": 1790121600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1790205059,
+   "uid": "79fdc007ad63aa77"
+  },
+  {
+   "source": "Simplify",
    "company": "Analog Devices",
    "title": "Analog Design Engineering Intern",
    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Analog-Design-Engineering-Intern_R266614",
@@ -5558,6 +5580,27 @@
    ],
    "first_seen": 1789535833,
    "uid": "946160f487b61ea9"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Electrical Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-Intern_01874283",
+   "locations": [
+    "Tucson, AZ"
+   ],
+   "posted_at": 1789516800,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1790710065,
+   "uid": "2ca52d32fd83a407"
   },
   {
    "source": "Simplify",
