@@ -1,6 +1,6 @@
 {
- "generated_at": 1792045716,
- "count": 497,
+ "generated_at": 1792065544,
+ "count": 496,
  "jobs": [
   {
    "source": "Simplify",
@@ -765,28 +765,6 @@
    ],
    "first_seen": 1790710065,
    "uid": "2ca52d32fd83a407"
-  },
-  {
-   "source": "Simplify",
-   "company": "RTX",
-   "title": "Electrical Engineer Co-op",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Electrical-Engineer-Co-Op--Summer-Fall-2027-_01873470",
-   "locations": [
-    "Cedar Rapids, IA"
-   ],
-   "posted_at": 1791763200,
-   "terms": [
-    "Summer 2027",
-    "Fall 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1790875351,
-   "uid": "1cd04315ae696773"
   },
   {
    "source": "Simplify",
@@ -6121,6 +6099,30 @@
   },
   {
    "source": "Simplify",
+   "company": "Marvell",
+   "title": "Data Center Silicon Hardware Engineering Intern - Winter 2027",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---Winter-2027_2604525",
+   "locations": [
+    "Toronto, ON, Canada",
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1789344000,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 8,
+   "reasons": [
+    "silicon (+3)",
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1789424135,
+   "uid": "8512ca8debc67b92"
+  },
+  {
+   "source": "Simplify",
    "company": "Johnson & Johnson",
    "title": "Electrical Engineer Intern - Robotics R&D",
    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1",
@@ -10824,27 +10826,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "6f7c3ec86032dd79"
-  },
-  {
-   "source": "Simplify",
-   "company": "Jobs for Humanity",
-   "title": "Microdevice and Sensor Systems Postdoc Intern",
-   "url": "https://jobs.smartrecruiters.com/JobsForHumanity/744000016300535",
-   "locations": [
-    "Pasadena, CA"
-   ],
-   "posted_at": 1771917919,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "sensor (+2)"
-   ],
-   "first_seen": 1791124667,
-   "uid": "9621b4d399d5b92d"
   },
   {
    "source": "Simplify",
