@@ -1,6 +1,6 @@
 {
- "generated_at": 1792196189,
- "count": 499,
+ "generated_at": 1792212609,
+ "count": 498,
  "jobs": [
   {
    "source": "Simplify",
@@ -480,27 +480,6 @@
    ],
    "first_seen": 1791958169,
    "uid": "e5a5dbe3aebc1c26"
-  },
-  {
-   "source": "Simplify",
-   "company": "Northrop Grumman",
-   "title": "Electronics Engineering Intern",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Electronics-Engineering-Intern---Annapolis-MD_R10254689-1",
-   "locations": [
-    "Annapolis, MD"
-   ],
-   "posted_at": 1791936000,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electronics (+2)"
-   ],
-   "first_seen": 1791978784,
-   "uid": "523734c5d9d1442e"
   },
   {
    "source": "Simplify",
