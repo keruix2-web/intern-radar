@@ -1,6 +1,6 @@
 {
- "generated_at": 1792253904,
- "count": 499,
+ "generated_at": 1792262615,
+ "count": 498,
  "jobs": [
   {
    "source": "Simplify",
@@ -6295,28 +6295,6 @@
    ],
    "first_seen": 1789424135,
    "uid": "8512ca8debc67b92"
-  },
-  {
-   "source": "Simplify",
-   "company": "Johnson & Johnson",
-   "title": "Electrical Engineer Intern - Robotics R&D",
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "posted_at": 1789344000,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 3,
-   "reasons": [
-    "electrical (+2)",
-    "robotics (+1)"
-   ],
-   "first_seen": 1789433222,
-   "uid": "e0b2da4276ed2d37"
   },
   {
    "source": "Simplify",
