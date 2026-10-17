@@ -1,6 +1,6 @@
 {
- "generated_at": 1792241958,
- "count": 498,
+ "generated_at": 1792253904,
+ "count": 499,
  "jobs": [
   {
    "source": "Simplify",
@@ -216,6 +216,27 @@
    ],
    "first_seen": 1792083002,
    "uid": "e4bdc9ad338e4cfe"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Electrical Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical-Engineering-Intern--Summer-2027--Onsite-_01882705",
+   "locations": [
+    "Marlborough, MA"
+   ],
+   "posted_at": 1792022400,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1792105528,
+   "uid": "10a0565bad3457d6"
   },
   {
    "source": "Simplify",
