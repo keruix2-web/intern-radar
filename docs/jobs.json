@@ -1,6 +1,6 @@
 {
- "generated_at": 1792262615,
- "count": 498,
+ "generated_at": 1792270873,
+ "count": 496,
  "jobs": [
   {
    "source": "Simplify",
@@ -24,6 +24,27 @@
    ],
    "first_seen": 1792196189,
    "uid": "6a88880bc968f5ed"
+  },
+  {
+   "source": "Simplify",
+   "company": "Meta",
+   "title": "Signal Integrity Intern",
+   "url": "https://www.metacareers.com/jobs/1950497786328676",
+   "locations": [
+    "Menlo Park, CA"
+   ],
+   "posted_at": 1792189398,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "signal integrity (+2)"
+   ],
+   "first_seen": 1791859900,
+   "uid": "46b486993f58faec"
   },
   {
    "source": "Simplify",
@@ -741,27 +762,6 @@
    ],
    "first_seen": 1791939831,
    "uid": "b125fb90147951a0"
-  },
-  {
-   "source": "Simplify",
-   "company": "Meta",
-   "title": "Signal Integrity Intern",
-   "url": "https://www.metacareers.com/jobs/2262379047961521",
-   "locations": [
-    "Menlo Park, CA"
-   ],
-   "posted_at": 1791929216,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "signal integrity (+2)"
-   ],
-   "first_seen": 1791859900,
-   "uid": "46b486993f58faec"
   },
   {
    "source": "Greenhouse",
@@ -6556,28 +6556,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Ciena",
-   "title": "NPI Hardware Co-op - 8 month",
-   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/NPI-Hardware-Co-op--8-month---January-2027-_R031642",
-   "locations": [
-    "Ottawa, ON, Canada"
-   ],
-   "posted_at": 1789084800,
-   "terms": [
-    "Winter 2027",
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1789151575,
-   "uid": "800f6bae6c47dc88"
-  },
-  {
-   "source": "Simplify",
    "company": "Allegion",
    "title": "Hardware Engineer Intern - Product Lifecycle Engineering",
    "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering---Indianapolis--Indiana_JR37467-1",
@@ -8948,27 +8926,6 @@
    ],
    "first_seen": 1788220763,
    "uid": "1e369fe21f1d1ec1"
-  },
-  {
-   "source": "Simplify",
-   "company": "RTX",
-   "title": "Electrical Production Support Engineer Intern - Summer 2027",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Electrical-Production-Support-Engineer-Intern--Summer-2027-_01871115",
-   "locations": [
-    "Tucson, AZ"
-   ],
-   "posted_at": 1788134400,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1790710065,
-   "uid": "305a14ebe7e5655b"
   },
   {
    "source": "Simplify",
