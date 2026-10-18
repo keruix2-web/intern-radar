@@ -1,6 +1,6 @@
 {
- "generated_at": 1792360458,
- "count": 502,
+ "generated_at": 1792367783,
+ "count": 503,
  "jobs": [
   {
    "source": "Simplify",
@@ -130,6 +130,27 @@
    ],
    "first_seen": 1792302855,
    "uid": "0ccfc81d4d02d98d"
+  },
+  {
+   "source": "Simplify",
+   "company": "Northrop Grumman",
+   "title": "Electrical Engineer 1 Intern",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME--Skillbridge----Electrical-Engineer-1_R10256539",
+   "locations": [
+    "Chandler, AZ"
+   ],
+   "posted_at": 1792281600,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1792367783,
+   "uid": "1ca94f19572440e6"
   },
   {
    "source": "Simplify",
