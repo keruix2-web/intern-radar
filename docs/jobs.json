@@ -1,5 +1,5 @@
 {
- "generated_at": 1792278504,
+ "generated_at": 1792285370,
  "count": 496,
  "jobs": [
   {
@@ -10246,6 +10246,28 @@
   },
   {
    "source": "Simplify",
+   "company": "Bio-Techne",
+   "title": "Hardware Engineer Intern",
+   "url": "https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Hardware-Engineering-Intern_JR101533",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1783160682,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1792285370,
+   "uid": "37a624b43fc03d63"
+  },
+  {
+   "source": "Simplify",
    "company": "Marvell",
    "title": "Analog Engineer Intern",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424-1",
@@ -10853,28 +10875,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "6f7c3ec86032dd79"
-  },
-  {
-   "source": "Simplify",
-   "company": "Bio-Techne",
-   "title": "Hardware Engineering Intern",
-   "url": "https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Hardware-Engineering-Intern_JR101533",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "posted_at": 1771544537,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware engineering (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "a11de461298f82e4"
   },
   {
    "source": "Ashby",
