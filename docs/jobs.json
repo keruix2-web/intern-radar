@@ -1,6 +1,6 @@
 {
- "generated_at": 1792319403,
- "count": 500,
+ "generated_at": 1792332453,
+ "count": 502,
  "jobs": [
   {
    "source": "Simplify",
@@ -366,6 +366,27 @@
    ],
    "first_seen": 1792083002,
    "uid": "e4bdc9ad338e4cfe"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Electrical Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical-Engineering-Intern--Summer-2027--Onsite-_01882705",
+   "locations": [
+    "Marlborough, MA"
+   ],
+   "posted_at": 1792022400,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1792105528,
+   "uid": "10a0565bad3457d6"
   },
   {
    "source": "Simplify",
@@ -1777,6 +1798,27 @@
    ],
    "first_seen": 1791416435,
    "uid": "170099284c14ad32"
+  },
+  {
+   "source": "Simplify",
+   "company": "General Motors",
+   "title": "AV Sensor Design, Release and Integration Intern",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AV-Sensor-Design--Release-and-Integration_JR-202621993",
+   "locations": [
+    "Warren, MI"
+   ],
+   "posted_at": 1791331200,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "sensor (+2)"
+   ],
+   "first_seen": 1791416435,
+   "uid": "04c9031c539ee8f7"
   },
   {
    "source": "Simplify",
