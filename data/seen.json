@@ -1,5 +1,5 @@
 {
- "count": 799,
+ "count": 804,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -282,6 +282,12 @@
    "first_seen": 1791068630,
    "title": "Electrical Engineering Intern",
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990683003"
+  },
+  "0ccfc81d4d02d98d": {
+   "company": "Leonardo",
+   "first_seen": 1792302855,
+   "title": "Electronics Engineer Intern",
+   "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Industrial-Placement-Electronics_R0034210"
   },
   "0cdd0601d2c54cb8": {
    "company": "Emerson Electric",
@@ -997,6 +1003,12 @@
    "title": "Analog Mixed-Signal Layout Intern",
    "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4721054005"
   },
+  "3279fedc3cfc51a9": {
+   "company": "Leonardo",
+   "first_seen": 1792302855,
+   "title": "Electronics Engineer Intern",
+   "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Southampton/Industrial-Placement-Electronics_R0034216"
+  },
   "3292b8525b441251": {
    "company": "General Motors",
    "first_seen": 1790035604,
@@ -1710,6 +1722,12 @@
    "first_seen": 1788447714,
    "title": "Electrical Engineer Intern",
    "url": "https://jobs.l3harris.com/job/Palm-Bay-Intern,-Electrical-Engineer-FL-32905/1420319900/?ats=successfactors"
+  },
+  "5a7294b7abb262a5": {
+   "company": "Leonardo",
+   "first_seen": 1792302855,
+   "title": "Electronics Intern",
+   "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Electronics-Summer-Placement_R0034217"
   },
   "5a76aa21d13a200f": {
    "company": "Semtech",
@@ -2503,6 +2521,12 @@
    "title": "Electronics Engineer Intern",
    "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Texas---Allen/Intern--Electronics-Engineering-_REQ52928"
   },
+  "85944394c39d3157": {
+   "company": "Leonardo",
+   "first_seen": 1792302855,
+   "title": "Hardware Engineer Intern",
+   "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Industrial-Placement-Hardware-Engineer_R0032911"
+  },
   "864fbec1c25de8fb": {
    "company": "IMEG",
    "first_seen": 1788447714,
@@ -2952,6 +2976,12 @@
    "first_seen": 1788967121,
    "title": "Hardware Asset Management Analyst Co-op Intern - Multiple Teams",
    "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Hardware-Asset-Management-Analyst--Winter-2027--Co-op-Internship----8-months_R260026279-3"
+  },
+  "a1ec8b438ebec749": {
+   "company": "Leonardo",
+   "first_seen": 1792302855,
+   "title": "Electronics Engineer Intern",
+   "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Bristol---Coldharbour-Lane/Industrial-Placement-Electronics_R0034212"
   },
   "a24810c400c06b1c": {
    "company": "RTX",
@@ -4796,6 +4826,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1792285370,
- "runs": 619
+ "last_run": 1792302855,
+ "runs": 620
 }
