@@ -1,7 +1,27 @@
 {
- "generated_at": 1792428222,
- "count": 503,
+ "generated_at": 1792444541,
+ "count": 504,
  "jobs": [
+  {
+   "source": "Greenhouse",
+   "company": "Ursa Major",
+   "title": "2027 Summer Avionics Electrical Engineer Intern",
+   "url": "https://ursamajor.com/careers/?gh_jid=4745125005",
+   "locations": [
+    "Berthoud, Colorado"
+   ],
+   "posted_at": 1792432490,
+   "terms": [],
+   "sponsorship": "",
+   "category": "aerospace",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "avionics (+2)"
+   ],
+   "first_seen": 1792444541,
+   "uid": "da036790836c9fb4"
+  },
   {
    "source": "Simplify",
    "company": "Johns Hopkins Applied Physics Laboratory",
@@ -913,28 +933,6 @@
    ],
    "first_seen": 1791939831,
    "uid": "eba118f185ec641e"
-  },
-  {
-   "source": "Simplify",
-   "company": "Keysight Technologies",
-   "title": "R&D Hardware Engineer Intern",
-   "url": "https://jobs.keysight.com/jobs/54670?icims=1",
-   "locations": [
-    "Santa Rosa, CA"
-   ],
-   "posted_at": 1791929513,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware engineer (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1791939831,
-   "uid": "3a78e92c11478e15"
   },
   {
    "source": "Simplify",
@@ -3469,6 +3467,26 @@
    ],
    "first_seen": 1790812359,
    "uid": "3fb1e8459c0b5d41"
+  },
+  {
+   "source": "Lever",
+   "company": "Xcimer Energy",
+   "title": "Summer 2027 Internship - Electrical Engineering",
+   "url": "https://jobs.lever.co/xcimer/87bceb04-faeb-4365-9fed-d8f5cd3fb8ac",
+   "locations": [
+    "Denver, CO"
+   ],
+   "posted_at": 1790796776,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1792444541,
+   "uid": "fb882f1a15eab487"
   },
   {
    "source": "Greenhouse",
