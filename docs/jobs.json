@@ -1,7 +1,51 @@
 {
- "generated_at": 1792402723,
+ "generated_at": 1792428222,
  "count": 503,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "title": "Electrical and Computer Engineer Intern",
+   "url": "https://careers.jhuapl.edu/jobs/60390?icims=1",
+   "locations": [
+    "Laurel, MD"
+   ],
+   "posted_at": 1792419524,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 5,
+   "reasons": [
+    "computer engineer (+3)",
+    "electrical (+2)"
+   ],
+   "first_seen": 1792428222,
+   "uid": "fb7dab74af0a4639"
+  },
+  {
+   "source": "Simplify",
+   "company": "Analog Devices",
+   "title": "Analog/Mixed Signal Design Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Newbury/Analog-Mixed-Signal-Design-Intern_R267108",
+   "locations": [
+    "Newbury, UK"
+   ],
+   "posted_at": 1792368000,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "mixed signal (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1792428222,
+   "uid": "9fa454742919c617"
+  },
   {
    "source": "Simplify",
    "company": "Tesla",
@@ -977,27 +1021,6 @@
    ],
    "first_seen": 1791859900,
    "uid": "aa5d226cb07536d5"
-  },
-  {
-   "source": "Simplify",
-   "company": "Northrop Grumman",
-   "title": "Computer Engineer Intern",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Computer-Engineer-Intern---Manhattan-Beach-CA_R10255835",
-   "locations": [
-    "Manhattan Beach, CA"
-   ],
-   "posted_at": 1791849600,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 3,
-   "reasons": [
-    "computer engineer (+3)"
-   ],
-   "first_seen": 1791939831,
-   "uid": "dc8cacaf56caf87f"
   },
   {
    "source": "Simplify",
@@ -2930,28 +2953,6 @@
    ],
    "first_seen": 1791275734,
    "uid": "45d122c0fdbf4df0"
-  },
-  {
-   "source": "Simplify",
-   "company": "AMD",
-   "title": "Masters Photonics Design Engineering Co-op",
-   "url": "https://careers.amd.com/jobs/91633?icims=1",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "posted_at": 1791007700,
-   "terms": [
-    "Spring 2027",
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "photonics (+2)"
-   ],
-   "first_seen": 1791013543,
-   "uid": "abc153940c9d5aa0"
   },
   {
    "source": "Simplify",

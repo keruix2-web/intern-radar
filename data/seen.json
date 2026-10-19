@@ -1,5 +1,5 @@
 {
- "count": 806,
+ "count": 808,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -2941,6 +2941,12 @@
    "title": "Hardware Engineer Co-op Intern - IP Routing",
    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39600"
   },
+  "9fa454742919c617": {
+   "company": "Analog Devices",
+   "first_seen": 1792428222,
+   "title": "Analog/Mixed Signal Design Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Newbury/Analog-Mixed-Signal-Design-Intern_R267108"
+  },
   "a071ed419210ad49": {
    "company": "Hendrick Motorsports",
    "first_seen": 1788447714,
@@ -4771,6 +4777,12 @@
    "title": "Electrical Engineer Intern",
    "url": "https://ats.rippling.com/rev-robotics/jobs/43f472ef-6db5-418f-b2b2-72f21ebd7744"
   },
+  "fb7dab74af0a4639": {
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "first_seen": 1792428222,
+   "title": "Electrical and Computer Engineer Intern",
+   "url": "https://careers.jhuapl.edu/jobs/60390?icims=1"
+  },
   "fb8b589343a28ea9": {
    "company": "Ambarella",
    "first_seen": 1786988749,
@@ -4838,6 +4850,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1792402723,
- "runs": 628
+ "last_run": 1792428222,
+ "runs": 629
 }
