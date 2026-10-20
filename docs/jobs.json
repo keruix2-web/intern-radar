@@ -1,6 +1,6 @@
 {
- "generated_at": 1792456268,
- "count": 507,
+ "generated_at": 1792473630,
+ "count": 508,
  "jobs": [
   {
    "source": "Simplify",
@@ -133,28 +133,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Electrical and Computer Engineer Intern",
-   "url": "https://careers.jhuapl.edu/jobs/60390?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "posted_at": 1792419524,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 5,
-   "reasons": [
-    "computer engineer (+3)",
-    "electrical (+2)"
-   ],
-   "first_seen": 1792428222,
-   "uid": "fb7dab74af0a4639"
-  },
-  {
-   "source": "Simplify",
    "company": "Analog Devices",
    "title": "Analog/Mixed Signal Design Intern",
    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Newbury/Analog-Mixed-Signal-Design-Intern_R267108",
@@ -197,6 +175,49 @@
    ],
    "first_seen": 1792456268,
    "uid": "4b452b8ac8cff950"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hewlett Packard Enterprise",
+   "title": "ASIC Intern",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/ASIC-Intern_1214020",
+   "locations": [
+    "Roseville, CA"
+   ],
+   "posted_at": 1792368000,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "asic (+3)"
+   ],
+   "first_seen": 1792473629,
+   "uid": "5ab21e2e298da5d9"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hewlett Packard Enterprise",
+   "title": "Hardware Engineering Design Intern",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/Hardware-Engineering-Design-Intern_1214168",
+   "locations": [
+    "Roseville, CA"
+   ],
+   "posted_at": 1792368000,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1792473629,
+   "uid": "27e45e21cdd37c06"
   },
   {
    "source": "Simplify",
@@ -562,27 +583,6 @@
    ],
    "first_seen": 1792083002,
    "uid": "6927c98e212f77db"
-  },
-  {
-   "source": "Simplify",
-   "company": "RTX",
-   "title": "Electrical Engineer Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical-Engineering-Intern--Summer-2027--Onsite-_01882705",
-   "locations": [
-    "Marlborough, MA"
-   ],
-   "posted_at": 1792022400,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1792105528,
-   "uid": "10a0565bad3457d6"
   },
   {
    "source": "Simplify",
@@ -3802,6 +3802,27 @@
   },
   {
    "source": "Simplify",
+   "company": "RTX",
+   "title": "Electrical Design Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Design-Engineer-Intern--Summer-2027-_01877254",
+   "locations": [
+    "Windsor Locks, CT"
+   ],
+   "posted_at": 1790640000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1790723236,
+   "uid": "be2d55238fdbcc59"
+  },
+  {
+   "source": "Simplify",
    "company": "Hewlett Packard Enterprise",
    "title": "Electrical Hardware Engineer Intern",
    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Hardware-Engineering-Intern_1213421",
@@ -3822,6 +3843,27 @@
    ],
    "first_seen": 1791275734,
    "uid": "84c30f0f5045fb4e"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Electrical Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Design-Intern--Summer-2027-_01876761",
+   "locations": [
+    "Windsor Locks, CT"
+   ],
+   "posted_at": 1790640000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1792473629,
+   "uid": "38774c3398d2c611"
   },
   {
    "source": "Simplify",
@@ -6597,25 +6639,6 @@
    ],
    "first_seen": 1789176399,
    "uid": "043e8a225ff655c8"
-  },
-  {
-   "source": "Greenhouse",
-   "company": "Lightmatter",
-   "title": "Silicon Packaging Engineer - Intern & New Grad",
-   "url": "https://boards.greenhouse.io/lightmatter/jobs/5422712008?gh_jid=5422712008",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "posted_at": 1789169825,
-   "terms": [],
-   "sponsorship": "",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "silicon (+3)"
-   ],
-   "first_seen": 1789176399,
-   "uid": "6ad5884421738578"
   },
   {
    "source": "Simplify",
