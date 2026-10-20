@@ -1,7 +1,116 @@
 {
- "generated_at": 1792444541,
- "count": 504,
+ "generated_at": 1792456268,
+ "count": 507,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Ursa Major",
+   "title": "Avionics Electrical Engineer Intern",
+   "url": "https://ursamajor.com/careers/?gh_jid=4745125005",
+   "locations": [
+    "Berthoud, CO"
+   ],
+   "posted_at": 1792449794,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "aerospace",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "avionics (+2)"
+   ],
+   "first_seen": 1792456268,
+   "uid": "6b983bb23fdd2357"
+  },
+  {
+   "source": "Simplify",
+   "company": "Meta",
+   "title": "Research Scientist Intern - Robotics Hardware",
+   "url": "https://www.metacareers.com/jobs/2105411693413958",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "posted_at": 1792449188,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "hardware (+2)",
+    "robotics (+1)"
+   ],
+   "first_seen": 1792456268,
+   "uid": "8622eeb8aa36dae5"
+  },
+  {
+   "source": "Simplify",
+   "company": "Meta",
+   "title": "Optical Engineering AI and Data Analytics Intern",
+   "url": "https://www.metacareers.com/jobs/1851348099357899",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "posted_at": 1792449186,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "optical engineering (+2)"
+   ],
+   "first_seen": 1792456268,
+   "uid": "3e5bb9971e168f27"
+  },
+  {
+   "source": "Simplify",
+   "company": "Keysight Technologies",
+   "title": "R&D Hardware Engineer Intern",
+   "url": "https://jobs.keysight.com/jobs/54804?icims=1",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1792448259,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1792456268,
+   "uid": "dab0f1b1a1f1ba68"
+  },
+  {
+   "source": "Simplify",
+   "company": "Qualcomm",
+   "title": "QDSP Hardware Physical Design Intern",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721636316",
+   "locations": [
+    "Markham, ON, Canada"
+   ],
+   "posted_at": 1792447524,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "physical design (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1792456268,
+   "uid": "1643c183da4b8873"
+  },
   {
    "source": "Greenhouse",
    "company": "Ursa Major",
@@ -65,6 +174,29 @@
    ],
    "first_seen": 1792428222,
    "uid": "9fa454742919c617"
+  },
+  {
+   "source": "Simplify",
+   "company": "NVIDIA",
+   "title": "ASIC Verification Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1792368000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 7,
+   "reasons": [
+    "asic (+3)",
+    "verification (+2)",
+    "asic verification (+2)"
+   ],
+   "first_seen": 1792456268,
+   "uid": "4b452b8ac8cff950"
   },
   {
    "source": "Simplify",
@@ -433,27 +565,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Motorola Solutions",
-   "title": "Electronics Design Co-op",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Electronics-Design-Co-Op_R69811",
-   "locations": [
-    "Vancouver, BC, Canada"
-   ],
-   "posted_at": 1792022400,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electronics (+2)"
-   ],
-   "first_seen": 1792083002,
-   "uid": "e4bdc9ad338e4cfe"
-  },
-  {
-   "source": "Simplify",
    "company": "RTX",
    "title": "Electrical Engineer Intern",
    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical-Engineering-Intern--Summer-2027--Onsite-_01882705",
@@ -737,27 +848,6 @@
    ],
    "first_seen": 1792020113,
    "uid": "8d9a756b338fde3a"
-  },
-  {
-   "source": "Simplify",
-   "company": "Motorola Solutions",
-   "title": "Design Validation Co-op",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Design-Validation-Co-op_R69757",
-   "locations": [
-    "Vancouver, BC, Canada"
-   ],
-   "posted_at": 1791936000,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "validation (+2)"
-   ],
-   "first_seen": 1792020113,
-   "uid": "ece5fc897720d429"
   },
   {
    "source": "Simplify",
@@ -1327,6 +1417,28 @@
    ],
    "first_seen": 1791886198,
    "uid": "2632858240949ea5"
+  },
+  {
+   "source": "Simplify",
+   "company": "Meter",
+   "title": "Hardware Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/meter/a5f1e4c3-2930-4933-ab38-8f600486494b/application?embed=true",
+   "locations": [
+    "SF"
+   ],
+   "posted_at": 1791594973,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1791693388,
+   "uid": "841c20d43a9ad2cc"
   },
   {
    "source": "Simplify",
@@ -5385,27 +5497,6 @@
    ],
    "first_seen": 1790052937,
    "uid": "f02b01d84e4b983e"
-  },
-  {
-   "source": "Simplify",
-   "company": "Nordson",
-   "title": "Electrical Engineer Intern",
-   "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Minnesota---Minneapolis---5900-Golden-Hills-Drive/Electrical-Engineering-Intern_REQ52913",
-   "locations": [
-    "Minneapolis, MN"
-   ],
-   "posted_at": 1789862400,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1789988791,
-   "uid": "ba76930a721d3037"
   },
   {
    "source": "Simplify",
@@ -10563,27 +10654,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "9d9e1d8f5503b627"
-  },
-  {
-   "source": "Simplify",
-   "company": "Heron Power",
-   "title": "Electronics Design Engineer Intern",
-   "url": "http://jobs.ashbyhq.com/heron-power/796052b0-3811-4282-b1f9-7e6f83c3e87b/application",
-   "locations": [
-    "Santa Cruz, CA"
-   ],
-   "posted_at": 1782252524,
-   "terms": [
-    "Spring 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electronics (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "fb1fd9458d2aed34"
   },
   {
    "source": "Simplify",
