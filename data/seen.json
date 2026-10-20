@@ -1,5 +1,5 @@
 {
- "count": 819,
+ "count": 824,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -2749,6 +2749,12 @@
    "title": "Digital Design Intern - Spring 2027",
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Spring-2027_R-10065549"
   },
+  "8f855d71f4146f65": {
+   "company": "Graphcore",
+   "first_seen": 1792509424,
+   "title": "Hardware Summer Intern 2027",
+   "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894753002"
+  },
   "8faad42af40ab9a5": {
    "company": "Johns Hopkins Applied Physics Laboratory",
    "first_seen": 1789451478,
@@ -2814,6 +2820,12 @@
    "first_seen": 1789535833,
    "title": "Electrical Engineer Intern - FPGA",
    "url": "https://jobs.lever.co/CesiumAstro/e6d87528-5da1-4970-9e42-7b224cfa63a9/apply"
+  },
+  "9474a162c1876071": {
+   "company": "Graphcore",
+   "first_seen": 1792509424,
+   "title": "Silicon Intern",
+   "url": "https://job-boards.greenhouse.io/graphcore/jobs/8879329002"
   },
   "959e5dec326be3cb": {
    "company": "RTX",
@@ -3097,6 +3109,12 @@
    "title": "Antenna Intern (Winter 2027)",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704284006"
   },
+  "a52def3ce22446d8": {
+   "company": "Semtech",
+   "first_seen": 1792509424,
+   "title": "PCB Layout Intern",
+   "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/PCB-Layout-Intern_REQ3632"
+  },
   "a59483ae01234366": {
    "company": "V2X",
    "first_seen": 1788434053,
@@ -3114,6 +3132,12 @@
    "first_seen": 1786988749,
    "title": "Formal Verification Intern",
    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4868622007"
+  },
+  "a6477efe0230967d": {
+   "company": "Graphcore",
+   "first_seen": 1792509424,
+   "title": "Hardware Intern",
+   "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894753002"
   },
   "a666b7a6a31ecb12": {
    "company": "Space Dynamics Laboratory",
@@ -4507,6 +4531,12 @@
    "title": "VLSI Design Verification Intern",
    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Design-Verification-Intern_1213399"
   },
+  "e9d2c933e21e4ef3": {
+   "company": "Graphcore",
+   "first_seen": 1792509424,
+   "title": "Silicon Summer Intern 2027 ",
+   "url": "https://job-boards.greenhouse.io/graphcore/jobs/8879329002"
+  },
   "e9de9c727462a9f6": {
    "company": "Moog",
    "first_seen": 1788954209,
@@ -4916,6 +4946,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1792491493,
- "runs": 633
+ "last_run": 1792509424,
+ "runs": 634
 }
