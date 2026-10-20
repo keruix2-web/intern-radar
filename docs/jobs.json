@@ -1,5 +1,5 @@
 {
- "generated_at": 1792509424,
+ "generated_at": 1792524601,
  "count": 510,
  "jobs": [
   {
@@ -1217,7 +1217,7 @@
    "source": "Simplify",
    "company": "KLA",
    "title": "Product Development Intern - Electron Beam Instrumentation",
-   "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Product-Development-Intern---Electron-Beam-Instrumentation_2642032",
+   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Product-Development-Intern---Electron-Beam-Instrumentation_2642030-2",
    "locations": [
     "Ann Arbor, MI"
    ],
@@ -9582,27 +9582,6 @@
   },
   {
    "source": "Simplify",
-   "company": "GE Appliances",
-   "title": "Electrical Engineer Co-op",
-   "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Electrical-Engineering-Co-op-Fall-2027_REQ-26594",
-   "locations": [
-    "Louisville, KY"
-   ],
-   "posted_at": 1787616000,
-   "terms": [
-    "Fall 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788447714,
-   "uid": "dca2c08391553ed2"
-  },
-  {
-   "source": "Simplify",
    "company": "RoboForce",
    "title": "Robotics Electrical Engineering Intern",
    "url": "https://job-boards.greenhouse.io/roboforce/jobs/5181214008",
@@ -10677,6 +10656,27 @@
   },
   {
    "source": "Simplify",
+   "company": "GE Appliances",
+   "title": "Electrical Engineer Co-op",
+   "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Electrical-Engineering-Co-op-Spring-2027_REQ-24834",
+   "locations": [
+    "Louisville, KY"
+   ],
+   "posted_at": 1782561268,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1788447714,
+   "uid": "dca2c08391553ed2"
+  },
+  {
+   "source": "Simplify",
    "company": "Applied Intuition",
    "title": "Research Intern - Robotic Hardware - Simulation and Data",
    "url": "https://jobs.ashbyhq.com/applied/5bb0567a-8d07-4cc4-be7c-c06b31361883/application",
@@ -10884,7 +10884,7 @@
    "title": "Intern, Optical Packaging and Characterization Engineer",
    "url": "https://www.psiquantum.com/apply?gh_jid=7761881003",
    "locations": [
-    "Milpitas, California, United States"
+    "Milpitas, California"
    ],
    "posted_at": 1780437108,
    "terms": [
