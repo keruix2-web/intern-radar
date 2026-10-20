@@ -1,6 +1,6 @@
 {
- "generated_at": 1792473630,
- "count": 508,
+ "generated_at": 1792491493,
+ "count": 506,
  "jobs": [
   {
    "source": "Simplify",
@@ -2518,27 +2518,6 @@
    ],
    "first_seen": 1791331311,
    "uid": "3e70fc68f6843d1a"
-  },
-  {
-   "source": "Simplify",
-   "company": "Moog",
-   "title": "Electrical Engineer Intern",
-   "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Electrical-Engineering_R-26-19827",
-   "locations": [
-    "Torrance, CA"
-   ],
-   "posted_at": 1791244800,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1791331311,
-   "uid": "019981815152356b"
   },
   {
    "source": "Simplify",
@@ -9737,49 +9716,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Zipline",
-   "title": "Electrical Engineer Intern - Summer 2027",
-   "url": "https://www.zipline.com/open-roles/7903711003?gh_jid=7903711003",
-   "locations": [
-    "South SF"
-   ],
-   "posted_at": 1787177829,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788447714,
-   "uid": "5015ba9ef3622ea2"
-  },
-  {
-   "source": "Simplify",
-   "company": "Zipline",
-   "title": "Electrical Engineer Intern - Electrical Engineering Team",
-   "url": "https://www.zipline.com/open-roles/7903708003?gh_jid=7903708003",
-   "locations": [
-    "South SF"
-   ],
-   "posted_at": 1787177825,
-   "terms": [
-    "Spring 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "electrical (+2)",
-    "electrical engineering (+2)"
-   ],
-   "first_seen": 1788447714,
-   "uid": "b831ffff66483b11"
-  },
-  {
-   "source": "Simplify",
    "company": "NVIDIA",
    "title": "Hardware Engineering Intern",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1",
@@ -9867,6 +9803,28 @@
    ],
    "first_seen": 1788532392,
    "uid": "88921a6e2b89a29c"
+  },
+  {
+   "source": "Simplify",
+   "company": "Zipline",
+   "title": "Long Range Platform Hardware Engineering Intern",
+   "url": "https://www.zipline.com/open-roles?gh_jid=7891460003",
+   "locations": [
+    "South SF"
+   ],
+   "posted_at": 1787092360,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1787095247,
+   "uid": "6b28ed5001b73dc7"
   },
   {
    "source": "Simplify",
