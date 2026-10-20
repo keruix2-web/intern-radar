@@ -1,7 +1,93 @@
 {
- "generated_at": 1792524601,
- "count": 510,
+ "generated_at": 1792535712,
+ "count": 520,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Skydio",
+   "title": "Wireless Hardware Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea/application?embed=true",
+   "locations": [
+    "San Mateo, CA"
+   ],
+   "posted_at": 1792534508,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1792535712,
+   "uid": "178088e26b762963"
+  },
+  {
+   "source": "Simplify",
+   "company": "Cummins",
+   "title": "Engineering School-to-Work Intern - Electronics Systems Validation Engineering",
+   "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439243",
+   "locations": [
+    "Troy, MI"
+   ],
+   "posted_at": 1792534476,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electronics (+2)",
+    "validation (+2)"
+   ],
+   "first_seen": 1792535712,
+   "uid": "026b2384d673a724"
+  },
+  {
+   "source": "Simplify",
+   "company": "Dell Technologies",
+   "title": "Hardware Engineer 1 Intern",
+   "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298141",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1792534445,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1792535712,
+   "uid": "63986265351eec87"
+  },
+  {
+   "source": "Ashby",
+   "company": "Skydio",
+   "title": "Wireless Hardware Engineer Intern - Summer 2027",
+   "url": "https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea",
+   "locations": [
+    "San Mateo, California, United States"
+   ],
+   "posted_at": 1792530904,
+   "terms": [],
+   "sponsorship": "",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1792535712,
+   "uid": "8db0bfbfec8a2e99"
+  },
   {
    "source": "Simplify",
    "company": "Graphcore",
@@ -104,6 +190,180 @@
    ],
    "first_seen": 1792509424,
    "uid": "a52def3ce22446d8"
+  },
+  {
+   "source": "Simplify",
+   "company": "Intel",
+   "title": "Design Verification Engineer Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Colorado-Fort-Collins/Design-Verification-Graduate-Intern-2027_JR0287651",
+   "locations": [
+    "Santa Clara, CA",
+    "Fort Collins, CO"
+   ],
+   "posted_at": 1792454400,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1792535712,
+   "uid": "f1c1ae1b1511706d"
+  },
+  {
+   "source": "Simplify",
+   "company": "Analog Devices",
+   "title": "Analog Design Engineer Intern - Audio",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern--Audio-_R267095",
+   "locations": [
+    "Edinburgh, UK"
+   ],
+   "posted_at": 1792454400,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "analog design (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1792535712,
+   "uid": "d13dae12ec6a2bb2"
+  },
+  {
+   "source": "Simplify",
+   "company": "Analog Devices",
+   "title": "Analog Design Engineer Intern - Power Management",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern--Power-Management-_R267094-1",
+   "locations": [
+    "Edinburgh, UK"
+   ],
+   "posted_at": 1792454400,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "analog design (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1792535712,
+   "uid": "ce2bd99a1d6f84ab"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Electrical Components Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Electrical-Components-Engineer-Intern--Summer-2027--Onsite-_01879761",
+   "locations": [
+    "Tucson, AZ"
+   ],
+   "posted_at": 1792454400,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1792535712,
+   "uid": "de0d862830df689f"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Electrical Test Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Electrical-Test-Engineering-Intern--Summer-2027-_01881562",
+   "locations": [
+    "Largo, FL"
+   ],
+   "posted_at": 1792454400,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 3,
+   "reasons": [
+    "electrical (+2)",
+    "test engineer (+1)"
+   ],
+   "first_seen": 1792535712,
+   "uid": "455b43d7c10c43be"
+  },
+  {
+   "source": "Simplify",
+   "company": "CACI",
+   "title": "Electrical Test Engineer Intern",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Electrical-Test-Engineering-Intern---Summer-2027_333809",
+   "locations": [
+    "Danbury, CT"
+   ],
+   "posted_at": 1792454400,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 3,
+   "reasons": [
+    "electrical (+2)",
+    "test engineer (+1)"
+   ],
+   "first_seen": 1792535712,
+   "uid": "7cc99e6bcd2cc2b4"
+  },
+  {
+   "source": "Simplify",
+   "company": "Rockwell Automation",
+   "title": "Hardware Development Engineer Intern",
+   "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--Hardware-Development-Engineer--May---Aug-2027-_R26-6892-2",
+   "locations": [
+    "Mayfield Heights, OH"
+   ],
+   "posted_at": 1792454400,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1792535712,
+   "uid": "099665409a87f0b7"
+  },
+  {
+   "source": "Simplify",
+   "company": "Altera",
+   "title": "FPGA IP Design Engineer Intern",
+   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer---Intern_R03299",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1792454400,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "fpga (+3)"
+   ],
+   "first_seen": 1792131014,
+   "uid": "8656b62bca33ab85"
   },
   {
    "source": "Simplify",
@@ -604,6 +864,27 @@
   },
   {
    "source": "Simplify",
+   "company": "Micron Technology",
+   "title": "Memory Design Engineer Intern - HBM",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112529",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1792108800,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "memory design (+3)"
+   ],
+   "first_seen": 1791180285,
+   "uid": "3ec06ab3a2734e54"
+  },
+  {
+   "source": "Simplify",
    "company": "Signify",
    "title": "Electrical Engineer Intern",
    "url": "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Peachtree-City/Electrical-Engineer-Intern--Cooper-Lighting-Solutions---Spring-2027_366726",
@@ -709,27 +990,6 @@
    ],
    "first_seen": 1790723236,
    "uid": "4373877c5774b93c"
-  },
-  {
-   "source": "Simplify",
-   "company": "Altera",
-   "title": "FPGA IP Design Engineer Intern",
-   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer----Intern_R03324",
-   "locations": [
-    "Toronto, ON, Canada"
-   ],
-   "posted_at": 1792022400,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "fpga (+3)"
-   ],
-   "first_seen": 1792131014,
-   "uid": "8656b62bca33ab85"
   },
   {
    "source": "Simplify",
@@ -2624,6 +2884,27 @@
   },
   {
    "source": "Simplify",
+   "company": "Moog",
+   "title": "Electrical Engineer Intern",
+   "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Electrical-Engineering_R-26-19827",
+   "locations": [
+    "Torrance, CA"
+   ],
+   "posted_at": 1791244800,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1791331311,
+   "uid": "019981815152356b"
+  },
+  {
+   "source": "Simplify",
    "company": "RTX",
    "title": "FPGA Engineer Intern",
    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineering-Intern--Summer-2027--Onsite-_01880037",
@@ -3058,27 +3339,6 @@
    ],
    "first_seen": 1791180285,
    "uid": "a3094f46f8518ff8"
-  },
-  {
-   "source": "Simplify",
-   "company": "Micron Technology",
-   "title": "Memory Design Engineer Intern - HBM",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112528",
-   "locations": [
-    "Richardson, TX"
-   ],
-   "posted_at": 1791072000,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "memory design (+3)"
-   ],
-   "first_seen": 1791180285,
-   "uid": "3ec06ab3a2734e54"
   },
   {
    "source": "Simplify",
@@ -5598,29 +5858,6 @@
    ],
    "first_seen": 1790035604,
    "uid": "c50a2981e9b1d7eb"
-  },
-  {
-   "source": "Simplify",
-   "company": "Symbotic",
-   "title": "Hardware Engineer Intern - Hardware Engineering",
-   "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington-MA---ITC/Hardware-Engineer_R8101",
-   "locations": [
-    "Wilmington, MA"
-   ],
-   "posted_at": 1789948800,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 8,
-   "reasons": [
-    "hardware engineer (+3)",
-    "hardware engineering (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1790052937,
-   "uid": "f02b01d84e4b983e"
   },
   {
    "source": "Simplify",
@@ -10059,26 +10296,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "6240864d09acafb4"
-  },
-  {
-   "source": "Ashby",
-   "company": "Skydio",
-   "title": "Hardware Test & Reliability Intern - Fall 2026/Winter 2027",
-   "url": "https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924",
-   "locations": [
-    "San Mateo, California, United States"
-   ],
-   "posted_at": 1785889545,
-   "terms": [],
-   "sponsorship": "",
-   "category": "other",
-   "score": 3,
-   "reasons": [
-    "hardware (+2)",
-    "reliability (+1)"
-   ],
-   "first_seen": 1788310887,
-   "uid": "183e08eb24ff1004"
   },
   {
    "source": "Simplify",
