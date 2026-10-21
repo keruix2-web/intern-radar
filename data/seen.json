@@ -1,5 +1,5 @@
 {
- "count": 835,
+ "count": 837,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -846,6 +846,12 @@
    "first_seen": 1788470444,
    "title": "Electrical Engineer Co-op",
    "url": "https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724/apply"
+  },
+  "262bedaf60a1e316": {
+   "company": "Keysight Technologies",
+   "first_seen": 1792544366,
+   "title": "Hardware Engineering Intern",
+   "url": "https://jobs.keysight.com/jobs/55112?icims=1"
   },
   "2632858240949ea5": {
    "company": "Hewlett Packard Enterprise",
@@ -3709,6 +3715,12 @@
    "title": "Power Electronics Intern (Fall 2026)",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4625923006"
   },
+  "c0146a96f9de0107": {
+   "company": "Humble Robotics",
+   "first_seen": 1792544366,
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.lever.co/humble-robotics/b9822bf4-c77c-42ea-a19f-1280ec3ab763/apply"
+  },
   "c02b946e628d6829": {
    "company": "Shield AI",
    "first_seen": 1786988749,
@@ -5012,6 +5024,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1792535712,
- "runs": 636
+ "last_run": 1792544366,
+ "runs": 637
 }

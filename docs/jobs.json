@@ -1,7 +1,50 @@
 {
- "generated_at": 1792535712,
- "count": 520,
+ "generated_at": 1792544366,
+ "count": 522,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Humble Robotics",
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.lever.co/humble-robotics/b9822bf4-c77c-42ea-a19f-1280ec3ab763/apply",
+   "locations": [
+    "SF"
+   ],
+   "posted_at": 1792536156,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1792544366,
+   "uid": "c0146a96f9de0107"
+  },
+  {
+   "source": "Simplify",
+   "company": "Keysight Technologies",
+   "title": "Hardware Engineering Intern",
+   "url": "https://jobs.keysight.com/jobs/55112?icims=1",
+   "locations": [
+    "Santa Rosa, CA"
+   ],
+   "posted_at": 1792535436,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1792544366,
+   "uid": "262bedaf60a1e316"
+  },
   {
    "source": "Simplify",
    "company": "Skydio",
