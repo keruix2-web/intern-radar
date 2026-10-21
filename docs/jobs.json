@@ -1,6 +1,6 @@
 {
- "generated_at": 1792598606,
- "count": 523,
+ "generated_at": 1792613426,
+ "count": 521,
  "jobs": [
   {
    "source": "Simplify",
@@ -7434,27 +7434,6 @@
   {
    "source": "Simplify",
    "company": "L3Harris Technologies",
-   "title": "Electro-Optical Engineering Co-op",
-   "url": "https://jobs.l3harris.com/job/Waterdown-Electro-Optical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428468700/?ats=successfactors",
-   "locations": [
-    "Waterdown, Hamilton, ON, Canada"
-   ],
-   "posted_at": 1789049803,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "optical engineering (+2)"
-   ],
-   "first_seen": 1791454351,
-   "uid": "6e7d1d6fab5db516"
-  },
-  {
-   "source": "Simplify",
-   "company": "L3Harris Technologies",
    "title": "Electrical Engineer Co-op",
    "url": "https://jobs.l3harris.com/job/Waterdown-Electrical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428467500/?ats=successfactors",
    "locations": [
@@ -10760,28 +10739,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "9cca48f20c24d6c9"
-  },
-  {
-   "source": "Simplify",
-   "company": "Citadel Securities",
-   "title": "FPGA Engineer Intern",
-   "url": "https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/",
-   "locations": [
-    "Miami, FL",
-    "NYC"
-   ],
-   "posted_at": 1783318269,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "fpga (+3)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "b65979ef54a7e2e2"
   },
   {
    "source": "Simplify",
