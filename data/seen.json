@@ -1,5 +1,5 @@
 {
- "count": 838,
+ "count": 841,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -2005,6 +2005,12 @@
    "title": "Electrical Engineer Co-op - Summer/Fall",
    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Engineering-Co-op--Summer-Fall-27-_01870533"
   },
+  "666a91387f6d34f9": {
+   "company": "Marvell",
+   "first_seen": 1792598606,
+   "title": "Silicon Validation Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Silicon-Validation-Intern--BS---Summer-2027_2603850-1"
+  },
   "66d001e17a35b7d2": {
    "company": "Keysight Technologies",
    "first_seen": 1790205059,
@@ -2947,6 +2953,12 @@
    "title": "Layout Design Intern",
    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017338"
   },
+  "9ae50a82e0f9fcf8": {
+   "company": "Analog Devices",
+   "first_seen": 1792598606,
+   "title": "Analog Design Engineer Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern_R267421"
+  },
   "9b36906ad559d1c3": {
    "company": "NVIDIA",
    "first_seen": 1787135234,
@@ -3450,6 +3462,12 @@
    "first_seen": 1788434053,
    "title": "Electrical Engineer Intern",
    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Electrical-Engineering-Intern_01867089"
+  },
+  "b3184d2052285463": {
+   "company": "Leonardo",
+   "first_seen": 1792598606,
+   "title": "Detector IC Design Intern",
+   "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Southampton/Industrial-Placement-Detector-IC-Design_R0034267"
   },
   "b364d9b6f49a8473": {
    "company": "Semtech",
@@ -5030,6 +5048,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1792581449,
- "runs": 639
+ "last_run": 1792598606,
+ "runs": 640
 }
