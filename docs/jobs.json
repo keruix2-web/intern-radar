@@ -1,7 +1,70 @@
 {
- "generated_at": 1792613426,
- "count": 521,
+ "generated_at": 1792624798,
+ "count": 524,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Qualcomm",
+   "title": "Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721661830",
+   "locations": [
+    "Markham, ON, Canada"
+   ],
+   "posted_at": 1792621577,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1792624798,
+   "uid": "2b8b43cbdc2eea49"
+  },
+  {
+   "source": "Simplify",
+   "company": "Meta",
+   "title": "Research Intern - Audio Hardware",
+   "url": "https://www.metacareers.com/jobs/1445807477756644",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "posted_at": 1792620484,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1792624798,
+   "uid": "108d55524215d6a0"
+  },
+  {
+   "source": "Simplify",
+   "company": "Safran",
+   "title": "Optical Engineering Intern",
+   "url": "https://careers.safran-dsi.com/job/Bedford-Optical-Engineering-Internship-NH-03110/1431030500/?ats=successfactors",
+   "locations": [
+    "Bedford, NH"
+   ],
+   "posted_at": 1792613572,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "optical engineering (+2)"
+   ],
+   "first_seen": 1792624798,
+   "uid": "74ddf8405cb537fb"
+  },
   {
    "source": "Simplify",
    "company": "Analog Devices",
@@ -66,6 +129,27 @@
    ],
    "first_seen": 1792598606,
    "uid": "666a91387f6d34f9"
+  },
+  {
+   "source": "Simplify",
+   "company": "GlobalFoundries",
+   "title": "Systems/Process Engineering Intern - Tapeout Operations",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Systems-Process-Engineering--Tapeout-Operations-Summer-2027-_JR-2604924",
+   "locations": [
+    "Malta, NY"
+   ],
+   "posted_at": 1792540800,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "tapeout (+3)"
+   ],
+   "first_seen": 1792624798,
+   "uid": "c6e2a78083463fc1"
   },
   {
    "source": "Simplify",
@@ -175,6 +259,26 @@
    ],
    "first_seen": 1792535712,
    "uid": "63986265351eec87"
+  },
+  {
+   "source": "Ashby",
+   "company": "Skydio",
+   "title": "Hardware Test and Reliability Intern - Summer 2027",
+   "url": "https://jobs.ashbyhq.com/skydio/36d75e36-eeb2-4399-8887-37c4a5ff5800",
+   "locations": [
+    "San Mateo, California, United States"
+   ],
+   "posted_at": 1792531702,
+   "terms": [],
+   "sponsorship": "",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "hardware (+2)",
+    "reliability (+1)"
+   ],
+   "first_seen": 1792624798,
+   "uid": "d51afb6efdb7c75c"
   },
   {
    "source": "Ashby",
@@ -839,29 +943,6 @@
    ],
    "first_seen": 1792367783,
    "uid": "1ca94f19572440e6"
-  },
-  {
-   "source": "Simplify",
-   "company": "Boston Scientific",
-   "title": "Electrical Hardware Engineer Intern",
-   "url": "https://bostonscientific.eightfold.ai/careers/job/563602813563527",
-   "locations": [
-    "Arden Hills, MN"
-   ],
-   "posted_at": 1792190304,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 7,
-   "reasons": [
-    "hardware engineer (+3)",
-    "hardware (+2)",
-    "electrical (+2)"
-   ],
-   "first_seen": 1792196189,
-   "uid": "6a88880bc968f5ed"
   },
   {
    "source": "Simplify",
@@ -4072,6 +4153,28 @@
   },
   {
    "source": "Simplify",
+   "company": "Leidos",
+   "title": "Embedded Design Engineer Intern - Firmware",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "posted_at": 1790726400,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "embedded (+1)",
+    "firmware (+1)"
+   ],
+   "first_seen": 1790812359,
+   "uid": "ea6c23f638957448"
+  },
+  {
+   "source": "Simplify",
    "company": "Tesla",
    "title": "AI Hardware Design Verification Engineer Intern - AI Hardware - Tesla AI",
    "url": "https://www.tesla.com/careers/search/job/285088",
@@ -4252,27 +4355,6 @@
   },
   {
    "source": "Simplify",
-   "company": "RTX",
-   "title": "Electrical Design Engineer Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Design-Engineer-Intern--Summer-2027-_01877254",
-   "locations": [
-    "Windsor Locks, CT"
-   ],
-   "posted_at": 1790640000,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1790723236,
-   "uid": "be2d55238fdbcc59"
-  },
-  {
-   "source": "Simplify",
    "company": "Hewlett Packard Enterprise",
    "title": "Electrical Hardware Engineer Intern",
    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Hardware-Engineering-Intern_1213421",
@@ -4293,27 +4375,6 @@
    ],
    "first_seen": 1791275734,
    "uid": "84c30f0f5045fb4e"
-  },
-  {
-   "source": "Simplify",
-   "company": "RTX",
-   "title": "Electrical Engineer Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Design-Intern--Summer-2027-_01876761",
-   "locations": [
-    "Windsor Locks, CT"
-   ],
-   "posted_at": 1790640000,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1792473629,
-   "uid": "38774c3398d2c611"
   },
   {
    "source": "Simplify",
@@ -7968,6 +8029,29 @@
   },
   {
    "source": "Simplify",
+   "company": "Microchip Technology",
+   "title": "Engineering Intern - ASIC Verification",
+   "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3870-N-First-St/Intern---Engineering--ASIC-Verification-_R3851-26",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1788825600,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 7,
+   "reasons": [
+    "asic (+3)",
+    "verification (+2)",
+    "asic verification (+2)"
+   ],
+   "first_seen": 1788909145,
+   "uid": "75e4d48091e8b8ca"
+  },
+  {
+   "source": "Simplify",
    "company": "Boeing",
    "title": "Microelectronics R&D Intern - Engineering & Technology Innovation",
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Microelectronics-R-D-Intern_JR2026523675",
@@ -9615,29 +9699,6 @@
    ],
    "first_seen": 1788220763,
    "uid": "1e369fe21f1d1ec1"
-  },
-  {
-   "source": "Simplify",
-   "company": "V2X",
-   "title": "Electrical Engineer Intern - Hardware Engineering",
-   "url": "https://careers.gov2x.com/jobs/62685?icims=1",
-   "locations": [
-    "Indianapolis, IN"
-   ],
-   "posted_at": 1787959067,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 7,
-   "reasons": [
-    "hardware engineering (+3)",
-    "hardware (+2)",
-    "electrical (+2)"
-   ],
-   "first_seen": 1788434053,
-   "uid": "a59483ae01234366"
   },
   {
    "source": "Simplify",

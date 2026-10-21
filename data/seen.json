@@ -1,5 +1,5 @@
 {
- "count": 841,
+ "count": 846,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -384,6 +384,12 @@
    "first_seen": 1789169289,
    "title": "Photonic Integrated Circuit Design Intern",
    "url": "https://jobs.eu.lever.co/quantinuum/ef4b4db2-4ce1-47f5-bfd1-12dfc8a90107/apply"
+  },
+  "108d55524215d6a0": {
+   "company": "Meta",
+   "first_seen": 1792624798,
+   "title": "Research Intern - Audio Hardware",
+   "url": "https://www.metacareers.com/jobs/1445807477756644"
   },
   "10a0565bad3457d6": {
    "company": "RTX",
@@ -954,6 +960,12 @@
    "first_seen": 1787095247,
    "title": "Long Range Platform Embedded Firmware Intern - Summer 2027",
    "url": "https://www.zipline.com/open-roles?gh_jid=7891459003"
+  },
+  "2b8b43cbdc2eea49": {
+   "company": "Qualcomm",
+   "first_seen": 1792624798,
+   "title": "Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721661830"
   },
   "2b9228dd25e278e3": {
    "company": "Rivian",
@@ -2274,6 +2286,12 @@
    "first_seen": 1787179851,
    "title": "Hardware Test Intern - Summer 2027",
    "url": "https://www.zipline.com/open-roles?gh_jid=7903483003"
+  },
+  "74ddf8405cb537fb": {
+   "company": "Safran",
+   "first_seen": 1792624798,
+   "title": "Optical Engineering Intern",
+   "url": "https://careers.safran-dsi.com/job/Bedford-Optical-Engineering-Internship-NH-03110/1431030500/?ats=successfactors"
   },
   "7535d03a08ddda17": {
    "company": "Google",
@@ -3895,6 +3913,12 @@
    "title": "Research Intern - Robotic Hardware - Simulation and Data",
    "url": "https://jobs.ashbyhq.com/applied/5bb0567a-8d07-4cc4-be7c-c06b31361883/application"
   },
+  "c6e2a78083463fc1": {
+   "company": "GlobalFoundries",
+   "first_seen": 1792624798,
+   "title": "Systems/Process Engineering Intern - Tapeout Operations",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Systems-Process-Engineering--Tapeout-Operations-Summer-2027-_JR-2604924"
+  },
   "c731d161cd99219f": {
    "company": "Astranis",
    "first_seen": 1790148167,
@@ -4182,6 +4206,12 @@
    "first_seen": 1791859900,
    "title": "SSD Hardware Engineering Intern",
    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---SSD-Hardware-Engineering_JR114232"
+  },
+  "d51afb6efdb7c75c": {
+   "company": "Skydio",
+   "first_seen": 1792624798,
+   "title": "Hardware Test and Reliability Intern - Summer 2027",
+   "url": "https://jobs.ashbyhq.com/skydio/36d75e36-eeb2-4399-8887-37c4a5ff5800"
   },
   "d542f36f059d71f9": {
    "company": "Anduril",
@@ -5048,6 +5078,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1792613426,
- "runs": 641
+ "last_run": 1792624798,
+ "runs": 642
 }
