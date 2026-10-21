@@ -1,6 +1,6 @@
 {
- "generated_at": 1792544366,
- "count": 522,
+ "generated_at": 1792562102,
+ "count": 520,
  "jobs": [
   {
    "source": "Simplify",
@@ -9553,28 +9553,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Northwood Space",
-   "title": "Electrical Engineer Intern - Summer Internship",
-   "url": "https://jobs.ashbyhq.com/NorthwoodSpace/1bc230b1-5ad2-44b8-ad61-e80a730e5026/application?embed=true",
-   "locations": [
-    "LA",
-    "Torrance, CA"
-   ],
-   "posted_at": 1787964321,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788434053,
-   "uid": "42088ac2bcfe32e6"
-  },
-  {
-   "source": "Simplify",
    "company": "V2X",
    "title": "Electrical Engineer Intern - Hardware Engineering",
    "url": "https://careers.gov2x.com/jobs/62685?icims=1",
@@ -10317,28 +10295,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "4d896cb7f775088a"
-  },
-  {
-   "source": "Simplify",
-   "company": "Skydio",
-   "title": "Hardware Test & Reliability Intern",
-   "url": "https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924/application?embed=true",
-   "locations": [
-    "San Mateo, CA"
-   ],
-   "posted_at": 1785892611,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 3,
-   "reasons": [
-    "hardware (+2)",
-    "reliability (+1)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "6240864d09acafb4"
   },
   {
    "source": "Simplify",
