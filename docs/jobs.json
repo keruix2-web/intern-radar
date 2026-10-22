@@ -1,7 +1,28 @@
 {
- "generated_at": 1792633325,
- "count": 521,
+ "generated_at": 1792651044,
+ "count": 523,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Tacit",
+   "title": "System Electrical Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/tacit/cadc8b71-ee79-4b44-951b-da7c5a0142eb/application?embed=true",
+   "locations": [
+    "SF"
+   ],
+   "posted_at": 1792633186,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1792651044,
+   "uid": "11c3c446252c87ee"
+  },
   {
    "source": "Simplify",
    "company": "Qualcomm",
@@ -1158,29 +1179,6 @@
    ],
    "first_seen": 1792083002,
    "uid": "6927c98e212f77db"
-  },
-  {
-   "source": "Simplify",
-   "company": "Leidos",
-   "title": "Electrical Hardware Design Engineer Intern",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00193394",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "posted_at": 1792022400,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 7,
-   "reasons": [
-    "hardware design (+3)",
-    "hardware (+2)",
-    "electrical (+2)"
-   ],
-   "first_seen": 1790723236,
-   "uid": "4373877c5774b93c"
   },
   {
    "source": "Simplify",
@@ -2509,6 +2507,27 @@
   },
   {
    "source": "Simplify",
+   "company": "General Motors",
+   "title": "AV Sensor Design, Release and Integration Intern",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AV-Sensor-Design--Release-and-Integration_JR-202621993",
+   "locations": [
+    "Warren, MI"
+   ],
+   "posted_at": 1791331200,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "sensor (+2)"
+   ],
+   "first_seen": 1791416435,
+   "uid": "04c9031c539ee8f7"
+  },
+  {
+   "source": "Simplify",
    "company": "Nokia",
    "title": "Mixed Signal Circuit Design Co-op",
    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41222",
@@ -3401,6 +3420,28 @@
    ],
    "first_seen": 1791251675,
    "uid": "cac5d837c51331b5"
+  },
+  {
+   "source": "Simplify",
+   "company": "General Motors",
+   "title": "Summer Intern - AI & Hardware Analytics - Adpt",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756",
+   "locations": [
+    "Milford, MI",
+    "Warren, MI"
+   ],
+   "posted_at": 1791158400,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1791251675,
+   "uid": "628c372ad3a6e3a8"
   },
   {
    "source": "Simplify",
@@ -5528,28 +5569,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Saab",
-   "title": "Electrical Engineering Co-op",
-   "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Aspen-Park/Electrical-Engineering-Co-Op--Summer-2027-_R-03293-1",
-   "locations": [
-    "East Syracuse, NY"
-   ],
-   "posted_at": 1790121600,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "electrical (+2)",
-    "electrical engineering (+2)"
-   ],
-   "first_seen": 1790205059,
-   "uid": "79fdc007ad63aa77"
-  },
-  {
-   "source": "Simplify",
    "company": "Analog Devices",
    "title": "Analog Design Engineering Intern",
    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Analog-Design-Engineering-Intern_R266614",
@@ -5857,6 +5876,31 @@
    ],
    "first_seen": 1790035604,
    "uid": "5482d3c611e00d4b"
+  },
+  {
+   "source": "Simplify",
+   "company": "General Motors",
+   "title": "Embedded and Systems Engineering Intern - Digital Product",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513",
+   "locations": [
+    "Austin, TX",
+    "Milford, MI",
+    "Mountain View, CA",
+    "Warren, MI"
+   ],
+   "posted_at": 1789948800,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "embedded (+1)",
+    "systems engineering (+1)"
+   ],
+   "first_seen": 1790035604,
+   "uid": "3292b8525b441251"
   },
   {
    "source": "Simplify",
