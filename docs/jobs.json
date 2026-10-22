@@ -1,7 +1,50 @@
 {
- "generated_at": 1792702205,
- "count": 522,
+ "generated_at": 1792713235,
+ "count": 528,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Peak Energy",
+   "title": "Systems Integration and Test Engineer Intern",
+   "url": "https://peakenergy.com/get-in-touch/careers/jobs?job_id=5272567007&gh_jid=5272567007",
+   "locations": [
+    "Burlingame, CA"
+   ],
+   "posted_at": 1792708684,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "test engineer (+1)",
+    "integration and test (+1)"
+   ],
+   "first_seen": 1792713235,
+   "uid": "54624055d16f5dde"
+  },
+  {
+   "source": "Simplify",
+   "company": "S&C Electric Company",
+   "title": "Electronics Engineering Intern - TBI",
+   "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107453",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "posted_at": 1792706539,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electronics (+2)"
+   ],
+   "first_seen": 1792713235,
+   "uid": "5be647c364d28bb2"
+  },
   {
    "source": "Simplify",
    "company": "Qualcomm",
@@ -43,6 +86,92 @@
    ],
    "first_seen": 1792651044,
    "uid": "11c3c446252c87ee"
+  },
+  {
+   "source": "Simplify",
+   "company": "Radiance Technologies",
+   "title": "Microelectronics Engineer Intern",
+   "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Ruston-LA/Microelectronics-Engineer-Intern_HR102520",
+   "locations": [
+    "Ruston, LA"
+   ],
+   "posted_at": 1792627200,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "microelectronics (+3)"
+   ],
+   "first_seen": 1792713235,
+   "uid": "55ee1916a0e2a409"
+  },
+  {
+   "source": "Simplify",
+   "company": "Ambarella",
+   "title": "Physical Design Engineer Intern",
+   "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Physical-Design-Engineer-Intern_JR100393",
+   "locations": [
+    "United States"
+   ],
+   "posted_at": 1792627200,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "physical design (+3)"
+   ],
+   "first_seen": 1792713235,
+   "uid": "e4f710d71da79d49"
+  },
+  {
+   "source": "Simplify",
+   "company": "Badger Meter",
+   "title": "Electronics/Electrical Engineering Intern",
+   "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Electronics-Electrical-Engineering-Internship_4633",
+   "locations": [
+    "Milwaukee, WI"
+   ],
+   "posted_at": 1792627200,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 6,
+   "reasons": [
+    "electrical (+2)",
+    "electronics (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1792713235,
+   "uid": "b1c2b4f41c4d63ab"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hewlett Packard Enterprise",
+   "title": "ASIC Engineering Intern",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Durham-North-Carolina-United-States-of-America/ASIC-Engineering-Intern_1214234",
+   "locations": [
+    "Durham, NC"
+   ],
+   "posted_at": 1792627200,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "asic (+3)"
+   ],
+   "first_seen": 1792713235,
+   "uid": "faeec020ce2cb5ba"
   },
   {
    "source": "Simplify",
@@ -9373,28 +9502,6 @@
   {
    "source": "Simplify",
    "company": "Qorvo",
-   "title": "Analog Design Engineer Intern - High Performance Analog - Advanced Cellular",
-   "url": "https://careers.qorvo.com/job/Richardson-Analog-Design-Engineering-Intern-TX-75081/1424728600/?ats=successfactors",
-   "locations": [
-    "Richardson, TX"
-   ],
-   "posted_at": 1788153920,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "analog design (+3)",
-    "analog (+2)"
-   ],
-   "first_seen": 1788158465,
-   "uid": "e0c674b19886429d"
-  },
-  {
-   "source": "Simplify",
-   "company": "Qorvo",
    "title": "Electrical Engineer Intern - Physical Verification",
    "url": "https://careers.qorvo.com/job/Greensboro-Software-Engineering-Intern,-SWR-NC-27409/1422901500/?ats=successfactors",
    "locations": [
@@ -10754,6 +10861,28 @@
    ],
    "first_seen": 1786988749,
    "uid": "9cca48f20c24d6c9"
+  },
+  {
+   "source": "Simplify",
+   "company": "Citadel Securities",
+   "title": "FPGA Engineer Intern",
+   "url": "https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/",
+   "locations": [
+    "Miami, FL",
+    "NYC"
+   ],
+   "posted_at": 1783318269,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "fpga (+3)"
+   ],
+   "first_seen": 1786988749,
+   "uid": "b65979ef54a7e2e2"
   },
   {
    "source": "Simplify",
