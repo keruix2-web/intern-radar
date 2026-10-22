@@ -1,5 +1,5 @@
 {
- "count": 848,
+ "count": 849,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -2490,6 +2490,12 @@
    "first_seen": 1787604488,
    "title": "Advanced Spectroscopy and Nanoscale Materials Characterization Intern",
    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/XMLNAME-2027-Summer-Intern--Advanced-Spectroscopy-and-Nanoscale-Materials-Characterization_JR109071"
+  },
+  "7f3f5adb571019ba": {
+   "company": "Qualcomm",
+   "first_seen": 1792690375,
+   "title": "Applied AI Engineering Intern - Hardware Systems",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721678733"
   },
   "7f4fa7717e9dfef4": {
    "company": "RTX",
@@ -5090,6 +5096,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1792672137,
- "runs": 645
+ "last_run": 1792690375,
+ "runs": 646
 }

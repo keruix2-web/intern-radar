@@ -1,7 +1,28 @@
 {
- "generated_at": 1792672137,
- "count": 523,
+ "generated_at": 1792690375,
+ "count": 522,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Qualcomm",
+   "title": "Applied AI Engineering Intern - Hardware Systems",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721678733",
+   "locations": [
+    "Vancouver, BC, Canada"
+   ],
+   "posted_at": 1792678332,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1792690375,
+   "uid": "7f3f5adb571019ba"
+  },
   {
    "source": "Simplify",
    "company": "Tacit",
@@ -1748,28 +1769,6 @@
    ],
    "first_seen": 1791939831,
    "uid": "362975c5f2ce4fd7"
-  },
-  {
-   "source": "Simplify",
-   "company": "GlobalFoundries",
-   "title": "Silicon Photonics Advanced Packaging Intern",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Advanced-Packaging-Intern--Summer-2027-_JR-2604269",
-   "locations": [
-    "Malta, NY"
-   ],
-   "posted_at": 1791849600,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "silicon (+3)",
-    "photonics (+2)"
-   ],
-   "first_seen": 1788460724,
-   "uid": "6afca8f55a376899"
   },
   {
    "source": "Simplify",
@@ -4174,28 +4173,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Leidos",
-   "title": "Embedded Design Engineer Intern - Firmware",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "posted_at": 1790726400,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "embedded (+1)",
-    "firmware (+1)"
-   ],
-   "first_seen": 1790812359,
-   "uid": "ea6c23f638957448"
-  },
-  {
-   "source": "Simplify",
    "company": "Tesla",
    "title": "AI Hardware Design Verification Engineer Intern - AI Hardware - Tesla AI",
    "url": "https://www.tesla.com/careers/search/job/285088",
@@ -5897,6 +5874,31 @@
    ],
    "first_seen": 1790035604,
    "uid": "5482d3c611e00d4b"
+  },
+  {
+   "source": "Simplify",
+   "company": "General Motors",
+   "title": "Embedded and Systems Engineering Intern - Digital Product",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513",
+   "locations": [
+    "Austin, TX",
+    "Milford, MI",
+    "Mountain View, CA",
+    "Warren, MI"
+   ],
+   "posted_at": 1789948800,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "embedded (+1)",
+    "systems engineering (+1)"
+   ],
+   "first_seen": 1790035604,
+   "uid": "3292b8525b441251"
   },
   {
    "source": "Simplify",
@@ -8785,28 +8787,6 @@
    ],
    "first_seen": 1788501265,
    "uid": "663689618ab79da5"
-  },
-  {
-   "source": "Simplify",
-   "company": "Viavi Solutions",
-   "title": "Optical & Electrical Engineering Intern",
-   "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Optical---Electrical-Engineering-Intern_260004968-2",
-   "locations": [
-    "Indianapolis, IN"
-   ],
-   "posted_at": 1788393600,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "electrical (+2)",
-    "electrical engineering (+2)"
-   ],
-   "first_seen": 1788501265,
-   "uid": "bf28d488e3eda610"
   },
   {
    "source": "Simplify",
