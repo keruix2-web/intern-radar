@@ -1,5 +1,5 @@
 {
- "count": 864,
+ "count": 869,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -823,6 +823,12 @@
    "title": "Electrical Engineer Intern - Winter",
    "url": "https://jobs.ashbyhq.com/fab2/d6d07a47-9501-4928-b5b9-56191e2804fc/application?embed=true"
   },
+  "232a1f5815440a00": {
+   "company": "Fab2",
+   "first_seen": 1792764346,
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/fab2/aec19ef8-2257-4295-abc2-87afd05224ae/application?embed=true"
+  },
   "236a282da964e7ff": {
    "company": "Qorvo",
    "first_seen": 1788158465,
@@ -1104,6 +1110,12 @@
    "first_seen": 1789424135,
    "title": "Hardware Engineer Intern",
    "url": "https://www.google.com/about/careers/applications/jobs/results/122803627516404422"
+  },
+  "33091f03a49c277d": {
+   "company": "Flex",
+   "first_seen": 1792764346,
+   "title": "Electrical Engineering Co-op",
+   "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-NH-Hollis/Electrical-Engineering-Co-op_WD226386"
   },
   "336e928739f3bbc8": {
    "company": "Astera Labs",
@@ -3049,6 +3061,12 @@
    "title": "Hardware Engineer Intern",
    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Hardware-Engineering-Intern_1213408"
   },
+  "9b65c448166792ee": {
+   "company": "Qorvo",
+   "first_seen": 1792764346,
+   "title": "RF Module Design Engineering Intern",
+   "url": "https://careers.qorvo.com/job/Apopka-RF-Module-Design-Engineering-Intern-FL-32703/1424717400/?ats=successfactors"
+  },
   "9c1973f95b34a386": {
    "company": "Microsoft",
    "first_seen": 1788583724,
@@ -4063,6 +4081,12 @@
    "title": "R&D Systems Hardware Engineering Co-op",
    "url": "https://careers-werfen.icims.com/jobs/11153/job?mobile=true&needsRedirect=false"
   },
+  "ca8963fb5ccf4867": {
+   "company": "Astranis",
+   "first_seen": 1792764346,
+   "title": "Electrical Reliability Associate Intern",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704788006"
+  },
   "cac5d837c51331b5": {
    "company": "BorgWarner",
    "first_seen": 1791251675,
@@ -4981,6 +5005,12 @@
    "title": "Semiconductor Systems Automation Intern",
    "url": "https://jobs.keysight.com/jobs/54371?icims=1"
   },
+  "f49fd5b94e962fa3": {
+   "company": "Qualcomm",
+   "first_seen": 1792764346,
+   "title": "Digital Design Engineer Intern",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721156182"
+  },
   "f4bb94ce2f26fa9b": {
    "company": "Astranis",
    "first_seen": 1790148167,
@@ -5186,6 +5216,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1792745478,
- "runs": 650
+ "last_run": 1792764346,
+ "runs": 651
 }
