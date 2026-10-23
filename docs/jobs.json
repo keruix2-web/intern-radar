@@ -1,6 +1,6 @@
 {
- "generated_at": 1792779736,
- "count": 541,
+ "generated_at": 1792791286,
+ "count": 535,
  "jobs": [
   {
    "source": "Simplify",
@@ -1382,27 +1382,6 @@
    ],
    "first_seen": 1792302855,
    "uid": "0ccfc81d4d02d98d"
-  },
-  {
-   "source": "Simplify",
-   "company": "Northrop Grumman",
-   "title": "Electrical Engineer 1 Intern",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME--Skillbridge----Electrical-Engineer-1_R10256539",
-   "locations": [
-    "Chandler, AZ"
-   ],
-   "posted_at": 1792281600,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1792367783,
-   "uid": "1ca94f19572440e6"
   },
   {
    "source": "Simplify",
@@ -3661,28 +3640,6 @@
   {
    "source": "Simplify",
    "company": "Cirrus Logic",
-   "title": "Embedded Firmware Engineer Intern",
-   "url": "https://jobs.eu.lever.co/cirrus/0af920c1-6ecb-447f-9b22-3eda6b8d4ed8/apply",
-   "locations": [
-    "Phoenix, AZ"
-   ],
-   "posted_at": 1791238588,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "embedded (+1)",
-    "firmware (+1)"
-   ],
-   "first_seen": 1791251675,
-   "uid": "6ec05d005d669618"
-  },
-  {
-   "source": "Simplify",
-   "company": "Cirrus Logic",
    "title": "Design Verification Engineer Intern",
    "url": "https://jobs.eu.lever.co/cirrus/c71a6365-31c7-4ba1-bdc4-9f2df1fc483e/apply",
    "locations": [
@@ -4639,27 +4596,6 @@
    ],
    "first_seen": 1790723236,
    "uid": "4de621c2b0d42862"
-  },
-  {
-   "source": "Simplify",
-   "company": "DEKA Research & Development Corp.",
-   "title": "Electrical Engineer Co-op",
-   "url": "https://deka.applytojob.com/apply/IGTaMelH6z/Electrical-Engineer-CoOp-Spring-2027",
-   "locations": [
-    "Manchester, NH"
-   ],
-   "posted_at": 1790720495,
-   "terms": [
-    "Spring 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1790723236,
-   "uid": "6c22f36ed66acc92"
   },
   {
    "source": "Simplify",
@@ -6240,29 +6176,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Electrical/Computer Engineering Intern - Space Science Electronics",
-   "url": "https://careers.jhuapl.edu/jobs/60123?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "posted_at": 1790086705,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 7,
-   "reasons": [
-    "computer engineering (+3)",
-    "electrical (+2)",
-    "electronics (+2)"
-   ],
-   "first_seen": 1790100344,
-   "uid": "40dde5020efcdb9b"
-  },
-  {
-   "source": "Simplify",
    "company": "Tesla",
    "title": "Power Electronics Firmware Engineer Intern",
    "url": "https://www.tesla.com/careers/search/job/284029",
@@ -7309,29 +7222,6 @@
    ],
    "first_seen": 1789433222,
    "uid": "82367138b2ed6878"
-  },
-  {
-   "source": "Simplify",
-   "company": "Cyvl",
-   "title": "Hardware Engineer Intern",
-   "url": "https://jobs.ashbyhq.com/cyvl/3590960d-4d02-48bb-a335-cb82e121a01e/application?embed=true",
-   "locations": [
-    "Boston, MA",
-    "Somerville, MA"
-   ],
-   "posted_at": 1789420443,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware engineer (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1789424135,
-   "uid": "49bbb83fc91c57e6"
   },
   {
    "source": "Simplify",
@@ -10227,26 +10117,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "89a3d384d07dea86"
-  },
-  {
-   "source": "Greenhouse",
-   "company": "Kodiak Robotics",
-   "title": "Winter 2027 Intern, Electrical Engineering",
-   "url": "https://job-boards.greenhouse.io/kodiak/jobs/4382626009",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "posted_at": 1787701920,
-   "terms": [],
-   "sponsorship": "",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "electrical (+2)",
-    "electrical engineering (+2)"
-   ],
-   "first_seen": 1787706795,
-   "uid": "759e09bdf1f4dbba"
   },
   {
    "source": "Ashby",
