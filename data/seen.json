@@ -1,5 +1,5 @@
 {
- "count": 869,
+ "count": 883,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -102,6 +102,12 @@
    "first_seen": 1787582435,
    "title": "Show Control Hardware Intern",
    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/WDI-Show-Control-Hardware-Intern--Glendale--Spring-2027_10158467"
+  },
+  "02cc65d0f12d25bd": {
+   "company": "Micron Technology",
+   "first_seen": 1792779736,
+   "title": "Signal Integrity Intern",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Signal-Integrity_JR112692"
   },
   "02e6fae24317329f": {
    "company": "Pennsylvania State University",
@@ -372,6 +378,18 @@
    "first_seen": 1786988749,
    "title": "Radio Frequency Engineering Intern",
    "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/RF-Engineering-Intern---2026_JR101095"
+  },
+  "0edf375dc507dd80": {
+   "company": "onsemi",
+   "first_seen": 1792779736,
+   "title": "Integrated Circuit Design Engineer Intern",
+   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506546"
+  },
+  "0f422f993cc74ce0": {
+   "company": "Marvell",
+   "first_seen": 1792779736,
+   "title": "Design Verification Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/CA-ON---Ontario---Toronto/Design-Verification-Intern_2603984"
   },
   "0fa28657a0da63c8": {
    "company": "EquipmentShare",
@@ -937,6 +955,18 @@
    "title": "Focused Ion Beam, Electron Microscopy, and Autonomous Characterization Intern - Multiple Teams",
    "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Focused-Ion-Beam--Electron-Microscopy--and-Autonomous-Characterization_R14431"
   },
+  "29956c73ffbb9909": {
+   "company": "L3Harris Technologies",
+   "first_seen": 1792779736,
+   "title": "Associate Integration & Test Engineer Intern",
+   "url": "https://jobs.l3harris.com/job/Clifton-Associate,-Integration-&-Test-Engineer-NJ-07014/1437605100/?ats=successfactors"
+  },
+  "2997845c8e4a8e9a": {
+   "company": "Marvell",
+   "first_seen": 1792779736,
+   "title": "Signal Integrity Intern Co-op",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Hardware-Validation-Intern--MS---2027-Co-Op_2603755"
+  },
   "29ca1a0ac0acff3f": {
    "company": "Johns Hopkins Applied Physics Laboratory",
    "first_seen": 1788501265,
@@ -1086,6 +1116,12 @@
    "first_seen": 1786988749,
    "title": "Analog Mixed-Signal Layout Intern",
    "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4721054005"
+  },
+  "324bf0b7a3397bb4": {
+   "company": "Analog Devices",
+   "first_seen": 1792779736,
+   "title": "Design Verification Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Design-Verification-Engineering-Intern_R267097"
   },
   "3279fedc3cfc51a9": {
    "company": "Leonardo",
@@ -1260,6 +1296,12 @@
    "first_seen": 1788310887,
    "title": "Hardware Systems Integration Intern (Winter/Spring 2027)",
    "url": "https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004"
+  },
+  "3d5c874a3414ef2c": {
+   "company": "Qualcomm",
+   "first_seen": 1792779736,
+   "title": "Silicon Engineering Intern",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721302528"
   },
   "3d70db9ca78fd377": {
    "company": "Astera Labs",
@@ -1573,6 +1615,12 @@
    "title": "Digital IC Design Intern - BS",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Digital-IC-Design-Intern--BS---Summer-2027_2604827-1"
   },
+  "4a4bfa551a9889d3": {
+   "company": "Honeywell",
+   "first_seen": 1792779736,
+   "title": "Electronics Engineer Intern",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159029"
+  },
   "4a7e86be7b6a59e4": {
    "company": "Texas Instruments",
    "first_seen": 1791693388,
@@ -1717,6 +1765,12 @@
    "title": "PMU Design Verification Intern",
    "url": "https://jobs.apple.com/en-us/details/200683293"
   },
+  "500dbae4c2bff791": {
+   "company": "Astera Labs",
+   "first_seen": 1792779736,
+   "title": "Platform Applications Engineer Intern Co-op - Tools & Validation Infrastructure",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4732319005"
+  },
   "5015ba9ef3622ea2": {
    "company": "Zipline",
    "first_seen": 1788447714,
@@ -1740,6 +1794,12 @@
    "first_seen": 1790205059,
    "title": "FPGA Intern (Summer 2027)",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704805006"
+  },
+  "516fff7873ee87f3": {
+   "company": "GlobalFoundries",
+   "first_seen": 1792779736,
+   "title": "Silicon Photonics Reliability Engineering Intern",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Reliability-Engineering-Intern--Summer-2027-_JR-2604258"
   },
   "51981e83400c95c4": {
    "company": "PsiQuantum",
@@ -2365,6 +2425,12 @@
    "title": "Winter 2027 Intern, Electrical Engineering",
    "url": "https://job-boards.greenhouse.io/kodiak/jobs/4382626009"
   },
+  "75c3887aa71ffed6": {
+   "company": "GlobalFoundries",
+   "first_seen": 1792779736,
+   "title": "Circuit Design Intern",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Circuit-Design-Intern--Master-s-or-PhD--Summer-2027-_JR-2604363"
+  },
   "75e4d48091e8b8ca": {
    "company": "Microchip Technology",
    "first_seen": 1788909145,
@@ -2670,6 +2736,12 @@
    "first_seen": 1790710065,
    "title": "Production Hardware Electrical Engineer Intern",
    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Production-Hardware-Electrical-Engineer-Intern--Summer-2027--Onsite-_01872221"
+  },
+  "83dee59b54be8b68": {
+   "company": "Astranis",
+   "first_seen": 1792779736,
+   "title": "Radio Frequency Hardware Intern",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4708436006"
   },
   "83efea7865cfa2e0": {
    "company": "Marvell",
@@ -3151,6 +3223,12 @@
    "title": "AI Hardware Design Verification Engineer Intern - AI Hardware - Tesla AI",
    "url": "https://www.tesla.com/careers/search/job/285088"
   },
+  "9f06a348104cb01f": {
+   "company": "Analog Devices",
+   "first_seen": 1792779736,
+   "title": "Design Verification Engineer Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Newbury/Design-Verification-Engineering-Intern_R267098"
+  },
   "9f80170f6b17cd98": {
    "company": "Nokia",
    "first_seen": 1789486415,
@@ -3162,6 +3240,12 @@
    "first_seen": 1792428222,
    "title": "Analog/Mixed Signal Design Intern",
    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Newbury/Analog-Mixed-Signal-Design-Intern_R267108"
+  },
+  "a051748f13aaba2b": {
+   "company": "GlobalFoundries",
+   "first_seen": 1792779736,
+   "title": "Reliability Test Engineer Intern",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Reliability-Test-Engineering-Intern--Summer-2027-_JR-2604361"
   },
   "a071ed419210ad49": {
    "company": "Hendrick Motorsports",
@@ -5216,6 +5300,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1792764346,
- "runs": 651
+ "last_run": 1792779736,
+ "runs": 652
 }
