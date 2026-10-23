@@ -1,7 +1,163 @@
 {
- "generated_at": 1792713235,
- "count": 528,
+ "generated_at": 1792726708,
+ "count": 531,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Amazon",
+   "title": "Cloud Hardware Development Engineer Intern",
+   "url": "https://amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027",
+   "locations": [
+    "Austin, TX",
+    "Cupertino, CA"
+   ],
+   "posted_at": 1792720306,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1792726708,
+   "uid": "b5cbe34ac4353559"
+  },
+  {
+   "source": "Simplify",
+   "company": "Amazon",
+   "title": "ASIC Engineer Intern",
+   "url": "https://amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027",
+   "locations": [
+    "Seattle, WA",
+    "Austin, TX",
+    "Cupertino, CA"
+   ],
+   "posted_at": 1792720306,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "asic (+3)"
+   ],
+   "first_seen": 1792726708,
+   "uid": "12cb3e1177fceb65"
+  },
+  {
+   "source": "Simplify",
+   "company": "Amazon",
+   "title": "ASIC Engineer Early Career Intern",
+   "url": "https://amazon.jobs/en/jobs/10558918/asic-engineer-i-annapurna-labs-early-career-2027",
+   "locations": [
+    "Seattle, WA",
+    "Austin, TX",
+    "Cupertino, CA"
+   ],
+   "posted_at": 1792720222,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "asic (+3)"
+   ],
+   "first_seen": 1792726708,
+   "uid": "2fe383fae116c9a6"
+  },
+  {
+   "source": "Simplify",
+   "company": "Amazon",
+   "title": "Embedded Firmware Co-op",
+   "url": "https://amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027",
+   "locations": [
+    "North Reading, MA",
+    "Westborough, MA"
+   ],
+   "posted_at": 1792720152,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "embedded (+1)",
+    "firmware (+1)"
+   ],
+   "first_seen": 1792726708,
+   "uid": "c8b168867d0fc25d"
+  },
+  {
+   "source": "Simplify",
+   "company": "Amazon",
+   "title": "ASIC Engineer Intern",
+   "url": "https://amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "posted_at": 1792719939,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "asic (+3)"
+   ],
+   "first_seen": 1792726708,
+   "uid": "bf9c8f7361b89137"
+  },
+  {
+   "source": "Simplify",
+   "company": "Amazon",
+   "title": "Hardware Development Engineer Intern",
+   "url": "https://amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027",
+   "locations": [
+    "Bellevue, WA"
+   ],
+   "posted_at": 1792719937,
+   "terms": [
+    "Winter 2027",
+    "Summer 2027",
+    "Fall 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1792726708,
+   "uid": "06606fbf9002e5d4"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astera Labs",
+   "title": "Signal Integrity Solutions Architect Intern",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4746899005",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1792717861,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "signal integrity (+2)"
+   ],
+   "first_seen": 1792726708,
+   "uid": "bce0a0e140ac71c2"
+  },
   {
    "source": "Simplify",
    "company": "Peak Energy",
@@ -172,6 +328,28 @@
    ],
    "first_seen": 1792713235,
    "uid": "faeec020ce2cb5ba"
+  },
+  {
+   "source": "Simplify",
+   "company": "Rockwell Automation",
+   "title": "Electrical Engineer Intern",
+   "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Eden-Prairie-Minnesota-United-States/Intern--Electrical-Engineer_R26-8320-1",
+   "locations": [
+    "Mequon, WI",
+    "Eden Prairie, MN"
+   ],
+   "posted_at": 1792627200,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1792726708,
+   "uid": "bd4a3634e759628c"
   },
   {
    "source": "Simplify",
@@ -6542,51 +6720,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Emerson Electric",
-   "title": "Electrical Engineer Co-op",
-   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011003",
-   "locations": [
-    "Rockford, IL",
-    "Elyria, OH"
-   ],
-   "posted_at": 1789596890,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1789603625,
-   "uid": "e7feb4497b2f4e93"
-  },
-  {
-   "source": "Simplify",
-   "company": "Emerson Electric",
-   "title": "Electrical Engineering Co-op",
-   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010996",
-   "locations": [
-    "Rockford, IL",
-    "Elyria, OH"
-   ],
-   "posted_at": 1789596890,
-   "terms": [
-    "Spring 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "electrical (+2)",
-    "electrical engineering (+2)"
-   ],
-   "first_seen": 1789603625,
-   "uid": "b032a988b9d52c1c"
-  },
-  {
-   "source": "Simplify",
    "company": "CesiumAstro",
    "title": "Electrical Engineer Intern - Hardware",
    "url": "https://jobs.lever.co/CesiumAstro/6a953cbc-af69-452c-b357-1a0a3db80bbf/apply",
@@ -7214,27 +7347,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Blue Robotics",
-   "title": "Electronics Design Co-op",
-   "url": "https://ats.rippling.com/blue-robotics/jobs/25a883e5-3fa4-459e-9762-5f33a3512cd8",
-   "locations": [
-    "Victoria, BC, Canada"
-   ],
-   "posted_at": 1789170973,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electronics (+2)"
-   ],
-   "first_seen": 1789176399,
-   "uid": "043e8a225ff655c8"
-  },
-  {
-   "source": "Simplify",
    "company": "AMD",
    "title": "Analog/Mixed-Signal Design Intern/Co-op",
    "url": "https://careers.amd.com/jobs/92346?icims=1",
@@ -7281,27 +7393,6 @@
    ],
    "first_seen": 1789169289,
    "uid": "f52d3f8c2c2733ff"
-  },
-  {
-   "source": "Simplify",
-   "company": "Quantinuum",
-   "title": "Electrical Engineer Intern",
-   "url": "https://jobs.eu.lever.co/quantinuum/672bb667-0569-44bc-a2fa-a0fcd85673fb/apply",
-   "locations": [
-    "Broomfield, CO"
-   ],
-   "posted_at": 1789164972,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1789169289,
-   "uid": "5211b60cb0a2db60"
   },
   {
    "source": "Simplify",
@@ -9696,28 +9787,6 @@
    ],
    "first_seen": 1788158465,
    "uid": "99c8d7374017c57d"
-  },
-  {
-   "source": "Simplify",
-   "company": "Qorvo",
-   "title": "Test Engineer Intern - RF Load Pull",
-   "url": "https://careers.qorvo.com/job/Richardson-Test-Engineering-Intern-TX-75081/1424731100/?ats=successfactors",
-   "locations": [
-    "Richardson, TX"
-   ],
-   "posted_at": 1788153912,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 3,
-   "reasons": [
-    "rf (+2)",
-    "test engineer (+1)"
-   ],
-   "first_seen": 1788158465,
-   "uid": "5bf5d363b8e8f35b"
   },
   {
    "source": "Simplify",
