@@ -1,6 +1,6 @@
 {
- "generated_at": 1792832908,
- "count": 536,
+ "generated_at": 1792848031,
+ "count": 535,
  "jobs": [
   {
    "source": "Simplify",
@@ -2927,29 +2927,6 @@
    ],
    "first_seen": 1791693388,
    "uid": "dd99856dea20feb0"
-  },
-  {
-   "source": "Simplify",
-   "company": "L3Harris Technologies",
-   "title": "Associate Integration & Test Engineer Intern",
-   "url": "https://jobs.l3harris.com/job/Clifton-Associate,-Integration-&-Test-Engineer-NJ-07014/1437605100/?ats=successfactors",
-   "locations": [
-    "Clinton, MD",
-    "Clifton, NJ"
-   ],
-   "posted_at": 1791353216,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "test engineer (+1)",
-    "integration test (+1)"
-   ],
-   "first_seen": 1792779736,
-   "uid": "29956c73ffbb9909"
   },
   {
    "source": "Simplify",
@@ -10604,6 +10581,29 @@
   },
   {
    "source": "Simplify",
+   "company": "WindBorne Systems",
+   "title": "Embedded Electrical Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/windborne-systems/a0adb58d-37e7-4e37-abf5-c77d63d4dd8f/application?embed=true",
+   "locations": [
+    "Palo Alto, CA",
+    "Redwood City, CA"
+   ],
+   "posted_at": 1786574688,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 3,
+   "reasons": [
+    "electrical (+2)",
+    "embedded (+1)"
+   ],
+   "first_seen": 1788460724,
+   "uid": "e674b56490884e6c"
+  },
+  {
+   "source": "Simplify",
    "company": "Foundation ",
    "title": "Electrical Engineer Intern",
    "url": "https://ats.rippling.com/foundation-robotics/jobs/6be9c342-d335-4955-83c9-3d4482811307",
@@ -10826,28 +10826,6 @@
    ],
    "first_seen": 1788460724,
    "uid": "0213cf510fd5668d"
-  },
-  {
-   "source": "Simplify",
-   "company": "Flex",
-   "title": "Electrical Engineering Co-op",
-   "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-NH-Hollis/Electrical-Engineering-Co-op_WD226386",
-   "locations": [
-    "Hollis, NH"
-   ],
-   "posted_at": 1785369600,
-   "terms": [
-    "Winter 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "electrical (+2)",
-    "electrical engineering (+2)"
-   ],
-   "first_seen": 1792764346,
-   "uid": "33091f03a49c277d"
   },
   {
    "source": "Greenhouse",
