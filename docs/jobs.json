@@ -1,6 +1,6 @@
 {
- "generated_at": 1792860510,
- "count": 535,
+ "generated_at": 1792869392,
+ "count": 519,
  "jobs": [
   {
    "source": "Simplify",
@@ -2546,28 +2546,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Werfen",
-   "title": "R&D Systems Hardware Engineering Co-op",
-   "url": "https://careers-werfen.icims.com/jobs/11153/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Bedford, MA"
-   ],
-   "posted_at": 1791555615,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware engineering (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1791693388,
-   "uid": "ca6a2c17aa387151"
-  },
-  {
-   "source": "Simplify",
    "company": "Texas Instruments",
    "title": "Analog IC Design Engineer Intern",
    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016378",
@@ -2809,27 +2787,6 @@
    ],
    "first_seen": 1791693388,
    "uid": "90ebad397c2fd877"
-  },
-  {
-   "source": "Simplify",
-   "company": "Werfen",
-   "title": "Acute Care Hardware Systems Engineer Co-op",
-   "url": "https://careers-werfen.icims.com/jobs/10995/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Bedford, MA"
-   ],
-   "posted_at": 1791411579,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1791693388,
-   "uid": "1ba570cfa857a647"
   },
   {
    "source": "Simplify",
@@ -3077,29 +3034,6 @@
    ],
    "first_seen": 1791331311,
    "uid": "9e0a59fadc34ad9c"
-  },
-  {
-   "source": "Simplify",
-   "company": "Alliance Laundry Systems",
-   "title": "Embedded Firmware Co-op",
-   "url": "https://uscareeropenings-alliancelaundry.icims.com/jobs/13348/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Ripon, WI"
-   ],
-   "posted_at": 1791325114,
-   "terms": [
-    "Summer 2027",
-    "Fall 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "embedded (+1)",
-    "firmware (+1)"
-   ],
-   "first_seen": 1791331311,
-   "uid": "5071a806a747bcb6"
   },
   {
    "source": "Simplify",
@@ -4210,51 +4144,6 @@
   },
   {
    "source": "Simplify",
-   "company": "General Dynamics Mission Systems",
-   "title": "Electrical Engineering Co-op",
-   "url": "https://careers-gdms.icims.com/jobs/74924/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Pittsfield, MA"
-   ],
-   "posted_at": 1790892923,
-   "terms": [
-    "Fall 2026",
-    "Winter 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "electrical (+2)",
-    "electrical engineering (+2)"
-   ],
-   "first_seen": 1790903858,
-   "uid": "b59b19f6e44a5dbf"
-  },
-  {
-   "source": "Simplify",
-   "company": "General Dynamics Mission Systems",
-   "title": "Electrical Engineering Intern",
-   "url": "https://careers-gdms.icims.com/jobs/75284/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Dedham, MA"
-   ],
-   "posted_at": 1790892917,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "electrical (+2)",
-    "electrical engineering (+2)"
-   ],
-   "first_seen": 1790903858,
-   "uid": "05a2f1caf8731ad7"
-  },
-  {
-   "source": "Simplify",
    "company": "Space Dynamics Laboratory",
    "title": "FPGA Electrical Engineer Intern - Civil & Commercial Space Division",
    "url": "https://spacedynamicslaboratory.applytojob.com/apply/SznZA6uzbW/CVS-FPGA-Electrical-Engineer-Intern",
@@ -4274,28 +4163,6 @@
    ],
    "first_seen": 1790875351,
    "uid": "a666b7a6a31ecb12"
-  },
-  {
-   "source": "Simplify",
-   "company": "General Dynamics Mission Systems",
-   "title": "Integration and Test Engineer Intern",
-   "url": "https://careers-gdms.icims.com/jobs/75271/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Canonsburg, PA"
-   ],
-   "posted_at": 1790864305,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "test engineer (+1)",
-    "integration and test (+1)"
-   ],
-   "first_seen": 1790875351,
-   "uid": "2b2a36cc6fcf9e10"
   },
   {
    "source": "Simplify",
@@ -5096,27 +4963,6 @@
    ],
    "first_seen": 1790380604,
    "uid": "7362148b675d656b"
-  },
-  {
-   "source": "Simplify",
-   "company": "Charles Schwab",
-   "title": "Model Risk Governance & Validation Intern",
-   "url": "https://career-schwab.icims.com/jobs/126262/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Southlake, TX"
-   ],
-   "posted_at": 1790374146,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "validation (+2)"
-   ],
-   "first_seen": 1790380604,
-   "uid": "815358257059f3f3"
   },
   {
    "source": "Simplify",
@@ -6576,27 +6422,6 @@
   },
   {
    "source": "Simplify",
-   "company": "General Dynamics Mission Systems",
-   "title": "Engineering Intern - FPGA",
-   "url": "https://careers-gdms.icims.com/jobs/75044/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Bloomington, MN"
-   ],
-   "posted_at": 1789769706,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "fpga (+3)"
-   ],
-   "first_seen": 1789787817,
-   "uid": "fad53fe6ea441c4d"
-  },
-  {
-   "source": "Simplify",
    "company": "Formlabs",
    "title": "Hardware Test Engineer Intern",
    "url": "https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515",
@@ -6747,28 +6572,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Lennox International",
-   "title": "Hardware Engineering Co-op",
-   "url": "https://uscareers-lennox.icims.com/jobs/54692/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Carrollton, TX"
-   ],
-   "posted_at": 1789683809,
-   "terms": [
-    "Spring 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware engineering (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1789689303,
-   "uid": "34852c28b8a06806"
-  },
-  {
-   "source": "Simplify",
    "company": "Qualcomm",
    "title": "Physical Mixed Layout Engineer Intern - Canada - Interim Engineering Intern - HW",
    "url": "https://qualcomm.eightfold.ai/careers/job/446721142985",
@@ -6787,28 +6590,6 @@
    ],
    "first_seen": 1789689303,
    "uid": "b75c89e74bf899bb"
-  },
-  {
-   "source": "Simplify",
-   "company": "General Dynamics Mission Systems",
-   "title": "Electrical Engineer Intern",
-   "url": "https://careers-gdms.icims.com/jobs/75019/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Salt Lake City, UT",
-    "Boise, ID"
-   ],
-   "posted_at": 1789683713,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1789689303,
-   "uid": "b72de8e103140b1e"
   },
   {
    "source": "Simplify",
@@ -6936,28 +6717,6 @@
    ],
    "first_seen": 1789689303,
    "uid": "1ff0bae49a9a3e22"
-  },
-  {
-   "source": "Simplify",
-   "company": "General Dynamics Mission Systems",
-   "title": "Hardware Electrical Engineer Intern - Crypto and Cross Domain Solutions",
-   "url": "https://careers-gdms.icims.com/jobs/74787/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Scottsdale, AZ"
-   ],
-   "posted_at": 1789596920,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "hardware (+2)",
-    "electrical (+2)"
-   ],
-   "first_seen": 1789603625,
-   "uid": "79fed546d7898a19"
   },
   {
    "source": "Simplify",
@@ -8123,28 +7882,6 @@
    "uid": "d38644916c8ef529"
   },
   {
-   "source": "Simplify",
-   "company": "Hexagon AB",
-   "title": "Digital Hardware Engineer Intern - GNSS Positioning Digital Team",
-   "url": "https://careers-hexagonpositioning.icims.com/jobs/3090/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Calgary, AB, Canada"
-   ],
-   "posted_at": 1788991844,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware engineer (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1788996508,
-   "uid": "168ebe86c1068fea"
-  },
-  {
    "source": "Greenhouse",
    "company": "Pacific Fusion",
    "title": "Summer 2027 Internship - Electrical Engineering",
@@ -9055,92 +8792,6 @@
    ],
    "first_seen": 1788434053,
    "uid": "6c59478b9164df91"
-  },
-  {
-   "source": "Simplify",
-   "company": "Shure",
-   "title": "Automated Test Engineer Intern - Hardware",
-   "url": "https://careersus-shure.icims.com/jobs/4960/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Niles, IL"
-   ],
-   "posted_at": 1788401123,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 3,
-   "reasons": [
-    "hardware (+2)",
-    "test engineer (+1)"
-   ],
-   "first_seen": 1788415817,
-   "uid": "8ff74add2cd04164"
-  },
-  {
-   "source": "Simplify",
-   "company": "Shure",
-   "title": "FPGA Development Intern",
-   "url": "https://careersus-shure.icims.com/jobs/4985/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Niles, IL"
-   ],
-   "posted_at": 1788401120,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "fpga (+3)"
-   ],
-   "first_seen": 1788415817,
-   "uid": "402abd4de654b43e"
-  },
-  {
-   "source": "Simplify",
-   "company": "Shure",
-   "title": "Electrical Engineer Intern - Pro Audio Circuitry",
-   "url": "https://careersus-shure.icims.com/jobs/5017/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Niles, IL"
-   ],
-   "posted_at": 1788401119,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788415817,
-   "uid": "c4ed005d6cc27fc2"
-  },
-  {
-   "source": "Simplify",
-   "company": "Shure",
-   "title": "Electrical Engineering Intern - Digital Circuitry",
-   "url": "https://careersus-shure.icims.com/jobs/5013/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Niles, IL"
-   ],
-   "posted_at": 1788401113,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "electrical (+2)",
-    "electrical engineering (+2)"
-   ],
-   "first_seen": 1791124667,
-   "uid": "edddd3b511ec2095"
   },
   {
    "source": "Simplify",
