@@ -1,7 +1,74 @@
 {
- "generated_at": 1792791286,
- "count": 535,
+ "generated_at": 1792800201,
+ "count": 540,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Upscale AI",
+   "title": "Advanced SerDes & Analog/Mixed-Signal IC Design Intern",
+   "url": "https://jobs.lever.co/upscale-ai/2bad3e47-6c00-4ec2-94b5-feb4009619c9/apply",
+   "locations": [
+    "United States"
+   ],
+   "posted_at": 1792793718,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 11,
+   "reasons": [
+    "ic design (+3)",
+    "serdes (+3)",
+    "mixed signal (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1792800201,
+   "uid": "912b8c1ce0b451e5"
+  },
+  {
+   "source": "Simplify",
+   "company": "Keysight Technologies",
+   "title": "FPGA Design Intern",
+   "url": "https://jobs.keysight.com/jobs/55150?icims=1",
+   "locations": [
+    "Calabasas, CA"
+   ],
+   "posted_at": 1792782480,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "fpga (+3)"
+   ],
+   "first_seen": 1792800201,
+   "uid": "e3a5c1c3ddb6e87c"
+  },
+  {
+   "source": "Simplify",
+   "company": "Keysight Technologies",
+   "title": "R&D Hardware Engineering Intern",
+   "url": "https://jobs.keysight.com/jobs/55239?icims=1",
+   "locations": [
+    "Santa Rosa, CA"
+   ],
+   "posted_at": 1792777500,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1792800201,
+   "uid": "ca955b318eb174ee"
+  },
   {
    "source": "Simplify",
    "company": "Honeywell",
@@ -244,6 +311,73 @@
    ],
    "first_seen": 1792779736,
    "uid": "9f06a348104cb01f"
+  },
+  {
+   "source": "Simplify",
+   "company": "GlobalFoundries",
+   "title": "Tapeout Engineer Intern - Tapeout Operations",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Tapeout-Engineering-Intern--Tapeout-Operations--Summer-2027-_JR-2604923",
+   "locations": [
+    "Essex Junction, VT"
+   ],
+   "posted_at": 1792713600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "tapeout (+3)"
+   ],
+   "first_seen": 1792800201,
+   "uid": "05f7969d73cb2ab3"
+  },
+  {
+   "source": "Simplify",
+   "company": "GlobalFoundries",
+   "title": "CPU IP Design & Verification Intern - RISC-V Processor Development",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/CPU-IP-Design---Verification-Intern---RISC-V-Processor-Development--Summer-2027-_JR-2604042",
+   "locations": [
+    "Austin, TX",
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1792713600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1792800201,
+   "uid": "0eca9e6034f1bc2a"
+  },
+  {
+   "source": "Simplify",
+   "company": "Intel",
+   "title": "AI Hardware Engineer Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533",
+   "locations": [
+    "Santa Clara, CA",
+    "Folsom, CA"
+   ],
+   "posted_at": 1792713600,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1792800201,
+   "uid": "e003ca460d9a5193"
   },
   {
    "source": "Simplify",
@@ -588,27 +722,6 @@
    ],
    "first_seen": 1792598606,
    "uid": "666a91387f6d34f9"
-  },
-  {
-   "source": "Simplify",
-   "company": "GlobalFoundries",
-   "title": "Systems/Process Engineering Intern - Tapeout Operations",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Systems-Process-Engineering--Tapeout-Operations-Summer-2027-_JR-2604924",
-   "locations": [
-    "Malta, NY"
-   ],
-   "posted_at": 1792540800,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "tapeout (+3)"
-   ],
-   "first_seen": 1792624798,
-   "uid": "c6e2a78083463fc1"
   },
   {
    "source": "Simplify",
@@ -1574,6 +1687,27 @@
    ],
    "first_seen": 1792105528,
    "uid": "c92dee8b358df70d"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Electrical Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical-Engineering-Intern--Summer-2027--Onsite-_01882705",
+   "locations": [
+    "Marlborough, MA"
+   ],
+   "posted_at": 1792022400,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1792105528,
+   "uid": "10a0565bad3457d6"
   },
   {
    "source": "Simplify",
@@ -6893,28 +7027,6 @@
    ],
    "first_seen": 1789603625,
    "uid": "79fed546d7898a19"
-  },
-  {
-   "source": "Simplify",
-   "company": "CesiumAstro",
-   "title": "Electrical Engineer Intern - Hardware",
-   "url": "https://jobs.lever.co/CesiumAstro/6a953cbc-af69-452c-b357-1a0a3db80bbf/apply",
-   "locations": [
-    "Austin, TX"
-   ],
-   "posted_at": 1789521283,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "hardware (+2)",
-    "electrical (+2)"
-   ],
-   "first_seen": 1789535833,
-   "uid": "02543719f8153d01"
   },
   {
    "source": "Simplify",
