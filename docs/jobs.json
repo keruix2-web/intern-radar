@@ -1,6 +1,6 @@
 {
- "generated_at": 1792800201,
- "count": 540,
+ "generated_at": 1792816633,
+ "count": 538,
  "jobs": [
   {
    "source": "Simplify",
@@ -6311,30 +6311,6 @@
   {
    "source": "Simplify",
    "company": "Tesla",
-   "title": "Power Electronics Firmware Engineer Intern",
-   "url": "https://www.tesla.com/careers/search/job/284029",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "posted_at": 1790039215,
-   "terms": [
-    "Winter 2027",
-    "Spring 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 5,
-   "reasons": [
-    "electronics (+2)",
-    "power electronics (+2)",
-    "firmware (+1)"
-   ],
-   "first_seen": 1790052937,
-   "uid": "e861eae90b786644"
-  },
-  {
-   "source": "Simplify",
-   "company": "Tesla",
    "title": "Reliability Test Engineer Intern - Energy Engineering",
    "url": "https://www.tesla.com/careers/search/job/284278",
    "locations": [
@@ -10713,27 +10689,6 @@
    ],
    "first_seen": 1788460724,
    "uid": "00c7ce6bbe9a2b4d"
-  },
-  {
-   "source": "Simplify",
-   "company": "Varda Space",
-   "title": "Avionics Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824780003",
-   "locations": [
-    "El Segundo, CA"
-   ],
-   "posted_at": 1786140460,
-   "terms": [
-    "Spring 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "aerospace",
-   "score": 2,
-   "reasons": [
-    "avionics (+2)"
-   ],
-   "first_seen": 1791716527,
-   "uid": "7cd90dd3357655b4"
   },
   {
    "source": "Simplify",
