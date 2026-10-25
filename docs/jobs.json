@@ -1,6 +1,6 @@
 {
- "generated_at": 1792898914,
- "count": 519,
+ "generated_at": 1792917706,
+ "count": 518,
  "jobs": [
   {
    "source": "Simplify",
@@ -8245,27 +8245,6 @@
    ],
    "first_seen": 1791138151,
    "uid": "bdceb082e9431a7f"
-  },
-  {
-   "source": "Simplify",
-   "company": "Airbus",
-   "title": "Radio Frequency Intern",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Radio-Frequency--RF--Test-System-Engineering-Placement--12-months-_JR10428274",
-   "locations": [
-    "Portsmouth, UK"
-   ],
-   "posted_at": 1788739200,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "radio frequency (+2)"
-   ],
-   "first_seen": 1791454351,
-   "uid": "476efac684f17295"
   },
   {
    "source": "Simplify",
