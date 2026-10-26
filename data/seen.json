@@ -1,5 +1,5 @@
 {
- "count": 889,
+ "count": 891,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -2179,6 +2179,12 @@
    "title": "FPGA Design Engineering Intern",
    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/FPGA-Design-Engineering-Intern---Summer-2027_R68401"
   },
+  "685a97d2e0758e13": {
+   "company": "Jabil",
+   "first_seen": 1793035411,
+   "title": "Validation Engineer Intern",
+   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Validation-Engineer-Intern_J2469310"
+  },
   "685aaeab80f7686b": {
    "company": "Astera Labs",
    "first_seen": 1786988749,
@@ -2994,6 +3000,12 @@
    "first_seen": 1788415817,
    "title": "Automated Test Engineer Intern - Hardware",
    "url": "https://careersus-shure.icims.com/jobs/4960/job?mobile=true&needsRedirect=false"
+  },
+  "907330502fde18db": {
+   "company": "Leidos",
+   "first_seen": 1793035411,
+   "title": "Electrical Design Engineer Intern",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Design-Engineering-Intern_R-00195400"
   },
   "90ebad397c2fd877": {
    "company": "Hewlett Packard Enterprise",
@@ -5336,6 +5348,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1793012890,
- "runs": 670
+ "last_run": 1793035411,
+ "runs": 671
 }

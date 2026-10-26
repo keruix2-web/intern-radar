@@ -1,7 +1,49 @@
 {
- "generated_at": 1793012890,
- "count": 518,
+ "generated_at": 1793035412,
+ "count": 515,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Leidos",
+   "title": "Electrical Design Engineer Intern",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Design-Engineering-Intern_R-00195400",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "posted_at": 1792972800,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1793035411,
+   "uid": "907330502fde18db"
+  },
+  {
+   "source": "Simplify",
+   "company": "Jabil",
+   "title": "Validation Engineer Intern",
+   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Validation-Engineer-Intern_J2469310",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1792972800,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1793035411,
+   "uid": "685a97d2e0758e13"
+  },
   {
    "source": "Simplify",
    "company": "Upscale AI",
@@ -1345,27 +1387,6 @@
    ],
    "first_seen": 1792473629,
    "uid": "27e45e21cdd37c06"
-  },
-  {
-   "source": "Simplify",
-   "company": "Draper",
-   "title": "Optoelectronics Electrical Engineer Co-op",
-   "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optoelectronics-Electrical-Engineering-Co-Op_JR003044-1",
-   "locations": [
-    "Cambridge, MA"
-   ],
-   "posted_at": 1792368000,
-   "terms": [
-    "Spring 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1792672137,
-   "uid": "7f8311f2b233b1cb"
   },
   {
    "source": "Simplify",
@@ -4577,27 +4598,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Stryker",
-   "title": "Electrical and Electronic Engineering Co-op - HeartSine R&D Team",
-   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Belfast-United-Kingdom/Electrical-and-Electronic-Engineering-Co-Op_R572208",
-   "locations": [
-    "Belfast, UK"
-   ],
-   "posted_at": 1790640000,
-   "terms": [
-    "Fall 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1790710065,
-   "uid": "216ba58583b57e55"
-  },
-  {
-   "source": "Simplify",
    "company": "Marvell",
    "title": "AMS Validation Intern",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AMS-Validation-Intern_2603863-1",
@@ -5481,28 +5481,6 @@
    ],
    "first_seen": 1790269840,
    "uid": "4fb29f4e9e87dc10"
-  },
-  {
-   "source": "Simplify",
-   "company": "Marvell",
-   "title": "Analog Design Intern Co-op - BS",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Analog-Design-Intern---BS---2027-Co-Op_2604788",
-   "locations": [
-    "Toronto, ON, Canada"
-   ],
-   "posted_at": 1790208000,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "analog design (+3)",
-    "analog (+2)"
-   ],
-   "first_seen": 1790292486,
-   "uid": "e5902353fb150623"
   },
   {
    "source": "Simplify",
@@ -6980,28 +6958,6 @@
    ],
    "first_seen": 1789519147,
    "uid": "f3d4eeba75132a8d"
-  },
-  {
-   "source": "Simplify",
-   "company": "Micron Technology",
-   "title": "HBM SoC Physical Design Engineer Intern",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---HBM-SoC-Physical-Design-Engineer_JR111041",
-   "locations": [
-    "Folsom, CA"
-   ],
-   "posted_at": 1789430400,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 6,
-   "reasons": [
-    "soc (+3)",
-    "physical design (+3)"
-   ],
-   "first_seen": 1789519147,
-   "uid": "314ce7f7836bdba5"
   },
   {
    "source": "Simplify",
@@ -10252,28 +10208,6 @@
    ],
    "first_seen": 1788460724,
    "uid": "e6f8c7b2b8668d28"
-  },
-  {
-   "source": "Simplify",
-   "company": "Axon",
-   "title": "2027 US Electrical Engineering Internship",
-   "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837252003",
-   "locations": [
-    "Scottsdale, AZ"
-   ],
-   "posted_at": 1786141804,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "electrical (+2)",
-    "electrical engineering (+2)"
-   ],
-   "first_seen": 1788460724,
-   "uid": "00c7ce6bbe9a2b4d"
   },
   {
    "source": "Simplify",
