@@ -1,6 +1,6 @@
 {
- "generated_at": 1793035412,
- "count": 515,
+ "generated_at": 1793051170,
+ "count": 510,
  "jobs": [
   {
    "source": "Simplify",
@@ -287,28 +287,6 @@
    ],
    "first_seen": 1792726708,
    "uid": "bce0a0e140ac71c2"
-  },
-  {
-   "source": "Simplify",
-   "company": "Marvell",
-   "title": "Design Verification Intern",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/CA-ON---Ontario---Toronto/Design-Verification-Intern_2603984",
-   "locations": [
-    "Toronto, ON, Canada"
-   ],
-   "posted_at": 1792713600,
-   "terms": [
-    "Winter 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "design verification (+3)",
-    "verification (+2)"
-   ],
-   "first_seen": 1792779736,
-   "uid": "0f422f993cc74ce0"
   },
   {
    "source": "Simplify",
@@ -1623,27 +1601,6 @@
    ],
    "first_seen": 1792196189,
    "uid": "329398192aaddbcc"
-  },
-  {
-   "source": "Simplify",
-   "company": "Micron Technology",
-   "title": "Memory Design Engineer Intern - HBM",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112529",
-   "locations": [
-    "Richardson, TX"
-   ],
-   "posted_at": 1792108800,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "memory design (+3)"
-   ],
-   "first_seen": 1791180285,
-   "uid": "3ec06ab3a2734e54"
   },
   {
    "source": "Simplify",
@@ -3491,28 +3448,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Ciena",
-   "title": "Hardware Design Co-op",
-   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Design-Co-Op--Winter-2027---4-Months-_R031782",
-   "locations": [
-    "Ottawa, ON, Canada"
-   ],
-   "posted_at": 1791244800,
-   "terms": [
-    "Winter 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware design (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1791331311,
-   "uid": "a7db8b86648b55e2"
-  },
-  {
-   "source": "Simplify",
    "company": "BorgWarner",
    "title": "Electrical Design Engineer Intern",
    "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electrical-Design-Engineer-Intern_R2026-3965",
@@ -4162,28 +4097,6 @@
    ],
    "first_seen": 1791275734,
    "uid": "8139f797a25a59a4"
-  },
-  {
-   "source": "Simplify",
-   "company": "Space Dynamics Laboratory",
-   "title": "FPGA Electrical Engineer Intern - Civil & Commercial Space Division",
-   "url": "https://spacedynamicslaboratory.applytojob.com/apply/SznZA6uzbW/CVS-FPGA-Electrical-Engineer-Intern",
-   "locations": [
-    "North Logan, UT"
-   ],
-   "posted_at": 1790864633,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "fpga (+3)",
-    "electrical (+2)"
-   ],
-   "first_seen": 1790875351,
-   "uid": "a666b7a6a31ecb12"
   },
   {
    "source": "Simplify",
@@ -5029,27 +4942,6 @@
    ],
    "first_seen": 1790380604,
    "uid": "db4e3ed32c48de0a"
-  },
-  {
-   "source": "Simplify",
-   "company": "The Toro Company",
-   "title": "Electrical Engineer Intern",
-   "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Electrical-Engineering-Intern---The-Toro-Company_JR17124",
-   "locations": [
-    "Bloomington, MN"
-   ],
-   "posted_at": 1790294400,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1790380604,
-   "uid": "3df57dbd7c0cc973"
   },
   {
    "source": "Simplify",
