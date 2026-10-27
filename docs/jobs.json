@@ -1,7 +1,29 @@
 {
- "generated_at": 1793051170,
- "count": 510,
+ "generated_at": 1793063541,
+ "count": 513,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Texas Instruments",
+   "title": "Analog Design Engineer Intern",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018682",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1793052496,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "analog design (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1793063541,
+   "uid": "5c8cc03a0e71d755"
+  },
   {
    "source": "Simplify",
    "company": "Leidos",
@@ -43,6 +65,27 @@
    ],
    "first_seen": 1793035411,
    "uid": "685a97d2e0758e13"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Signal and Power Integrity Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Signal-and-Power-Integrity-Intern--MS---Summer-2027_2603858-1",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1792972800,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "power integrity (+2)"
+   ],
+   "first_seen": 1793063541,
+   "uid": "8bd06bba5b23ed69"
   },
   {
    "source": "Simplify",
@@ -1277,6 +1320,28 @@
    ],
    "first_seen": 1792444541,
    "uid": "da036790836c9fb4"
+  },
+  {
+   "source": "Simplify",
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "title": "Electrical and Computer Engineer Intern",
+   "url": "https://careers.jhuapl.edu/jobs/60390?icims=1",
+   "locations": [
+    "Laurel, MD"
+   ],
+   "posted_at": 1792419524,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 5,
+   "reasons": [
+    "computer engineer (+3)",
+    "electrical (+2)"
+   ],
+   "first_seen": 1792428222,
+   "uid": "fb7dab74af0a4639"
   },
   {
    "source": "Simplify",
