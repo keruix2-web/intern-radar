@@ -1,5 +1,5 @@
 {
- "count": 895,
+ "count": 897,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -264,6 +264,12 @@
    "first_seen": 1788567479,
    "title": "Electrical Engineer Intern - Summer 2027",
    "url": "https://careers.cdmsmith.com/jobs/4398?icims=1"
+  },
+  "0a7e00332109e4af": {
+   "company": "Mayo Clinic",
+   "first_seen": 1793125133,
+   "title": "Graduate Engineer Intern - Electronics",
+   "url": "https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394029"
   },
   "0a8547f49b7cc246": {
    "company": "Johns Hopkins Applied Physics Laboratory",
@@ -3085,6 +3091,12 @@
    "title": "Electrical Engineer Intern - FPGA",
    "url": "https://jobs.lever.co/CesiumAstro/e6d87528-5da1-4970-9e42-7b224cfa63a9/apply"
   },
+  "9471f3a9b71c7484": {
+   "company": "Waymo",
+   "first_seen": 1793125133,
+   "title": "2027 Summer Intern, MS/PhD, Sensor Performance Engineer Intern",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8319171"
+  },
   "9474a162c1876071": {
    "company": "Graphcore",
    "first_seen": 1792509424,
@@ -5372,6 +5384,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1793104446,
- "runs": 675
+ "last_run": 1793125133,
+ "runs": 676
 }

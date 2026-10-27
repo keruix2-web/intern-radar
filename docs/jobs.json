@@ -1,7 +1,48 @@
 {
- "generated_at": 1793104446,
+ "generated_at": 1793125133,
  "count": 513,
  "jobs": [
+  {
+   "source": "Greenhouse",
+   "company": "Waymo",
+   "title": "2027 Summer Intern, MS/PhD, Sensor Performance Engineer Intern",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8319171",
+   "locations": [
+    "Mountain View, CA, USA "
+   ],
+   "posted_at": 1793117958,
+   "terms": [],
+   "sponsorship": "",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "sensor (+2)"
+   ],
+   "first_seen": 1793125133,
+   "uid": "9471f3a9b71c7484"
+  },
+  {
+   "source": "Simplify",
+   "company": "Mayo Clinic",
+   "title": "Graduate Engineer Intern - Electronics",
+   "url": "https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394029",
+   "locations": [
+    "Rochester, MN"
+   ],
+   "posted_at": 1793110021,
+   "terms": [
+    "Summer 2027",
+    "Fall 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electronics (+2)"
+   ],
+   "first_seen": 1793125133,
+   "uid": "0a7e00332109e4af"
+  },
   {
    "source": "Simplify",
    "company": "HP IQ",
@@ -2234,27 +2275,6 @@
    ],
    "first_seen": 1791859900,
    "uid": "aa5d226cb07536d5"
-  },
-  {
-   "source": "Simplify",
-   "company": "KLA",
-   "title": "Product Development Intern - Electron Beam Instrumentation",
-   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Product-Development-Intern---Electron-Beam-Instrumentation_2642030-2",
-   "locations": [
-    "Ann Arbor, MI"
-   ],
-   "posted_at": 1791849600,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "instrumentation (+2)"
-   ],
-   "first_seen": 1791939831,
-   "uid": "5be1eea0988ae9dc"
   },
   {
    "source": "Simplify",
@@ -10691,27 +10711,6 @@
    ],
    "first_seen": 1788470444,
    "uid": "a6b0063349a7d903"
-  },
-  {
-   "source": "Simplify",
-   "company": "GE Appliances",
-   "title": "Electrical Engineer Co-op",
-   "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Electrical-Engineering-Co-op-Spring-2027_REQ-24834",
-   "locations": [
-    "Louisville, KY"
-   ],
-   "posted_at": 1782561268,
-   "terms": [
-    "Spring 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788447714,
-   "uid": "dca2c08391553ed2"
   },
   {
    "source": "Simplify",
