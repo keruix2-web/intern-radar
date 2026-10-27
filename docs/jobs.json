@@ -1,5 +1,5 @@
 {
- "generated_at": 1793063541,
+ "generated_at": 1793082003,
  "count": 513,
  "jobs": [
   {
@@ -1170,27 +1170,6 @@
    ],
    "first_seen": 1792535712,
    "uid": "099665409a87f0b7"
-  },
-  {
-   "source": "Simplify",
-   "company": "Altera",
-   "title": "FPGA IP Design Engineer Intern",
-   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer---Intern_R03299",
-   "locations": [
-    "Toronto, ON, Canada"
-   ],
-   "posted_at": 1792454400,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "fpga (+3)"
-   ],
-   "first_seen": 1792131014,
-   "uid": "8656b62bca33ab85"
   },
   {
    "source": "Simplify",
@@ -2386,6 +2365,27 @@
    ],
    "first_seen": 1791859900,
    "uid": "1fb8ff20b14abc7d"
+  },
+  {
+   "source": "Simplify",
+   "company": "Western Digital",
+   "title": "Recording Electronics Data Analytics & Optimization Co-op",
+   "url": "https://jobs.smartrecruiters.com/WesternDigital/744000155109379",
+   "locations": [
+    "Rochester, MN"
+   ],
+   "posted_at": 1791842781,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electronics (+2)"
+   ],
+   "first_seen": 1793082003,
+   "uid": "d6228994781126e0"
   },
   {
    "source": "Simplify",
