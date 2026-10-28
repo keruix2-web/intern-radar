@@ -1,7 +1,49 @@
 {
- "generated_at": 1793140186,
- "count": 513,
+ "generated_at": 1793151433,
+ "count": 523,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Cirrus Logic",
+   "title": "Formal Verification Engineer Intern",
+   "url": "https://jobs.eu.lever.co/cirrus/533c9938-3d35-48a6-b08b-1dd1675d2bdf/apply",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1793139557,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "verification (+2)"
+   ],
+   "first_seen": 1793151433,
+   "uid": "fa4eab46e3cce7e9"
+  },
+  {
+   "source": "Simplify",
+   "company": "Waymo",
+   "title": "Sensor Performance Engineer Intern",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8319171",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "posted_at": 1793117958,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "sensor (+2)"
+   ],
+   "first_seen": 1793151433,
+   "uid": "863af4c18dffee1b"
+  },
   {
    "source": "Greenhouse",
    "company": "Waymo",
@@ -67,6 +109,69 @@
   },
   {
    "source": "Simplify",
+   "company": "Boston Dynamics",
+   "title": "Electrical Engineer Co-op",
+   "url": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Electrical-Engineer-Co-Op_R3315",
+   "locations": [
+    "Waltham, MA"
+   ],
+   "posted_at": 1793059200,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1793151433,
+   "uid": "1674eafffac0a25c"
+  },
+  {
+   "source": "Simplify",
+   "company": "Ciena",
+   "title": "Optical Performance Lab Verification and Testing Co-op",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Performance-Lab-Verification-and-Testing-Co-op_R031991",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1793059200,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "verification (+2)"
+   ],
+   "first_seen": 1793151433,
+   "uid": "8cce7b2ed720eb31"
+  },
+  {
+   "source": "Simplify",
+   "company": "TMX Group",
+   "title": "Analyst Model Validation Intern",
+   "url": "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/Intern-Analyst-Model-Validation---Winter-term_R-6603",
+   "locations": [
+    "Montreal, QC, Canada"
+   ],
+   "posted_at": 1793059200,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1793151433,
+   "uid": "d5a8399c9f6f0b1f"
+  },
+  {
+   "source": "Simplify",
    "company": "Texas Instruments",
    "title": "Analog Design Engineer Intern",
    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018682",
@@ -86,6 +191,49 @@
    ],
    "first_seen": 1793063541,
    "uid": "5c8cc03a0e71d755"
+  },
+  {
+   "source": "Simplify",
+   "company": "Renesas Electronics",
+   "title": "Digital Design Electrical Engineer Intern",
+   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000157896855",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1793042631,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "digital design (+3)",
+    "electrical (+2)"
+   ],
+   "first_seen": 1793151433,
+   "uid": "e20c0e706373cc66"
+  },
+  {
+   "source": "Simplify",
+   "company": "Renesas Electronics",
+   "title": "Analog Intern",
+   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000157802490",
+   "locations": [
+    "Edinburgh, UK"
+   ],
+   "posted_at": 1793018463,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "analog (+2)"
+   ],
+   "first_seen": 1793151433,
+   "uid": "815c72186b4f28c7"
   },
   {
    "source": "Simplify",
@@ -1843,27 +1991,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Meta",
-   "title": "ASIC Design Engineer Intern",
-   "url": "https://www.metacareers.com/jobs/1406976394946562",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "posted_at": 1792017026,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "asic (+3)"
-   ],
-   "first_seen": 1792020113,
-   "uid": "768115daa94de7c7"
-  },
-  {
-   "source": "Simplify",
    "company": "onsemi",
    "title": "Semiconductor AI Specialist Intern",
    "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506918",
@@ -2564,6 +2691,28 @@
   },
   {
    "source": "Simplify",
+   "company": "Bridge Neurotech",
+   "title": "Hardware Engineering Intern",
+   "url": "https://jobs.ashbyhq.com/bridgeneurotech/01c03769-b8eb-46c1-b668-469832b99c51/application?embed=true",
+   "locations": [
+    "Redwood City, CA"
+   ],
+   "posted_at": 1791763200,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1793151433,
+   "uid": "8a52e8e7a410dccf"
+  },
+  {
+   "source": "Simplify",
    "company": "Meter",
    "title": "Hardware Engineer Intern",
    "url": "https://jobs.ashbyhq.com/meter/a5f1e4c3-2930-4933-ab38-8f600486494b/application?embed=true",
@@ -3074,6 +3223,29 @@
    ],
    "first_seen": 1791416435,
    "uid": "04c9031c539ee8f7"
+  },
+  {
+   "source": "Simplify",
+   "company": "Skyband Systems",
+   "title": "Avionics Hardware & Test Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/skyband%20systems/74d42f88-5265-4879-9c6d-61f532e89b20/application?embed=true",
+   "locations": [
+    "Kirkland, WA"
+   ],
+   "posted_at": 1791331200,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "aerospace",
+   "score": 5,
+   "reasons": [
+    "hardware (+2)",
+    "avionics (+2)",
+    "test engineer (+1)"
+   ],
+   "first_seen": 1793151433,
+   "uid": "b8df5a2ae2da8adf"
   },
   {
    "source": "Simplify",
@@ -4162,6 +4334,28 @@
    ],
    "first_seen": 1790992593,
    "uid": "08746e4127d61f92"
+  },
+  {
+   "source": "Simplify",
+   "company": "Intel",
+   "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1790899200,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware design (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1790992593,
+   "uid": "88802061d3e50c08"
   },
   {
    "source": "Simplify",
@@ -9795,6 +9989,27 @@
    ],
    "first_seen": 1787658222,
    "uid": "7a99beaa6e5987a0"
+  },
+  {
+   "source": "Simplify",
+   "company": "GE Appliances",
+   "title": "Electrical Engineer Co-op",
+   "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Electrical-Engineering-Co-op-Fall-2027_REQ-26594",
+   "locations": [
+    "Louisville, KY"
+   ],
+   "posted_at": 1787616000,
+   "terms": [
+    "Fall 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1788447714,
+   "uid": "dca2c08391553ed2"
   },
   {
    "source": "Simplify",
