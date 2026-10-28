@@ -1,7 +1,29 @@
 {
- "generated_at": 1793216762,
- "count": 533,
+ "generated_at": 1793231665,
+ "count": 536,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Apple",
+   "title": "Design Verification Engineer Intern",
+   "url": "https://jobs.apple.com/en-us/details/200692085",
+   "locations": [
+    "Beaverton, OR"
+   ],
+   "posted_at": 1793227512,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1793231665,
+   "uid": "6d855054c115192d"
+  },
   {
    "source": "Simplify",
    "company": "Qualcomm",
@@ -158,6 +180,92 @@
    ],
    "first_seen": 1793216762,
    "uid": "b97f2144a22b8452"
+  },
+  {
+   "source": "Simplify",
+   "company": "FormFactor",
+   "title": "Electrical Design Automation Intern - AI & EDA Automation",
+   "url": "https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/Electrical-Design-Automation-Intern---AI---EDA-Automation_JR101304",
+   "locations": [
+    "Livermore, CA"
+   ],
+   "posted_at": 1793145600,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1793231665,
+   "uid": "cd7afb6ef060651f"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Electrical Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Electrical-Engineering-Intern--Summer-2027-_01883292",
+   "locations": [
+    "El Segundo, CA"
+   ],
+   "posted_at": 1793145600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1793231665,
+   "uid": "2660fc9705cbdfd8"
+  },
+  {
+   "source": "Simplify",
+   "company": "Draper",
+   "title": "Analog ASIC Design Intern",
+   "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Analog-ASIC-Design-Intern--Summer-2027-_JR003085",
+   "locations": [
+    "Cambridge, MA"
+   ],
+   "posted_at": 1793145600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "asic (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1793231665,
+   "uid": "9b68864a65f54285"
+  },
+  {
+   "source": "Simplify",
+   "company": "Viavi Solutions",
+   "title": "Hardware Engineer Co-op Intern",
+   "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Intern_260005108-1",
+   "locations": [
+    "Germantown, MD"
+   ],
+   "posted_at": 1793145600,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1793231665,
+   "uid": "fd4f52d94c3eabb4"
   },
   {
    "source": "Simplify",
@@ -2080,27 +2188,6 @@
   },
   {
    "source": "Simplify",
-   "company": "RTX",
-   "title": "Electrical Engineer Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical-Engineering-Intern--Summer-2027--Onsite-_01882705",
-   "locations": [
-    "Marlborough, MA"
-   ],
-   "posted_at": 1792022400,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1792105528,
-   "uid": "10a0565bad3457d6"
-  },
-  {
-   "source": "Simplify",
    "company": "Meta",
    "title": "Hardware Engineer Intern - Camera & Sensing Architecture",
    "url": "https://www.metacareers.com/jobs/29216393121298039",
@@ -3948,27 +4035,6 @@
   {
    "source": "Simplify",
    "company": "Hewlett Packard Enterprise",
-   "title": "Electrical Engineer Intern",
-   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Engineering-Labs-Intern_1213083",
-   "locations": [
-    "Spring, TX"
-   ],
-   "posted_at": 1791244800,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1791378591,
-   "uid": "afed867100c92da9"
-  },
-  {
-   "source": "Simplify",
-   "company": "Hewlett Packard Enterprise",
    "title": "Hardware Engineer Intern",
    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Intern_1214064",
    "locations": [
@@ -4923,6 +4989,27 @@
    ],
    "first_seen": 1790723236,
    "uid": "4de621c2b0d42862"
+  },
+  {
+   "source": "Simplify",
+   "company": "DEKA Research & Development Corp.",
+   "title": "Electrical Engineer Co-op",
+   "url": "https://deka.applytojob.com/apply/IGTaMelH6z/Electrical-Engineer-CoOp-Spring-2027",
+   "locations": [
+    "Manchester, NH"
+   ],
+   "posted_at": 1790720495,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1790723236,
+   "uid": "6c22f36ed66acc92"
   },
   {
    "source": "Simplify",
@@ -8103,28 +8190,6 @@
    ],
    "first_seen": 1789081844,
    "uid": "557f0eef87c30998"
-  },
-  {
-   "source": "Simplify",
-   "company": "Insulet",
-   "title": "Life Cycle Engineering Co-op - Electrical",
-   "url": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Life-Cycle-Engineering---Electrical--January---June-2027--Hybrid-_REQ-2026-18043",
-   "locations": [
-    "Acton, MA"
-   ],
-   "posted_at": 1788998400,
-   "terms": [
-    "Winter 2027",
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1789081844,
-   "uid": "0479978665945939"
   },
   {
    "source": "Simplify",
