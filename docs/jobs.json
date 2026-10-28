@@ -1,7 +1,28 @@
 {
- "generated_at": 1793197402,
- "count": 531,
+ "generated_at": 1793216762,
+ "count": 533,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Qualcomm",
+   "title": "Formal Verification Engineering Intern - 6 months",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721822125",
+   "locations": [
+    "Cambridge, UK"
+   ],
+   "posted_at": 1793197670,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "verification (+2)"
+   ],
+   "first_seen": 1793216762,
+   "uid": "e3637fd95fe645f4"
+  },
   {
    "source": "Simplify",
    "company": "RosaicLabs",
@@ -92,6 +113,51 @@
    ],
    "first_seen": 1793197402,
    "uid": "31346593cb92ef0b"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Hardware Electrical Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Intern--Summer-2027-_01883831",
+   "locations": [
+    "Cambridge, MA"
+   ],
+   "posted_at": 1793145600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "hardware (+2)",
+    "electrical (+2)"
+   ],
+   "first_seen": 1793216762,
+   "uid": "364afd4e3d766c84"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Hardware Electrical Engineering Co-op",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Co-Op--Spring-2027-_01883598",
+   "locations": [
+    "Cambridge, MA"
+   ],
+   "posted_at": 1793145600,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 6,
+   "reasons": [
+    "hardware (+2)",
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1793216762,
+   "uid": "b97f2144a22b8452"
   },
   {
    "source": "Simplify",
@@ -282,28 +348,6 @@
    ],
    "first_seen": 1793063541,
    "uid": "5c8cc03a0e71d755"
-  },
-  {
-   "source": "Simplify",
-   "company": "Renesas Electronics",
-   "title": "Digital Design Electrical Engineer Intern",
-   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000157896855",
-   "locations": [
-    "Austin, TX"
-   ],
-   "posted_at": 1793042631,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "digital design (+3)",
-    "electrical (+2)"
-   ],
-   "first_seen": 1793151433,
-   "uid": "e20c0e706373cc66"
   },
   {
    "source": "Simplify",
@@ -1539,28 +1583,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Ursa Major",
-   "title": "Avionics Electrical Engineer Intern",
-   "url": "https://ursamajor.com/careers/?gh_jid=4745125005",
-   "locations": [
-    "Berthoud, CO"
-   ],
-   "posted_at": 1792449794,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "aerospace",
-   "score": 4,
-   "reasons": [
-    "electrical (+2)",
-    "avionics (+2)"
-   ],
-   "first_seen": 1792456268,
-   "uid": "6b983bb23fdd2357"
-  },
-  {
-   "source": "Simplify",
    "company": "Meta",
    "title": "Research Scientist Intern - Robotics Hardware",
    "url": "https://www.metacareers.com/jobs/2105411693413958",
@@ -1645,26 +1667,6 @@
    ],
    "first_seen": 1792456268,
    "uid": "1643c183da4b8873"
-  },
-  {
-   "source": "Greenhouse",
-   "company": "Ursa Major",
-   "title": "2027 Summer Avionics Electrical Engineer Intern",
-   "url": "https://ursamajor.com/careers/?gh_jid=4745125005",
-   "locations": [
-    "Berthoud, Colorado"
-   ],
-   "posted_at": 1792432490,
-   "terms": [],
-   "sponsorship": "",
-   "category": "aerospace",
-   "score": 4,
-   "reasons": [
-    "electrical (+2)",
-    "avionics (+2)"
-   ],
-   "first_seen": 1792444541,
-   "uid": "da036790836c9fb4"
   },
   {
    "source": "Simplify",
@@ -7066,6 +7068,51 @@
    ],
    "first_seen": 1789689303,
    "uid": "1ff0bae49a9a3e22"
+  },
+  {
+   "source": "Simplify",
+   "company": "Emerson Electric",
+   "title": "Electrical Engineer Co-op",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011003",
+   "locations": [
+    "Rockford, IL",
+    "Elyria, OH"
+   ],
+   "posted_at": 1789596890,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789603625,
+   "uid": "e7feb4497b2f4e93"
+  },
+  {
+   "source": "Simplify",
+   "company": "Emerson Electric",
+   "title": "Electrical Engineering Co-op",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010996",
+   "locations": [
+    "Rockford, IL",
+    "Elyria, OH"
+   ],
+   "posted_at": 1789596890,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1789603625,
+   "uid": "b032a988b9d52c1c"
   },
   {
    "source": "Simplify",

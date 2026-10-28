@@ -1,5 +1,5 @@
 {
- "count": 913,
+ "count": 916,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -1242,6 +1242,12 @@
    "first_seen": 1791939831,
    "title": "Electrical Engineer / PCB Designer Intern",
    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Electrical-Engineer---PCB-Designer-Intern---Summer-2027_R69679"
+  },
+  "364afd4e3d766c84": {
+   "company": "RTX",
+   "first_seen": 1793216762,
+   "title": "Hardware Electrical Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Intern--Summer-2027-_01883831"
   },
   "367593b86e8210d2": {
    "company": "Dell Technologies",
@@ -3919,6 +3925,12 @@
    "title": "RF Hardware Intern (Summer 2027)",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4708436006"
   },
+  "b97f2144a22b8452": {
+   "company": "RTX",
+   "first_seen": 1793216762,
+   "title": "Hardware Electrical Engineering Co-op",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Co-Op--Spring-2027-_01883598"
+  },
   "b9bf4aa0127a602f": {
    "company": "Astera Labs",
    "first_seen": 1791275734,
@@ -4903,6 +4915,12 @@
    "title": "Radio Frequency Engineer Intern - Radio Frequency Engineer - Energy Engineering",
    "url": "https://www.tesla.com/careers/search/job/273819"
   },
+  "e3637fd95fe645f4": {
+   "company": "Qualcomm",
+   "first_seen": 1793216762,
+   "title": "Formal Verification Engineering Intern - 6 months",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721822125"
+  },
   "e36ff830bc4f9631": {
    "company": "Astranis",
    "first_seen": 1790148167,
@@ -5480,6 +5498,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1793197402,
- "runs": 680
+ "last_run": 1793216762,
+ "runs": 681
 }
