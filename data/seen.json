@@ -1,5 +1,5 @@
 {
- "count": 910,
+ "count": 913,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -1111,6 +1111,12 @@
    "title": "Electrical Production Support Engineer Intern - Summer 2027",
    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Electrical-Production-Support-Engineer-Intern--Summer-2027-_01871115"
   },
+  "31346593cb92ef0b": {
+   "company": "Altera",
+   "first_seen": 1793197402,
+   "title": "FPGA Hardware Design Engineer Intern",
+   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Marlow-Buckinghamshire-United-Kingdom/Internship---FPGA-Hardware-Design-Engineer_R02748"
+  },
   "313f77eaadd0c22e": {
    "company": "Ciena",
    "first_seen": 1789081844,
@@ -1956,6 +1962,12 @@
    "first_seen": 1792473629,
    "title": "ASIC Intern",
    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/ASIC-Intern_1214020"
+  },
+  "5adfe6b0f5fa70ce": {
+   "company": "RosaicLabs",
+   "first_seen": 1793197402,
+   "title": "AI Accelerator Design Verification Engineer Intern",
+   "url": "https://jobs.lever.co/rosaiclabs/8e3e00f8-5b06-450c-bb63-5cc4fc3136ab/apply"
   },
   "5ae0733cf5ae697b": {
    "company": "Nokia",
@@ -3186,6 +3198,12 @@
    "first_seen": 1789519147,
    "title": "AI Hardware and Memory Systems Intern",
    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---AI-Hardware-and-Memory-Systems_JR111017"
+  },
+  "98d37592a36eb340": {
+   "company": "RosaicLabs",
+   "first_seen": 1793197402,
+   "title": "CPU Design Verification Engineer Intern",
+   "url": "https://jobs.lever.co/rosaiclabs/11a93b50-2472-4ec9-85d9-c99a3a17405e/apply"
   },
   "998b9f8a3c0187cc": {
    "company": "Texas Instruments",
@@ -5462,6 +5480,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1793172484,
- "runs": 679
+ "last_run": 1793197402,
+ "runs": 680
 }

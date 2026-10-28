@@ -1,7 +1,54 @@
 {
- "generated_at": 1793172485,
- "count": 528,
+ "generated_at": 1793197402,
+ "count": 531,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "RosaicLabs",
+   "title": "AI Accelerator Design Verification Engineer Intern",
+   "url": "https://jobs.lever.co/rosaiclabs/8e3e00f8-5b06-450c-bb63-5cc4fc3136ab/apply",
+   "locations": [
+    "Austin, TX",
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1793180294,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1793197402,
+   "uid": "5adfe6b0f5fa70ce"
+  },
+  {
+   "source": "Simplify",
+   "company": "RosaicLabs",
+   "title": "CPU Design Verification Engineer Intern",
+   "url": "https://jobs.lever.co/rosaiclabs/11a93b50-2472-4ec9-85d9-c99a3a17405e/apply",
+   "locations": [
+    "Austin, TX",
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1793180285,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 8,
+   "reasons": [
+    "design verification (+3)",
+    "cpu design (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1793197402,
+   "uid": "98d37592a36eb340"
+  },
   {
    "source": "Simplify",
    "company": "Samsung",
@@ -22,6 +69,29 @@
    ],
    "first_seen": 1793172484,
    "uid": "d9a2e724d83aab17"
+  },
+  {
+   "source": "Simplify",
+   "company": "Altera",
+   "title": "FPGA Hardware Design Engineer Intern",
+   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Marlow-Buckinghamshire-United-Kingdom/Internship---FPGA-Hardware-Design-Engineer_R02748",
+   "locations": [
+    "Marlow, UK"
+   ],
+   "posted_at": 1793145600,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 8,
+   "reasons": [
+    "fpga (+3)",
+    "hardware design (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1793197402,
+   "uid": "31346593cb92ef0b"
   },
   {
    "source": "Simplify",
