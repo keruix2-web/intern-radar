@@ -1,6 +1,6 @@
 {
- "generated_at": 1793272050,
- "count": 537,
+ "generated_at": 1793294800,
+ "count": 545,
  "jobs": [
   {
    "source": "Simplify",
@@ -2059,6 +2059,71 @@
   },
   {
    "source": "Simplify",
+   "company": "SiTime",
+   "title": "Validation Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/sitimecorporation/jobs/4452953009",
+   "locations": [
+    "Tempe, AZ"
+   ],
+   "posted_at": 1792115987,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1793294800,
+   "uid": "306a6b3a3c92f878"
+  },
+  {
+   "source": "Simplify",
+   "company": "SiTime",
+   "title": "ASIC Digital Verification Engineer Co-op",
+   "url": "https://job-boards.greenhouse.io/sitimecorporation/jobs/4452852009",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1792112793,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "asic (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1793294800,
+   "uid": "4149f5f48d593b97"
+  },
+  {
+   "source": "Simplify",
+   "company": "SiTime",
+   "title": "ASIC Digital Verification Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/sitimecorporation/jobs/4451161009",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1792112781,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "asic (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1793294800,
+   "uid": "0cdcfdbfbfc9a5d1"
+  },
+  {
+   "source": "Simplify",
    "company": "GlobalFoundries",
    "title": "Foundation IP Design Verification Intern",
    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Foundation-IP-Design-Verification-Intern--Summer-2027-_JR-2604356",
@@ -3021,6 +3086,28 @@
    ],
    "first_seen": 1791693388,
    "uid": "945ce6f1841feaa5"
+  },
+  {
+   "source": "Simplify",
+   "company": "Riverlane",
+   "title": "Hardware Engineer Intern",
+   "url": "https://www.riverlane.com/jobs?gh_jid=5001377101#vacancies",
+   "locations": [
+    "Cambridge, UK"
+   ],
+   "posted_at": 1791555990,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1793294800,
+   "uid": "9e43a8b716dd93da"
   },
   {
    "source": "Simplify",
@@ -4078,6 +4165,27 @@
   },
   {
    "source": "Simplify",
+   "company": "Astronics",
+   "title": "Electrical Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4431922009",
+   "locations": [
+    "Kirkland, WA"
+   ],
+   "posted_at": 1791243895,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1793294800,
+   "uid": "ac2df92c7cad9728"
+  },
+  {
+   "source": "Simplify",
    "company": "Atoms",
    "title": "Electrical Engineer Intern",
    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8869098002",
@@ -4854,6 +4962,28 @@
    ],
    "first_seen": 1790812359,
    "uid": "6d1e701bf020461f"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astronics",
+   "title": "Electrical Test Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4420383009",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "posted_at": 1790804412,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 3,
+   "reasons": [
+    "electrical (+2)",
+    "test engineer (+1)"
+   ],
+   "first_seen": 1793294800,
+   "uid": "03d628809711401d"
   },
   {
    "source": "Ashby",
@@ -10672,6 +10802,27 @@
   },
   {
    "source": "Simplify",
+   "company": "Spaceium",
+   "title": "Electrical Intern",
+   "url": "https://job-boards.greenhouse.io/spaceium/jobs/4368438009",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1786651276,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1793294800,
+   "uid": "0fb54136f82cbd4b"
+  },
+  {
+   "source": "Simplify",
    "company": "WindBorne Systems",
    "title": "Embedded Electrical Engineer Intern",
    "url": "https://jobs.ashbyhq.com/windborne-systems/a0adb58d-37e7-4e37-abf5-c77d63d4dd8f/application?embed=true",
@@ -11067,28 +11218,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Citadel Securities",
-   "title": "FPGA Engineer Intern",
-   "url": "https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/",
-   "locations": [
-    "Miami, FL",
-    "NYC"
-   ],
-   "posted_at": 1783318269,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "fpga (+3)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "b65979ef54a7e2e2"
-  },
-  {
-   "source": "Simplify",
    "company": "Odys Aviation",
    "title": "Robotics & Embedded Systems Intern",
    "url": "https://jobs.ashbyhq.com/odys-aviation/d15b1f56-d160-403e-8d12-90f531eb490f/application?embed=true",
@@ -11464,6 +11593,27 @@
   },
   {
    "source": "Simplify",
+   "company": "Spaceium",
+   "title": "Electrical Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/spaceium/jobs/4258525009",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1779748969,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1793294800,
+   "uid": "12ca579197559702"
+  },
+  {
+   "source": "Simplify",
    "company": "Apple",
    "title": "Hardware Engineering Intern",
    "url": "https://jobs.apple.com/en-us/details/200663981",
@@ -11761,6 +11911,28 @@
    ],
    "first_seen": 1786988749,
    "uid": "6f7c3ec86032dd79"
+  },
+  {
+   "source": "Simplify",
+   "company": "Mantari",
+   "title": "Electrical Engineering Intern",
+   "url": "https://job-boards.greenhouse.io/mantari/jobs/4173653009",
+   "locations": [
+    "Torrance, CA"
+   ],
+   "posted_at": 1772747830,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1793294800,
+   "uid": "4a4ebd80bf6fcf5c"
   },
   {
    "source": "Ashby",
