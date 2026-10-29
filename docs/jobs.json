@@ -1,6 +1,6 @@
 {
- "generated_at": 1793294800,
- "count": 545,
+ "generated_at": 1793310983,
+ "count": 542,
  "jobs": [
   {
    "source": "Simplify",
@@ -941,27 +941,6 @@
   },
   {
    "source": "Simplify",
-   "company": "S&C Electric Company",
-   "title": "Electronics Engineering Intern - TBI",
-   "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107453",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "posted_at": 1792706539,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electronics (+2)"
-   ],
-   "first_seen": 1792713235,
-   "uid": "5be647c364d28bb2"
-  },
-  {
-   "source": "Simplify",
    "company": "Qualcomm",
    "title": "Applied AI Engineering Intern - Hardware Systems",
    "url": "https://qualcomm.eightfold.ai/careers/job/446721678733",
@@ -1753,28 +1732,6 @@
    ],
    "first_seen": 1792456268,
    "uid": "1643c183da4b8873"
-  },
-  {
-   "source": "Simplify",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Electrical and Computer Engineer Intern",
-   "url": "https://careers.jhuapl.edu/jobs/60390?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "posted_at": 1792419524,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 5,
-   "reasons": [
-    "computer engineer (+3)",
-    "electrical (+2)"
-   ],
-   "first_seen": 1792428222,
-   "uid": "fb7dab74af0a4639"
   },
   {
    "source": "Simplify",
@@ -5573,29 +5530,6 @@
    ],
    "first_seen": 1790380604,
    "uid": "ccfe183c85be221d"
-  },
-  {
-   "source": "Simplify",
-   "company": "Ciena",
-   "title": "Hardware Design and Verification Intern - PCBA",
-   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-months-_R031752",
-   "locations": [
-    "Ottawa, ON, Canada"
-   ],
-   "posted_at": 1790294400,
-   "terms": [
-    "Winter 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 7,
-   "reasons": [
-    "hardware design (+3)",
-    "hardware (+2)",
-    "verification (+2)"
-   ],
-   "first_seen": 1790380604,
-   "uid": "db4e3ed32c48de0a"
   },
   {
    "source": "Simplify",
