@@ -1,6 +1,6 @@
 {
- "generated_at": 1793231665,
- "count": 536,
+ "generated_at": 1793248790,
+ "count": 537,
  "jobs": [
   {
    "source": "Simplify",
@@ -2296,6 +2296,28 @@
    ],
    "first_seen": 1792020113,
    "uid": "ba847c1311fd9843"
+  },
+  {
+   "source": "Simplify",
+   "company": "Indie",
+   "title": "Design Verification Engineer Intern",
+   "url": "https://www.indie.inc/careers/internships/current-openings/?gh_jid=5265698007",
+   "locations": [
+    "Aliso Viejo, CA"
+   ],
+   "posted_at": 1792006568,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1793248790,
+   "uid": "29336f7f6fbf0f76"
   },
   {
    "source": "Greenhouse",
