@@ -1,29 +1,7 @@
 {
- "generated_at": 1793248790,
+ "generated_at": 1793272050,
  "count": 537,
  "jobs": [
-  {
-   "source": "Simplify",
-   "company": "Apple",
-   "title": "Design Verification Engineer Intern",
-   "url": "https://jobs.apple.com/en-us/details/200692085",
-   "locations": [
-    "Beaverton, OR"
-   ],
-   "posted_at": 1793227512,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "design verification (+3)",
-    "verification (+2)"
-   ],
-   "first_seen": 1793231665,
-   "uid": "6d855054c115192d"
-  },
   {
    "source": "Simplify",
    "company": "Qualcomm",
@@ -6528,6 +6506,28 @@
    ],
    "first_seen": 1791939831,
    "uid": "3a78e92c11478e15"
+  },
+  {
+   "source": "Simplify",
+   "company": "Castelion",
+   "title": "Electrical Engineer Intern - Avionics",
+   "url": "https://job-boards.greenhouse.io/castelioncorporation/jobs/4417146009",
+   "locations": [
+    "Torrance, CA"
+   ],
+   "posted_at": 1790114759,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "aerospace",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "avionics (+2)"
+   ],
+   "first_seen": 1793272050,
+   "uid": "9f7208a84119226a"
   },
   {
    "source": "Greenhouse",
