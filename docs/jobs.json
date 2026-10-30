@@ -1,7 +1,29 @@
 {
- "generated_at": 1793370922,
- "count": 545,
+ "generated_at": 1793389398,
+ "count": 533,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "GlobalFoundries",
+   "title": "Device Engineering Intern - Silicon Photonics",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604263",
+   "locations": [
+    "Malta, NY"
+   ],
+   "posted_at": 1793318400,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "silicon (+3)",
+    "photonics (+2)"
+   ],
+   "first_seen": 1793389398,
+   "uid": "981cc5d57d58afbd"
+  },
   {
    "source": "Simplify",
    "company": "SmartFlower Solar",
@@ -631,27 +653,6 @@
    ],
    "first_seen": 1793151433,
    "uid": "815c72186b4f28c7"
-  },
-  {
-   "source": "Simplify",
-   "company": "Leidos",
-   "title": "Electrical Design Engineer Intern",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Design-Engineering-Intern_R-00195400",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "posted_at": 1792972800,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1793035411,
-   "uid": "907330502fde18db"
   },
   {
    "source": "Simplify",
@@ -5363,27 +5364,6 @@
   {
    "source": "Simplify",
    "company": "Qualcomm",
-   "title": "Silicon Engineering Intern",
-   "url": "https://qualcomm.eightfold.ai/careers/job/446721302528",
-   "locations": [
-    "Toronto, ON, Canada"
-   ],
-   "posted_at": 1790634303,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "silicon (+3)"
-   ],
-   "first_seen": 1792779736,
-   "uid": "3d5c874a3414ef2c"
-  },
-  {
-   "source": "Simplify",
-   "company": "Qualcomm",
    "title": "Soft IP ASIC Engineer Intern",
    "url": "https://qualcomm.eightfold.ai/careers/job/446721302471",
    "locations": [
@@ -5641,27 +5621,6 @@
    ],
    "first_seen": 1790875351,
    "uid": "2616d743ce692c67"
-  },
-  {
-   "source": "Simplify",
-   "company": "Qorvo",
-   "title": "Electrical Design Engineer Intern",
-   "url": "https://careers.qorvo.com/job/Richardson-Electrical-Design-Engineering-Intern-TX-75081/1433950600/?ats=successfactors",
-   "locations": [
-    "Richardson, TX"
-   ],
-   "posted_at": 1790374469,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1790380604,
-   "uid": "7362148b675d656b"
   },
   {
    "source": "Simplify",
@@ -7395,28 +7354,6 @@
    ],
    "first_seen": 1789689303,
    "uid": "1ff0bae49a9a3e22"
-  },
-  {
-   "source": "Simplify",
-   "company": "Emerson Electric",
-   "title": "Electrical Engineer Co-op",
-   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011003",
-   "locations": [
-    "Rockford, IL",
-    "Elyria, OH"
-   ],
-   "posted_at": 1789596890,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1789603625,
-   "uid": "e7feb4497b2f4e93"
   },
   {
    "source": "Simplify",
@@ -9971,201 +9908,6 @@
    ],
    "first_seen": 1788238438,
    "uid": "9dd0c83018f21629"
-  },
-  {
-   "source": "Simplify",
-   "company": "Qorvo",
-   "title": "IC Layout Engineer Intern",
-   "url": "https://careers.qorvo.com/job/Richardson-IC-Layout-Engineering-Intern-TX-75081/1424795900/?ats=successfactors",
-   "locations": [
-    "Richardson, TX"
-   ],
-   "posted_at": 1788186901,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "layout (+2)"
-   ],
-   "first_seen": 1788207428,
-   "uid": "8793c91f27630e57"
-  },
-  {
-   "source": "Simplify",
-   "company": "Qorvo",
-   "title": "Electrical Engineer Intern - Physical Verification",
-   "url": "https://careers.qorvo.com/job/Greensboro-Software-Engineering-Intern,-SWR-NC-27409/1422901500/?ats=successfactors",
-   "locations": [
-    "Greensboro, NC"
-   ],
-   "posted_at": 1788153917,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "electrical (+2)",
-    "verification (+2)"
-   ],
-   "first_seen": 1788158465,
-   "uid": "6c2713a0884d0979"
-  },
-  {
-   "source": "Simplify",
-   "company": "Qorvo",
-   "title": "Analog Design Engineer Intern",
-   "url": "https://careers.qorvo.com/job/San-Jose-Analog-Design-Engineering-Intern-CA-95134/1424725600/?ats=successfactors",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "posted_at": 1788153916,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "analog design (+3)",
-    "analog (+2)"
-   ],
-   "first_seen": 1788158465,
-   "uid": "ed4b521e86b79078"
-  },
-  {
-   "source": "Simplify",
-   "company": "Qorvo",
-   "title": "Radio Frequency Integrated Circuit Design Intern - High Performance Analog",
-   "url": "https://careers.qorvo.com/job/Chelmsford-RFIC-Design-Intern-MA-1824/1424704300/?ats=successfactors",
-   "locations": [
-    "Chelmsford, MA"
-   ],
-   "posted_at": 1788153915,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 10,
-   "reasons": [
-    "integrated circuit (+3)",
-    "circuit design (+3)",
-    "radio frequency (+2)",
-    "analog (+2)"
-   ],
-   "first_seen": 1788415817,
-   "uid": "760b6e968c8c6979"
-  },
-  {
-   "source": "Simplify",
-   "company": "Qorvo",
-   "title": "Electrical CAD Engineer Intern - High Performance Analog",
-   "url": "https://careers.qorvo.com/job/Richardson-Electrical-CAD-Engineer-Intern-TX-75081/1421993600/?ats=successfactors",
-   "locations": [
-    "Richardson, TX"
-   ],
-   "posted_at": 1788153915,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "electrical (+2)",
-    "analog (+2)"
-   ],
-   "first_seen": 1788434053,
-   "uid": "45b1695f96ff174a"
-  },
-  {
-   "source": "Simplify",
-   "company": "Qorvo",
-   "title": "SOI Design Engineer Intern - High Performance Analog - Advanced Cellular",
-   "url": "https://careers.qorvo.com/job/Greensboro-SOI-Design-Intern-NC-27409/1421973500/?ats=successfactors",
-   "locations": [
-    "Greensboro, NC"
-   ],
-   "posted_at": 1788153914,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "analog (+2)"
-   ],
-   "first_seen": 1788434053,
-   "uid": "81ad817cf585bd62"
-  },
-  {
-   "source": "Simplify",
-   "company": "Qorvo",
-   "title": "Research Engineer Intern - High Performance Analog",
-   "url": "https://careers.qorvo.com/job/Richardson-Research-Engineering-Intern-TX-75080/1424726900/?ats=successfactors",
-   "locations": [
-    "Richardson, TX"
-   ],
-   "posted_at": 1788153913,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "analog (+2)"
-   ],
-   "first_seen": 1788158465,
-   "uid": "99c8d7374017c57d"
-  },
-  {
-   "source": "Simplify",
-   "company": "Qorvo",
-   "title": "Characterization Engineering Intern",
-   "url": "https://careers.qorvo.com/job/Greensboro-Characterization-Engineering-Intern-NC-27409/1424342800/?ats=successfactors",
-   "locations": [
-    "Greensboro, NC"
-   ],
-   "posted_at": 1788153912,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "characterization (+2)"
-   ],
-   "first_seen": 1788158465,
-   "uid": "236a282da964e7ff"
-  },
-  {
-   "source": "Simplify",
-   "company": "Qorvo",
-   "title": "RF Module Design Engineering Intern",
-   "url": "https://careers.qorvo.com/job/Apopka-RF-Module-Design-Engineering-Intern-FL-32703/1424717400/?ats=successfactors",
-   "locations": [
-    "Apopka, FL"
-   ],
-   "posted_at": 1788153912,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "rf (+2)"
-   ],
-   "first_seen": 1792764346,
-   "uid": "9b65c448166792ee"
   },
   {
    "source": "Simplify",
