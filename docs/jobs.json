@@ -1,7 +1,183 @@
 {
- "generated_at": 1793310983,
- "count": 542,
+ "generated_at": 1793324546,
+ "count": 547,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "SmartFlower Solar",
+   "title": "Embedded Systems Engineering Intern",
+   "url": "https://apply.workable.com/smartflower-solar-llc/j/240CCDA520/apply",
+   "locations": [
+    "Woburn, MA"
+   ],
+   "posted_at": 1793312726,
+   "terms": [
+    "Winter 2026",
+    "Spring 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "embedded (+1)",
+    "systems engineering (+1)"
+   ],
+   "first_seen": 1793324546,
+   "uid": "e2fd2aead7c6ac73"
+  },
+  {
+   "source": "Simplify",
+   "company": "Diversified Automation",
+   "title": "Hardware Engineering Co-op",
+   "url": "https://jobs.lever.co/diversified-automation/7a1f1890-bc5d-4e5e-a510-7fe7f85660d3/apply",
+   "locations": [
+    "Louisville, KY"
+   ],
+   "posted_at": 1793312039,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1786988749,
+   "uid": "8e240372f24bbcd8"
+  },
+  {
+   "source": "Simplify",
+   "company": "V2X",
+   "title": "Electrical Engineer Intern",
+   "url": "https://careers.gov2x.com/jobs/63854?icims=1",
+   "locations": [
+    "Indianapolis, IN"
+   ],
+   "posted_at": 1793305980,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1793324546,
+   "uid": "6d78ce314ec232c1"
+  },
+  {
+   "source": "Simplify",
+   "company": "Lunar Energy",
+   "title": "Hardware Test Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/lunarenergy/jobs/6237015004",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "posted_at": 1793300593,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "hardware (+2)",
+    "test engineer (+1)"
+   ],
+   "first_seen": 1793324546,
+   "uid": "2926bc71b5677a86"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hasbro",
+   "title": "Electrical Engineering Co-op",
+   "url": "https://job-boards.greenhouse.io/hasbro/jobs/4472128009",
+   "locations": [
+    "Boston, MA"
+   ],
+   "posted_at": 1793291284,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1793324546,
+   "uid": "06753770b0426e2a"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Electrical Engineering Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical-Engineering-Hardware-Intern--Summer-2027--Onsite-_01886126",
+   "locations": [
+    "Fort Wayne, IN"
+   ],
+   "posted_at": 1793232000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1793324546,
+   "uid": "328d61e145303be7"
+  },
+  {
+   "source": "Simplify",
+   "company": "Ciena",
+   "title": "Hardware Characterization Automation Co-op",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Characterization-Automation-Co-op--Winter-2027-_R032014",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1793232000,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 4,
+   "reasons": [
+    "hardware (+2)",
+    "characterization (+2)"
+   ],
+   "first_seen": 1793324546,
+   "uid": "7c37b63a8dbb99b3"
+  },
+  {
+   "source": "Simplify",
+   "company": "NVIDIA",
+   "title": "VLSI CAD Timing Intern - Applied AI",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799",
+   "locations": [
+    "Santa Clara, CA",
+    "United States"
+   ],
+   "posted_at": 1793232000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "vlsi (+3)"
+   ],
+   "first_seen": 1793324546,
+   "uid": "60b8ab70a0e3387f"
+  },
   {
    "source": "Simplify",
    "company": "Qualcomm",
@@ -7096,27 +7272,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Qualcomm",
-   "title": "Physical Mixed Layout Engineer Intern - Canada - Interim Engineering Intern - HW",
-   "url": "https://qualcomm.eightfold.ai/careers/job/446721142985",
-   "locations": [
-    "Toronto, ON, Canada"
-   ],
-   "posted_at": 1789683779,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "layout (+2)"
-   ],
-   "first_seen": 1789689303,
-   "uid": "b75c89e74bf899bb"
-  },
-  {
-   "source": "Simplify",
    "company": "Rivian",
    "title": "Engineering Intern/Co-op - Test and Validation - Charging Products",
    "url": "https://careers.rivian.com/jobs/33725?icims=1",
@@ -9906,29 +10061,6 @@
   {
    "source": "Simplify",
    "company": "Qorvo",
-   "title": "RF/Analog IC Design Intern",
-   "url": "https://careers.qorvo.com/job/Ft_-Lauderdale-RFAnalog-IC-Design-Intern-FL-33309/1421449000/?ats=successfactors",
-   "locations": [
-    "Fort Lauderdale, FL"
-   ],
-   "posted_at": 1788153917,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 7,
-   "reasons": [
-    "ic design (+3)",
-    "rf (+2)",
-    "analog (+2)"
-   ],
-   "first_seen": 1788532392,
-   "uid": "4afc4c771fa81c44"
-  },
-  {
-   "source": "Simplify",
-   "company": "Qorvo",
    "title": "Analog Design Engineer Intern",
    "url": "https://careers.qorvo.com/job/San-Jose-Analog-Design-Engineering-Intern-CA-95134/1424725600/?ats=successfactors",
    "locations": [
@@ -9993,28 +10125,6 @@
    ],
    "first_seen": 1788434053,
    "uid": "45b1695f96ff174a"
-  },
-  {
-   "source": "Simplify",
-   "company": "Qorvo",
-   "title": "Analog Design Intern",
-   "url": "https://careers.qorvo.com/job/Chandler-Analog-Design-Intern-AZ-85226/1421977600/?ats=successfactors",
-   "locations": [
-    "Chandler, AZ"
-   ],
-   "posted_at": 1788153914,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "analog design (+3)",
-    "analog (+2)"
-   ],
-   "first_seen": 1788158465,
-   "uid": "dae2ea3c7a35b94b"
   },
   {
    "source": "Simplify",
