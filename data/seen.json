@@ -1,5 +1,5 @@
 {
- "count": 941,
+ "count": 948,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -1513,6 +1513,12 @@
    "title": "Formal Verification Framework for Hardware IPs Validation Intern",
    "url": "https://jobs.apple.com/en-us/details/200688723"
   },
+  "41e832807f85a94b": {
+   "company": "Altera",
+   "first_seen": 1793402289,
+   "title": "FPGA Development Tools Intern",
+   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools---Intern_R03394"
+  },
   "42088ac2bcfe32e6": {
    "company": "Northwood Space",
    "first_seen": 1788434053,
@@ -1560,6 +1566,12 @@
    "first_seen": 1789519147,
    "title": "Physical Design and Timing Engineer Intern",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511"
+  },
+  "44532fd56cc7dd70": {
+   "company": "Qualcomm",
+   "first_seen": 1793402289,
+   "title": "Camera HW ASIC Verification Intern",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721829462"
   },
   "44c490b3afcb23e6": {
    "company": "Semtech",
@@ -2899,6 +2911,12 @@
    "title": "Compound Semiconductor Device Characterization Intern",
    "url": "https://jobs.keysight.com/jobs/54226?icims=1"
   },
+  "831031064c3b6668": {
+   "company": "Ciena",
+   "first_seen": 1793402289,
+   "title": "Mixed Signal Designer Intern",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-Canada/Mixed-Signal-Designer-Intern_R031989"
+  },
   "83230f6b3196b71f": {
    "company": "RTX",
    "first_seen": 1790710065,
@@ -3571,6 +3589,12 @@
    "title": "HBM Memory Design Engineer Intern - HBM",
    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821"
   },
+  "a341a92434415dca": {
+   "company": "RTX",
+   "first_seen": 1793402289,
+   "title": "Electrical Engineer Co-op - Winter/Spring 2027",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Electrical-Engineering-Co-op--Winter-Spring-2027-_01885823"
+  },
   "a42982da1f5ca77b": {
    "company": "Neuralink",
    "first_seen": 1788470444,
@@ -3888,6 +3912,12 @@
    "first_seen": 1788567479,
    "title": "Design for Test Intern",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Morrisville-NC/Design-for-Test-Intern--BS---Summer-2027_2604511-1"
+  },
+  "b23d037948783a91": {
+   "company": "Qualcomm",
+   "first_seen": 1793402289,
+   "title": "High-Speed Electrical and Optical Systems Validation Co-op Intern - Interim Engineering Intern - HW",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721874877"
   },
   "b28191660efca6c2": {
    "company": "Applied Materials",
@@ -4867,6 +4897,12 @@
    "title": "Hardware Engineer Intern",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101"
   },
+  "dc2ddd19fa25e6de": {
+   "company": "Altera",
+   "first_seen": 1793402289,
+   "title": "Hardware Design Engineer Intern",
+   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Hardware-Design-Engineer---Intern_R03367"
+  },
   "dc8733f903d1a078": {
    "company": "Marvell",
    "first_seen": 1791251675,
@@ -4986,6 +5022,12 @@
    "first_seen": 1792800201,
    "title": "AI Hardware Engineer Intern",
    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533"
+  },
+  "e0052b5a8d853cda": {
+   "company": "Nokia",
+   "first_seen": 1793402289,
+   "title": "Silicon Photonics Packaging Engineer Co-op",
+   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40848"
   },
   "e0445720849a0399": {
    "company": "Astera Labs",
@@ -5648,6 +5690,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1793389398,
- "runs": 690
+ "last_run": 1793402289,
+ "runs": 691
 }

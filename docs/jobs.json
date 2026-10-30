@@ -1,7 +1,74 @@
 {
- "generated_at": 1793389398,
- "count": 533,
+ "generated_at": 1793402289,
+ "count": 540,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Qualcomm",
+   "title": "Camera HW ASIC Verification Intern",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721829462",
+   "locations": [
+    "Vancouver, BC, Canada"
+   ],
+   "posted_at": 1793400189,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 7,
+   "reasons": [
+    "asic (+3)",
+    "verification (+2)",
+    "asic verification (+2)"
+   ],
+   "first_seen": 1793402289,
+   "uid": "44532fd56cc7dd70"
+  },
+  {
+   "source": "Simplify",
+   "company": "Qualcomm",
+   "title": "High-Speed Electrical and Optical Systems Validation Co-op Intern - Interim Engineering Intern - HW",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721874877",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1793400023,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "validation (+2)"
+   ],
+   "first_seen": 1793402289,
+   "uid": "b23d037948783a91"
+  },
+  {
+   "source": "Simplify",
+   "company": "Nokia",
+   "title": "Silicon Photonics Packaging Engineer Co-op",
+   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40848",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "posted_at": 1793399020,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "silicon (+3)",
+    "photonics (+2)"
+   ],
+   "first_seen": 1793402289,
+   "uid": "e0052b5a8d853cda"
+  },
   {
    "source": "Simplify",
    "company": "GlobalFoundries",
@@ -23,6 +90,92 @@
    ],
    "first_seen": 1793389398,
    "uid": "981cc5d57d58afbd"
+  },
+  {
+   "source": "Simplify",
+   "company": "Ciena",
+   "title": "Mixed Signal Designer Intern",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-Canada/Mixed-Signal-Designer-Intern_R031989",
+   "locations": [
+    "Remote in Canada"
+   ],
+   "posted_at": 1793318400,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "mixed signal (+3)"
+   ],
+   "first_seen": 1793402289,
+   "uid": "831031064c3b6668"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Electrical Engineer Co-op - Winter/Spring 2027",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Electrical-Engineering-Co-op--Winter-Spring-2027-_01885823",
+   "locations": [
+    "Cedar Rapids, IA"
+   ],
+   "posted_at": 1793318400,
+   "terms": [
+    "Winter 2027",
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1793402289,
+   "uid": "a341a92434415dca"
+  },
+  {
+   "source": "Simplify",
+   "company": "Altera",
+   "title": "FPGA Development Tools Intern",
+   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools---Intern_R03394",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1793318400,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "fpga (+3)"
+   ],
+   "first_seen": 1793402289,
+   "uid": "41e832807f85a94b"
+  },
+  {
+   "source": "Simplify",
+   "company": "Altera",
+   "title": "Hardware Design Engineer Intern",
+   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Hardware-Design-Engineer---Intern_R03367",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1793318400,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware design (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1793402289,
+   "uid": "dc2ddd19fa25e6de"
   },
   {
    "source": "Simplify",
@@ -4476,25 +4629,6 @@
    "uid": "adbb44c60676e978"
   },
   {
-   "source": "Greenhouse",
-   "company": "Rocket Lab",
-   "title": "RF Engineering Intern Summer 2027",
-   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8013277003",
-   "locations": [
-    "Long Beach, CA"
-   ],
-   "posted_at": 1791217668,
-   "terms": [],
-   "sponsorship": "",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "rf (+2)"
-   ],
-   "first_seen": 1789595598,
-   "uid": "c0fe312257faedd9"
-  },
-  {
    "source": "Simplify",
    "company": "BorgWarner",
    "title": "Electronics Hardware Design Intern",
@@ -6789,6 +6923,27 @@
    ],
    "first_seen": 1790052937,
    "uid": "c546bdc03e85173c"
+  },
+  {
+   "source": "Simplify",
+   "company": "Ciena",
+   "title": "ASIC Engineer Intern",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Engineer-Intern_R031750",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1790035200,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "asic (+3)"
+   ],
+   "first_seen": 1790120534,
+   "uid": "a9b9cd188efc16e7"
   },
   {
    "source": "Simplify",
