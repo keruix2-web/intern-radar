@@ -1,6 +1,6 @@
 {
- "generated_at": 1793346293,
- "count": 547,
+ "generated_at": 1793370922,
+ "count": 545,
  "jobs": [
   {
    "source": "Simplify",
@@ -3373,28 +3373,6 @@
    ],
    "first_seen": 1791693388,
    "uid": "cc661b9379a03e6f"
-  },
-  {
-   "source": "Simplify",
-   "company": "SharkNinja",
-   "title": "Electrical Engineering Co-op",
-   "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718702006",
-   "locations": [
-    "Needham, MA"
-   ],
-   "posted_at": 1791497519,
-   "terms": [
-    "Spring 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "electrical (+2)",
-    "electrical engineering (+2)"
-   ],
-   "first_seen": 1791693388,
-   "uid": "5e3229340cd67d49"
   },
   {
    "source": "Simplify",
@@ -7484,27 +7462,6 @@
    ],
    "first_seen": 1789535833,
    "uid": "481e20aa40075e17"
-  },
-  {
-   "source": "Simplify",
-   "company": "RTX",
-   "title": "Electrical Engineer Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-Intern_01874283",
-   "locations": [
-    "Tucson, AZ"
-   ],
-   "posted_at": 1789516800,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1790710065,
-   "uid": "2ca52d32fd83a407"
   },
   {
    "source": "Simplify",
