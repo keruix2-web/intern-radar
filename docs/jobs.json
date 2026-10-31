@@ -1,6 +1,6 @@
 {
- "generated_at": 1793414330,
- "count": 538,
+ "generated_at": 1793436846,
+ "count": 541,
  "jobs": [
   {
    "source": "Simplify",
@@ -785,6 +785,28 @@
    ],
    "first_seen": 1793063541,
    "uid": "5c8cc03a0e71d755"
+  },
+  {
+   "source": "Simplify",
+   "company": "Morph Labs",
+   "title": "Electrical Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/morph/jobs/4467369009",
+   "locations": [
+    "NYC"
+   ],
+   "posted_at": 1793030136,
+   "terms": [
+    "Winter 2026",
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1793436846,
+   "uid": "e0fdb217867ca473"
   },
   {
    "source": "Simplify",
@@ -3509,6 +3531,27 @@
   },
   {
    "source": "Simplify",
+   "company": "Peraton",
+   "title": "Electrical Engineer Intern",
+   "url": "https://peraton.jibeapply.com/jobs/172055?icims=1",
+   "locations": [
+    "Topeka, KS"
+   ],
+   "posted_at": 1791476280,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1793436846,
+   "uid": "9749f68459b6132f"
+  },
+  {
+   "source": "Simplify",
    "company": "Rugged Robotics",
    "title": "Electrical Engineer Intern Co-op",
    "url": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4724214005",
@@ -3641,6 +3684,30 @@
   },
   {
    "source": "Simplify",
+   "company": "Schneider Electric",
+   "title": "Electronics Hardware Engineer Co-op",
+   "url": "https://se.jibeapply.com/jobs/136319?icims=1",
+   "locations": [
+    "Raleigh, NC",
+    "Cedar Rapids, IA"
+   ],
+   "posted_at": 1791382560,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 7,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)",
+    "electronics (+2)"
+   ],
+   "first_seen": 1793436846,
+   "uid": "4290ea0fc1512f70"
+  },
+  {
+   "source": "Simplify",
    "company": "Tenstorrent",
    "title": "Hardware Intern - Architecture - AI HW & System on a Chip",
    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256691007",
@@ -3734,27 +3801,6 @@
    ],
    "first_seen": 1791693388,
    "uid": "7f602e434c5ad1cb"
-  },
-  {
-   "source": "Simplify",
-   "company": "RTX",
-   "title": "Electrical Engineer Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WH--2501-W-University-Dr--WING-H-BLDG/Electrical-Engineer-Intern--Summer2027--Onsite-_01880018",
-   "locations": [
-    "McKinney, TX"
-   ],
-   "posted_at": 1791331200,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1791416435,
-   "uid": "46ec433d09f11650"
   },
   {
    "source": "Simplify",
@@ -4322,27 +4368,6 @@
   },
   {
    "source": "Simplify",
-   "company": "RTX",
-   "title": "FPGA Engineer Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineering-Intern--Summer-2027--Onsite-_01880037",
-   "locations": [
-    "McKinney, TX"
-   ],
-   "posted_at": 1791244800,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "fpga (+3)"
-   ],
-   "first_seen": 1791331311,
-   "uid": "ebfab1a305395b25"
-  },
-  {
-   "source": "Simplify",
    "company": "Hewlett Packard Enterprise",
    "title": "Optical Engineering Intern",
    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Optical-Engineering-Intern_1214223",
@@ -4892,28 +4917,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Intel",
-   "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
-   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
-   "locations": [
-    "Toronto, ON, Canada"
-   ],
-   "posted_at": 1790899200,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware design (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1790992593,
-   "uid": "88802061d3e50c08"
-  },
-  {
-   "source": "Simplify",
    "company": "Hewlett Packard Enterprise",
    "title": "ASIC Engineer Intern",
    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Durham-North-Carolina-United-States-of-America/ASIC-Engineering-Intern_1214213",
@@ -4935,6 +4938,27 @@
   },
   {
    "source": "Simplify",
+   "company": "Cambridge Consultants",
+   "title": "Electronics Engineering Intern",
+   "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4988779101",
+   "locations": [
+    "United Kingdom"
+   ],
+   "posted_at": 1790862416,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electronics (+2)"
+   ],
+   "first_seen": 1793436846,
+   "uid": "3b26310991966b88"
+  },
+  {
+   "source": "Simplify",
    "company": "Varda Space",
    "title": "Avionics Engineering Intern",
    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010158003",
@@ -4953,6 +4977,29 @@
    ],
    "first_seen": 1790852756,
    "uid": "43982b8a897da137"
+  },
+  {
+   "source": "Simplify",
+   "company": "Cambridge Consultants",
+   "title": "Electronics Systems Engineering Intern",
+   "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4989420101",
+   "locations": [
+    "Cambridge, UK"
+   ],
+   "posted_at": 1790844702,
+   "terms": [
+    "Summer 2027",
+    "Fall 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 3,
+   "reasons": [
+    "electronics (+2)",
+    "systems engineering (+1)"
+   ],
+   "first_seen": 1793436846,
+   "uid": "4c7619f93fe1b0af"
   },
   {
    "source": "Simplify",
@@ -6424,6 +6471,29 @@
    ],
    "first_seen": 1790205059,
    "uid": "b7162342ea731b2a"
+  },
+  {
+   "source": "Simplify",
+   "company": "Schneider Electric",
+   "title": "Electronics Hardware Engineer Co-op",
+   "url": "https://se.jibeapply.com/jobs/134457?icims=1",
+   "locations": [
+    "Cedar Rapids, IA"
+   ],
+   "posted_at": 1790198520,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 7,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)",
+    "electronics (+2)"
+   ],
+   "first_seen": 1793436846,
+   "uid": "45c80c99c5882e53"
   },
   {
    "source": "Simplify",
